@@ -2,26 +2,18 @@
 
 Summer 2027 software, data, AI, product, quant and hardware internships in the U.S. Updated daily, closed roles marked.
 
-Summer 2027 tech internships in the U.S., newest first. The tables below are rebuilt every day from Aplyr's job index, which pulls postings straight from each company's own careers site, and anything we haven't seen listed there in the last 3 days is left out. Roles that close move to "Recently closed", so you can skip the dead links.
+Summer 2027 tech internships in the U.S., newest first. Big programs open a year early and fill on a rolling basis, so the first few weeks a role is up matter most.
 
-Not every company puts "Summer 2027" in the title. Large employers often post undated ones like "Research Intern - Machine Learning", so this list also includes internships posted this recruiting cycle (since July 2026) whose title doesn't name another term. Anything titled for fall, spring, winter, a co-op or another year is left out.
+## How to use this list
 
-Big programs open their summer cohorts early (often a full year ahead) and fill on a rolling basis. Applying in the first few weeks a role is up is the single biggest edge you have, so it's worth watching this repo.
-
-## Reading the tables
-
-- Each section is sorted by posting date, newest first. Applying in the first week a role is up gives you the best odds.
-- **Apply** opens the role on Aplyr with the full description, the pay range when the employer lists one, and a direct link to the employer's application.
-- **Pay** is shown only when the posting itself lists it.
+- **Apply** opens the role on Aplyr, with the full description and a link to the employer's application.
 - 🆕 added in the last 48 hours
 - `Sponsors visas` the company has sponsored H-1B visas before
 - `No sponsorship` the posting says it can’t sponsor a visa
 - `U.S. citizens` needs U.S. citizenship or a security clearance
-- Sponsorship is tracked per company. `Sponsors visas` means the employer has sponsored before, not that this role will, so ask the recruiter early.
-- When a role closes it moves to **Recently closed** for 14 days, then drops off.
-- Star the repo to find it again. It's rebuilt every day.
+- Closed roles move to **Recently closed** for 14 days.
 
-Spotted a closed role, a duplicate, or something that doesn't belong? Open an issue (see [CONTRIBUTING.md](CONTRIBUTING.md)). We read every one.
+Found a closed role or a mistake? [Open an issue](CONTRIBUTING.md).
 
 <!-- APLYR:LISTINGS:START -->
 <!-- Generated daily by scripts/generate.mjs. Edits inside these markers are overwritten. -->
@@ -444,4 +436,4 @@ Spotted a closed role, a duplicate, or something that doesn't belong? Open an is
 
 ---
 
-Listings come from [Aplyr](https://aplyr.ai/l/top-summer-2027-internships?utm_source=github&utm_medium=joblist&utm_campaign=summer-2027-internships&utm_content=readme)'s job index, which reads postings directly from employers' own careers sites and re-checks them every day. This repo isn't affiliated with or endorsed by the companies listed.
+Listings come from [Aplyr](https://aplyr.ai/l/top-summer-2027-internships?utm_source=github&utm_medium=joblist&utm_campaign=summer-2027-internships&utm_content=readme), straight from employers' own careers sites. Not affiliated with the companies listed.

@@ -351,7 +351,7 @@ function renderBlockWith(exp, state, nowMs, compact) {
   );
   out.push('');
   out.push(
-    '> We re-check every posting against the employer’s own careers site every day. Anything we haven’t seen listed there for 3 days is taken off.',
+    '> Every role here was live on the employer’s careers site within the last 3 days.',
   );
   out.push('');
   if (autopilot) out.push(`**Apply to all of these with Autopilot:** [set it up once on Aplyr](${autopilot}) and it applies for you as new roles open.`, '');
@@ -432,23 +432,19 @@ ${exp.description}
 
 ${exp.readmeIntro}
 
-## Reading the tables
+## How to use this list
 
-- Each section is sorted by posting date, newest first. Applying in the first week a role is up gives you the best odds.
-- **Apply** opens the role on Aplyr with the full description, the pay range when the employer lists one, and a direct link to the employer's application.
-- **Pay** is shown only when the posting itself lists it.
+- **Apply** opens the role on Aplyr, with the full description and a link to the employer's application.
 - ${LEGEND.map(([b, t]) => `${b} ${t}`).join('\n- ')}
-- Sponsorship is tracked per company. \`Sponsors visas\` means the employer has sponsored before, not that this role will, so ask the recruiter early.
-- When a role closes it moves to **${CLOSED_HEADING}** for ${CLOSED_RETENTION_DAYS} days, then drops off.
-- Star the repo to find it again. It's rebuilt every day.
+- Closed roles move to **${CLOSED_HEADING}** for ${CLOSED_RETENTION_DAYS} days.
 
-Spotted a closed role, a duplicate, or something that doesn't belong? Open an issue (see [CONTRIBUTING.md](CONTRIBUTING.md)). We read every one.
+Found a closed role or a mistake? [Open an issue](CONTRIBUTING.md).
 
 ${block}
 
 ---
 
-Listings come from [Aplyr](${page})'s job index, which reads postings directly from employers' own careers sites and re-checks them every day. This repo isn't affiliated with or endorsed by the companies listed.
+Listings come from [Aplyr](${page}), straight from employers' own careers sites. Not affiliated with the companies listed.
 `;
 }
 
