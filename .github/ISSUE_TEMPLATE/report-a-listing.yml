@@ -1,0 +1,33 @@
+name: Report a listing
+description: A role is closed, duplicated, mislabeled, or doesn't belong here.
+labels: ['listing']
+body:
+  - type: input
+    id: company
+    attributes:
+      label: Company
+    validations:
+      required: true
+  - type: input
+    id: role
+    attributes:
+      label: Role title
+    validations:
+      required: true
+  - type: dropdown
+    id: problem
+    attributes:
+      label: What's wrong?
+      options:
+        - Closed / broken link
+        - Duplicate
+        - Doesn't belong on this list
+        - Wrong sponsorship or citizenship badge
+        - Something else
+    validations:
+      required: true
+  - type: textarea
+    id: details
+    attributes:
+      label: Details
+      description: A link to the employer's own posting helps.
