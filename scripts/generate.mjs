@@ -342,7 +342,9 @@ function renderBlockWith(exp, state, nowMs, compact) {
   const closed = Object.values(state.closed);
   const companies = new Set(open.map((j) => j.company)).size;
   const autopilot = pageLink(exp, 'autopilotUrl', 'autopilot');
-  const alerts = pageLink(exp, 'alertsUrl', 'alerts', '#alerts');
+  // alertsUrl: null = public alert signup not live → no email link (older
+  // exports without the field fall back to the /l page anchor).
+  const alerts = exp.alertsUrl === null ? null : pageLink(exp, 'alertsUrl', 'alerts', '#alerts');
   const feed = safeUrl(exp.feedUrl);
   const out = [START, '<!-- Generated daily by scripts/generate.mjs. Edits inside these markers are overwritten. -->', ''];
 
