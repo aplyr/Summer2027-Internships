@@ -24,7 +24,7 @@ Found a closed role or a mistake? [Open an issue](CONTRIBUTING.md).
 
 **Apply to all of these with Autopilot:** [set it up once on Aplyr](https://aplyr.ai/l/top-summer-2027-internships?utm_source=github&utm_medium=joblist&utm_campaign=summer-2027-internships&utm_content=autopilot) and it applies for you as new roles open.
 
-**Get new roles by [RSS](https://aplyr.ai/api/public/job-lists/summer-2027-internships.xml)**, no account needed.
+**Get new roles by [email](https://aplyr.ai/l/top-summer-2027-internships?utm_source=github&utm_medium=joblist&utm_campaign=summer-2027-internships&utm_content=alerts#alerts)**, no account needed.
 
 ### This week
 

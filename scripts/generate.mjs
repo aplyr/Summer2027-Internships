@@ -345,7 +345,6 @@ function renderBlockWith(exp, state, nowMs, compact) {
   // alertsUrl: null = public alert signup not live → no email link (older
   // exports without the field fall back to the /l page anchor).
   const alerts = exp.alertsUrl === null ? null : pageLink(exp, 'alertsUrl', 'alerts', '#alerts');
-  const feed = safeUrl(exp.feedUrl);
   const out = [START, '<!-- Generated daily by scripts/generate.mjs. Edits inside these markers are overwritten. -->', ''];
 
   out.push(
@@ -357,8 +356,8 @@ function renderBlockWith(exp, state, nowMs, compact) {
   );
   out.push('');
   if (autopilot) out.push(`**Apply to all of these with Autopilot:** [set it up once on Aplyr](${autopilot}) and it applies for you as new roles open.`, '');
-  const subscribe = [alerts && `[email](${alerts})`, feed && `[RSS](${feed})`].filter(Boolean);
-  if (subscribe.length) out.push(`**Get new roles by ${subscribe.join(' or ')}**, no account needed.`, '');
+  // Owner 2026-10-18: no RSS line in the READMEs (the feed itself stays up).
+  if (alerts) out.push(`**Get new roles by [email](${alerts})**, no account needed.`, '');
 
   const week = weekSummary(open, nowMs);
   out.push(`### This week`, '');
