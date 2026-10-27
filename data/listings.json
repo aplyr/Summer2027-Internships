@@ -2,20 +2,421 @@
  "version": 1,
  "slug": "summer-2027-internships",
  "open": {
-  "northropgrumman.com::2027 software engineering intern beavercreek oh": {
-   "id": "5eb584fe2c42",
-   "company": "Northrop Grumman",
-   "companyUrl": "https://aplyr.ai/companies/northropgrumman?utm_source=github&utm_medium=joblist&utm_campaign=summer-2027-internships&utm_content=company",
-   "title": "2027 Software Engineering Intern - Beavercreek OH",
+  "micron.com::intern product yield software engineer": {
+   "id": "e680731e48e7",
+   "company": "Micron",
+   "companyUrl": "https://aplyr.ai/companies/micron?utm_source=github&utm_medium=joblist&utm_campaign=summer-2027-internships&utm_content=company",
+   "title": "Intern - Product Yield Software Engineer",
    "locations": [
-    "United States-Ohio-Beavercreek"
+    "Boise, ID - Main Site"
+   ],
+   "section": "swe",
+   "posted": "2026-10-27",
+   "added": "2026-10-27T18:20:53.000Z",
+   "url": "https://aplyr.ai/jobs/e680731e48e7/intern-product-yield-software-engineer?utm_source=github&utm_medium=joblist&utm_campaign=summer-2027-internships&utm_content=apply",
+   "sponsorsH1B": true,
+   "firstSeen": "2026-10-27"
+  },
+  "micron.com::intern hbm data scientist": {
+   "id": "9b6c2b950b44",
+   "company": "Micron",
+   "companyUrl": "https://aplyr.ai/companies/micron?utm_source=github&utm_medium=joblist&utm_campaign=summer-2027-internships&utm_content=company",
+   "title": "Intern - HBM Data Scientist",
+   "locations": [
+    "Richardson, TX"
+   ],
+   "section": "data",
+   "posted": "2026-10-27",
+   "added": "2026-10-27T18:20:53.000Z",
+   "url": "https://aplyr.ai/jobs/9b6c2b950b44/intern-hbm-data-scientist?utm_source=github&utm_medium=joblist&utm_campaign=summer-2027-internships&utm_content=apply",
+   "sponsorsH1B": true,
+   "firstSeen": "2026-10-27"
+  },
+  "micron.com::intern ai engineer platform": {
+   "id": "c69f4fd25325",
+   "company": "Micron",
+   "companyUrl": "https://aplyr.ai/companies/micron?utm_source=github&utm_medium=joblist&utm_campaign=summer-2027-internships&utm_content=company",
+   "title": "Intern - AI Engineer Platform",
+   "locations": [
+    "Boise, ID - Main Site"
+   ],
+   "section": "data",
+   "posted": "2026-10-27",
+   "added": "2026-10-27T18:20:53.000Z",
+   "url": "https://aplyr.ai/jobs/c69f4fd25325/intern-ai-engineer-platform?utm_source=github&utm_medium=joblist&utm_campaign=summer-2027-internships&utm_content=apply",
+   "sponsorsH1B": true,
+   "firstSeen": "2026-10-27"
+  },
+  "micron.com::intern ai product management mobile memory lpdram": {
+   "id": "ed8a345d4644",
+   "company": "Micron",
+   "companyUrl": "https://aplyr.ai/companies/micron?utm_source=github&utm_medium=joblist&utm_campaign=summer-2027-internships&utm_content=company",
+   "title": "Intern – AI & Product Management, Mobile Memory (LPDRAM)",
+   "locations": [
+    "San Jose, CA"
+   ],
+   "section": "data",
+   "posted": "2026-10-27",
+   "added": "2026-10-27T18:20:53.000Z",
+   "url": "https://aplyr.ai/jobs/ed8a345d4644/intern-ai-product-management-mobile-memory-lpdram?utm_source=github&utm_medium=joblist&utm_campaign=summer-2027-internships&utm_content=apply",
+   "sponsorsH1B": true,
+   "firstSeen": "2026-10-27"
+  },
+  "marvell.com::aiops forward deployment engineer intern bs summer 2027": {
+   "id": "5a85106bd4b2",
+   "company": "Marvell",
+   "companyUrl": "https://aplyr.ai/companies/marvell?utm_source=github&utm_medium=joblist&utm_campaign=summer-2027-internships&utm_content=company",
+   "title": "AIOps Forward Deployment Engineer Intern, BS - Summer 2027",
+   "locations": [
+    "Santa Clara, CA"
+   ],
+   "section": "data",
+   "posted": "2026-10-27",
+   "added": "2026-10-27T18:11:56.000Z",
+   "url": "https://aplyr.ai/jobs/5a85106bd4b2/aiops-forward-deployment-engineer-intern-bs-summer-2027?utm_source=github&utm_medium=joblist&utm_campaign=summer-2027-internships&utm_content=apply",
+   "sponsorsH1B": true,
+   "firstSeen": "2026-10-27"
+  },
+  "ptc.com::onshape sysops intern summer 2027": {
+   "id": "eee45e083ee1",
+   "company": "PTC",
+   "companyUrl": "https://aplyr.ai/companies/ptc?utm_source=github&utm_medium=joblist&utm_campaign=summer-2027-internships&utm_content=company",
+   "title": "Onshape SysOps Intern (Summer 2027)",
+   "locations": [
+    "Boston, MA"
+   ],
+   "section": "swe",
+   "posted": "2026-10-27",
+   "added": "2026-10-27T17:40:41.000Z",
+   "url": "https://aplyr.ai/jobs/eee45e083ee1/onshape-sysops-intern-summer-2027?utm_source=github&utm_medium=joblist&utm_campaign=summer-2027-internships&utm_content=apply",
+   "sponsorsH1B": true,
+   "firstSeen": "2026-10-27"
+  },
+  "ptc.com::onshape qa intern summer 2027": {
+   "id": "184ba0ac38ab",
+   "company": "PTC",
+   "companyUrl": "https://aplyr.ai/companies/ptc?utm_source=github&utm_medium=joblist&utm_campaign=summer-2027-internships&utm_content=company",
+   "title": "Onshape QA Intern (Summer 2027)",
+   "locations": [
+    "Boston, MA"
+   ],
+   "section": "swe",
+   "posted": "2026-10-27",
+   "added": "2026-10-27T17:40:41.000Z",
+   "url": "https://aplyr.ai/jobs/184ba0ac38ab/onshape-qa-intern-summer-2027?utm_source=github&utm_medium=joblist&utm_campaign=summer-2027-internships&utm_content=apply",
+   "sponsorsH1B": true,
+   "firstSeen": "2026-10-27"
+  },
+  "caci.com::software engineering intern summer 2027": {
+   "id": "00eda528bbc2",
+   "company": "CACI International",
+   "companyUrl": "https://aplyr.ai/companies/caci?utm_source=github&utm_medium=joblist&utm_campaign=summer-2027-internships&utm_content=company",
+   "title": "Software Engineering Intern - Summer 2027",
+   "locations": [
+    "Sarasota, FL"
+   ],
+   "section": "swe",
+   "posted": "2026-10-27",
+   "added": "2026-10-27T17:32:26.000Z",
+   "url": "https://aplyr.ai/jobs/00eda528bbc2/software-engineering-intern-summer-2027?utm_source=github&utm_medium=joblist&utm_campaign=summer-2027-internships&utm_content=apply",
+   "sponsorsH1B": true,
+   "firstSeen": "2026-10-17"
+  },
+  "carrier.com::quality engineering intern summer": {
+   "id": "9b9e3f4f8a0c",
+   "company": "Carrier",
+   "companyUrl": "https://aplyr.ai/companies/carrier?utm_source=github&utm_medium=joblist&utm_campaign=summer-2027-internships&utm_content=company",
+   "title": "Quality Engineering Intern - Summer",
+   "locations": [
+    "CAI23: Carrier-Indianapolis, 7310 West Morris Street, Indianapolis, IN, 46231 USA",
+    "CAN01: Carrier-Syracuse, 6304 Carrier Parkway, East Syracuse, NY, 13057 USA"
+   ],
+   "section": "swe",
+   "posted": "2026-10-27",
+   "added": "2026-10-27T06:45:43.000Z",
+   "url": "https://aplyr.ai/jobs/9b9e3f4f8a0c/quality-engineering-intern-summer?utm_source=github&utm_medium=joblist&utm_campaign=summer-2027-internships&utm_content=apply",
+   "sponsorsH1B": true,
+   "firstSeen": "2026-10-20"
+  },
+  "lockheedmartin.com::software engineer intern summer 2027": {
+   "id": "0d943d381c39",
+   "company": "Lockheed Martin",
+   "companyUrl": "https://aplyr.ai/companies/lockheedmartin?utm_source=github&utm_medium=joblist&utm_campaign=summer-2027-internships&utm_content=company",
+   "title": "Software Engineer Intern - Summer 2027",
+   "locations": [
+    "Huntsville, AL",
+    "King of Prussia, PA"
+   ],
+   "section": "swe",
+   "posted": "2026-10-27",
+   "added": "2026-10-27T11:33:48.000Z",
+   "url": "https://aplyr.ai/jobs/0d943d381c39/software-engineer-intern-summer-2027?utm_source=github&utm_medium=joblist&utm_campaign=summer-2027-internships&utm_content=apply",
+   "sponsorsH1B": true,
+   "firstSeen": "2026-10-19"
+  },
+  "hp.com::electrical engineering intern hardware summer 2027": {
+   "id": "4bd99de5e140",
+   "company": "HP IQ",
+   "companyUrl": "https://aplyr.ai/companies/hp?utm_source=github&utm_medium=joblist&utm_campaign=summer-2027-internships&utm_content=company",
+   "title": "Electrical Engineering Intern, Hardware (Summer 2027)",
+   "locations": [
+    "San Francisco, CA"
+   ],
+   "section": "hw",
+   "posted": "2026-10-27",
+   "added": "2026-10-27T06:15:27.000Z",
+   "url": "https://aplyr.ai/jobs/4bd99de5e140/electrical-engineering-intern-hardware-summer-2027?utm_source=github&utm_medium=joblist&utm_campaign=summer-2027-internships&utm_content=apply",
+   "sponsorsH1B": true,
+   "firstSeen": "2026-10-27"
+  },
+  "global.abb::product management intern drive products summer 2027": {
+   "id": "1de97582cd9e",
+   "company": "ABB",
+   "companyUrl": "https://aplyr.ai/companies/global?utm_source=github&utm_medium=joblist&utm_campaign=summer-2027-internships&utm_content=company",
+   "title": "Product Management Intern Drive Products - Summer 2027",
+   "locations": [
+    "New Berlin, Wisconsin"
+   ],
+   "section": "pm",
+   "posted": "2026-10-27",
+   "added": "2026-10-27T00:20:47.000Z",
+   "url": "https://aplyr.ai/jobs/1de97582cd9e/product-management-intern-drive-products-summer-2027?utm_source=github&utm_medium=joblist&utm_campaign=summer-2027-internships&utm_content=apply",
+   "sponsorsH1B": true,
+   "firstSeen": "2026-10-27"
+  },
+  "highmark.com::summer 2027 enterprise data governance engen undergraduate internship": {
+   "id": "e11ead4c1510",
+   "company": "Highmark Health",
+   "companyUrl": "https://aplyr.ai/companies/highmark?utm_source=github&utm_medium=joblist&utm_campaign=summer-2027-internships&utm_content=company",
+   "title": "Summer 2027 Enterprise Data Governance enGen Undergraduate Internship",
+   "locations": [
+    "Pittsburgh PA, 15222, PAP, Penn Avenue Place"
+   ],
+   "section": "data",
+   "posted": "2026-10-26",
+   "added": "2026-10-26T23:40:42.000Z",
+   "url": "https://aplyr.ai/jobs/e11ead4c1510/summer-2027-enterprise-data-governance-engen-undergraduate-internship?utm_source=github&utm_medium=joblist&utm_campaign=summer-2027-internships&utm_content=apply",
+   "firstSeen": "2026-10-27"
+  },
+  "highmark.com::summer 2027 digital operations business analyst engen undergraduate intern": {
+   "id": "b6ba3afb6b10",
+   "company": "Highmark Health",
+   "companyUrl": "https://aplyr.ai/companies/highmark?utm_source=github&utm_medium=joblist&utm_campaign=summer-2027-internships&utm_content=company",
+   "title": "Summer 2027 Digital Operations Business Analyst enGen Undergraduate Intern",
+   "locations": [
+    "Pittsburgh PA, 15222, PAP, Penn Avenue Place"
+   ],
+   "section": "data",
+   "posted": "2026-10-26",
+   "added": "2026-10-26T23:40:42.000Z",
+   "url": "https://aplyr.ai/jobs/b6ba3afb6b10/summer-2027-digital-operations-business-analyst-engen-undergraduate-intern?utm_source=github&utm_medium=joblist&utm_campaign=summer-2027-internships&utm_content=apply",
+   "firstSeen": "2026-10-27"
+  },
+  "highmark.com::summer 2027 epic systems analyst epic ai engen undergraduate internship": {
+   "id": "1a9a3db5ae31",
+   "company": "Highmark Health",
+   "companyUrl": "https://aplyr.ai/companies/highmark?utm_source=github&utm_medium=joblist&utm_campaign=summer-2027-internships&utm_content=company",
+   "title": "Summer 2027 Epic Systems Analyst / Epic AI enGen Undergraduate Internship",
+   "locations": [
+    "Pittsburgh PA, 15222, PAP, Penn Avenue Place"
    ],
    "section": "swe",
    "posted": "2026-10-26",
-   "added": "2026-10-26T19:01:07.000Z",
-   "url": "https://aplyr.ai/jobs/5eb584fe2c42/2027-software-engineering-intern-beavercreek-oh?utm_source=github&utm_medium=joblist&utm_campaign=summer-2027-internships&utm_content=apply",
+   "added": "2026-10-26T23:40:42.000Z",
+   "url": "https://aplyr.ai/jobs/1a9a3db5ae31/summer-2027-epic-systems-analyst-epic-ai-engen-undergraduate-internship?utm_source=github&utm_medium=joblist&utm_campaign=summer-2027-internships&utm_content=apply",
+   "firstSeen": "2026-10-27"
+  },
+  "highmark.com::summer 2027 data analyst engen undergraduate intern": {
+   "id": "019164989f21",
+   "company": "Highmark Health",
+   "companyUrl": "https://aplyr.ai/companies/highmark?utm_source=github&utm_medium=joblist&utm_campaign=summer-2027-internships&utm_content=company",
+   "title": "Summer 2027 Data Analyst enGen Undergraduate Intern",
+   "locations": [
+    "Pittsburgh PA, 15222, PAP, Penn Avenue Place"
+   ],
+   "section": "data",
+   "posted": "2026-10-26",
+   "added": "2026-10-26T23:40:42.000Z",
+   "url": "https://aplyr.ai/jobs/019164989f21/summer-2027-data-analyst-engen-undergraduate-intern?utm_source=github&utm_medium=joblist&utm_campaign=summer-2027-internships&utm_content=apply",
+   "firstSeen": "2026-10-27"
+  },
+  "fhlbi.com::business intelligence intern": {
+   "id": "4b9163e5dd53",
+   "company": "Federal Home Loan Bank of Indianapolis",
+   "companyUrl": "https://aplyr.ai/companies/fhlbi?utm_source=github&utm_medium=joblist&utm_campaign=summer-2027-internships&utm_content=company",
+   "title": "Business Intelligence Intern",
+   "locations": [
+    "Indianapolis"
+   ],
+   "section": "data",
+   "posted": "2026-10-26",
+   "added": "2026-10-26T23:00:50.000Z",
+   "url": "https://aplyr.ai/jobs/4b9163e5dd53/business-intelligence-intern?utm_source=github&utm_medium=joblist&utm_campaign=summer-2027-internships&utm_content=apply",
+   "firstSeen": "2026-10-27"
+  },
+  "icf.com::2027 summer intern software developer reston va": {
+   "id": "eafd2d729387",
+   "company": "ICF International",
+   "companyUrl": "https://aplyr.ai/companies/icf?utm_source=github&utm_medium=joblist&utm_campaign=summer-2027-internships&utm_content=company",
+   "title": "2027 Summer Intern, Software Developer (Reston, VA)",
+   "locations": [
+    "Reston, VA"
+   ],
+   "section": "swe",
+   "posted": "2026-10-26",
+   "added": "2026-10-26T22:51:15.000Z",
+   "url": "https://aplyr.ai/jobs/eafd2d729387/2027-summer-intern-software-developer-reston-va?utm_source=github&utm_medium=joblist&utm_campaign=summer-2027-internships&utm_content=apply",
    "sponsorsH1B": true,
-   "firstSeen": "2026-10-26"
+   "firstSeen": "2026-10-27"
+  },
+  "cencora.com::edi it software developer intern": {
+   "id": "ed3b8d32a762",
+   "company": "Cencora",
+   "companyUrl": "https://aplyr.ai/companies/cencora?utm_source=github&utm_medium=joblist&utm_campaign=summer-2027-internships&utm_content=company",
+   "title": "EDI IT Software Developer Intern",
+   "locations": [
+    "Conshohocken, PA"
+   ],
+   "section": "swe",
+   "posted": "2026-10-26",
+   "added": "2026-10-26T22:51:15.000Z",
+   "url": "https://aplyr.ai/jobs/ed3b8d32a762/edi-it-software-developer-intern?utm_source=github&utm_medium=joblist&utm_campaign=summer-2027-internships&utm_content=apply",
+   "firstSeen": "2026-10-27"
+  },
+  "cencora.com::ai intern": {
+   "id": "9ff6148da494",
+   "company": "Cencora",
+   "companyUrl": "https://aplyr.ai/companies/cencora?utm_source=github&utm_medium=joblist&utm_campaign=summer-2027-internships&utm_content=company",
+   "title": "AI Intern",
+   "locations": [
+    "Conshohocken, PA"
+   ],
+   "section": "data",
+   "posted": "2026-10-26",
+   "added": "2026-10-26T22:51:15.000Z",
+   "url": "https://aplyr.ai/jobs/9ff6148da494/ai-intern?utm_source=github&utm_medium=joblist&utm_campaign=summer-2027-internships&utm_content=apply",
+   "firstSeen": "2026-10-18"
+  },
+  "tri.global::robotics intern trustworthy learning under uncertainty": {
+   "id": "a76f404d0f1c",
+   "company": "Toyota Research Institute",
+   "companyUrl": "https://aplyr.ai/companies/tri?utm_source=github&utm_medium=joblist&utm_campaign=summer-2027-internships&utm_content=company",
+   "title": "Robotics Intern, Trustworthy Learning under Uncertainty",
+   "locations": [
+    "Los Altos, CA"
+   ],
+   "section": "data",
+   "posted": "2026-10-26",
+   "added": "2026-10-27T05:17:21.000Z",
+   "pay": "$45–65/hr",
+   "url": "https://aplyr.ai/jobs/a76f404d0f1c/robotics-intern-trustworthy-learning-under-uncertainty?utm_source=github&utm_medium=joblist&utm_campaign=summer-2027-internships&utm_content=apply",
+   "firstSeen": "2026-10-27"
+  },
+  "tri.global::robotics intern world foundation models": {
+   "id": "8393d2ba483c",
+   "company": "Toyota Research Institute",
+   "companyUrl": "https://aplyr.ai/companies/tri?utm_source=github&utm_medium=joblist&utm_campaign=summer-2027-internships&utm_content=company",
+   "title": "Robotics Intern, World Foundation Models",
+   "locations": [
+    "Los Altos, CA"
+   ],
+   "section": "data",
+   "posted": "2026-10-26",
+   "added": "2026-10-27T05:17:21.000Z",
+   "pay": "$45–65/hr",
+   "url": "https://aplyr.ai/jobs/8393d2ba483c/robotics-intern-world-foundation-models?utm_source=github&utm_medium=joblist&utm_campaign=summer-2027-internships&utm_content=apply",
+   "firstSeen": "2026-10-27"
+  },
+  "moveparallel.com::product management intern": {
+   "id": "916bdbf60535",
+   "company": "Parallel Systems",
+   "companyUrl": "https://aplyr.ai/companies/moveparallel?utm_source=github&utm_medium=joblist&utm_campaign=summer-2027-internships&utm_content=company",
+   "title": "Product Management Intern",
+   "locations": [
+    "Los Angeles, CA"
+   ],
+   "section": "pm",
+   "posted": "2026-10-26",
+   "added": "2026-10-27T07:00:37.000Z",
+   "pay": "$50/hr",
+   "url": "https://aplyr.ai/jobs/916bdbf60535/product-management-intern?utm_source=github&utm_medium=joblist&utm_campaign=summer-2027-internships&utm_content=apply",
+   "firstSeen": "2026-10-27"
+  },
+  "moveparallel.com::software engineering intern embedded backend fullstack": {
+   "id": "3ed4e33da905",
+   "company": "Parallel Systems",
+   "companyUrl": "https://aplyr.ai/companies/moveparallel?utm_source=github&utm_medium=joblist&utm_campaign=summer-2027-internships&utm_content=company",
+   "title": "Software Engineering Intern (Embedded, Backend, Fullstack)",
+   "locations": [
+    "Los Angeles, CA"
+   ],
+   "section": "swe",
+   "posted": "2026-10-26",
+   "added": "2026-10-27T07:00:37.000Z",
+   "pay": "$50/hr",
+   "url": "https://aplyr.ai/jobs/3ed4e33da905/software-engineering-intern-embedded-backend-fullstack?utm_source=github&utm_medium=joblist&utm_campaign=summer-2027-internships&utm_content=apply",
+   "firstSeen": "2026-10-27"
+  },
+  "moveparallel.com::hardware engineering intern mechanical electrical": {
+   "id": "21c30690d8eb",
+   "company": "Parallel Systems",
+   "companyUrl": "https://aplyr.ai/companies/moveparallel?utm_source=github&utm_medium=joblist&utm_campaign=summer-2027-internships&utm_content=company",
+   "title": "Hardware Engineering Intern (Mechanical & Electrical)",
+   "locations": [
+    "Los Angeles, CA"
+   ],
+   "section": "hw",
+   "posted": "2026-10-26",
+   "added": "2026-10-27T07:00:37.000Z",
+   "pay": "$50/hr",
+   "url": "https://aplyr.ai/jobs/21c30690d8eb/hardware-engineering-intern-mechanical-electrical?utm_source=github&utm_medium=joblist&utm_campaign=summer-2027-internships&utm_content=apply",
+   "firstSeen": "2026-10-27"
+  },
+  "tri.global::robotics intern post training and continual learning": {
+   "id": "62a8aae5b2c3",
+   "company": "Toyota Research Institute",
+   "companyUrl": "https://aplyr.ai/companies/tri?utm_source=github&utm_medium=joblist&utm_campaign=summer-2027-internships&utm_content=company",
+   "title": "Robotics Intern, Post-Training and Continual Learning",
+   "locations": [
+    "Los Altos, CA"
+   ],
+   "section": "data",
+   "posted": "2026-10-26",
+   "added": "2026-10-27T05:17:21.000Z",
+   "pay": "$45–65/hr",
+   "url": "https://aplyr.ai/jobs/62a8aae5b2c3/robotics-intern-post-training-and-continual-learning?utm_source=github&utm_medium=joblist&utm_campaign=summer-2027-internships&utm_content=apply",
+   "firstSeen": "2026-10-27"
+  },
+  "glean.com::software engineer intern summer 2027": {
+   "id": "dc17cea8f9db",
+   "company": "Glean",
+   "companyUrl": "https://aplyr.ai/companies/glean?utm_source=github&utm_medium=joblist&utm_campaign=summer-2027-internships&utm_content=company",
+   "title": "Software Engineer, Intern (Summer 2027)",
+   "locations": [
+    "Mountain View, CA"
+   ],
+   "section": "swe",
+   "posted": "2026-10-26",
+   "added": "2026-10-27T06:00:35.000Z",
+   "pay": "$57–69/hr",
+   "url": "https://aplyr.ai/jobs/dc17cea8f9db/software-engineer-intern-summer-2027?utm_source=github&utm_medium=joblist&utm_campaign=summer-2027-internships&utm_content=apply",
+   "firstSeen": "2026-10-27"
+  },
+  "abbvie.com::2027 business technology solutions intern cybersecurity undergraduate": {
+   "id": "651c3ef812d2",
+   "company": "AbbVie",
+   "companyUrl": "https://aplyr.ai/companies/abbvie?utm_source=github&utm_medium=joblist&utm_campaign=summer-2027-internships&utm_content=company",
+   "title": "2027 Business Technology Solutions Intern - Cybersecurity (Undergraduate)",
+   "locations": [
+    "North Chicago"
+   ],
+   "section": "swe",
+   "posted": "2026-10-26",
+   "added": "2026-10-27T05:48:45.000Z",
+   "pay": "$21–37.8/hr",
+   "url": "https://aplyr.ai/jobs/651c3ef812d2/2027-business-technology-solutions-intern-cybersecurity-undergraduate?utm_source=github&utm_medium=joblist&utm_campaign=summer-2027-internships&utm_content=apply",
+   "sponsorsH1B": true,
+   "firstSeen": "2026-10-18"
   },
   "marvell.com::signal and power integrity intern ms summer 2027": {
    "id": "cec501f6a629",
@@ -62,33 +463,52 @@
    "sponsorsH1B": true,
    "firstSeen": "2026-10-26"
   },
-  "cox.com::cybersecurity intern summer 2027": {
-   "id": "436ed85c74c9",
-   "company": "Cox Enterprises",
-   "companyUrl": "https://aplyr.ai/companies/cox?utm_source=github&utm_medium=joblist&utm_campaign=summer-2027-internships&utm_content=company",
-   "title": "Cybersecurity Intern - Summer 2027",
+  "lockheedmartin.com::software engineer intern": {
+   "id": "d8bcfa4504a6",
+   "company": "Lockheed Martin",
+   "companyUrl": "https://aplyr.ai/companies/lockheedmartin?utm_source=github&utm_medium=joblist&utm_campaign=summer-2027-internships&utm_content=company",
+   "title": "Software Engineer-Intern",
    "locations": [
-    "Atlanta GA"
+    "Huntsville, AL",
+    "King of Prussia, PA",
+    "Marietta, GA"
    ],
    "section": "swe",
    "posted": "2026-10-26",
-   "added": "2026-10-26T17:33:11.000Z",
-   "url": "https://aplyr.ai/jobs/436ed85c74c9/cybersecurity-intern-summer-2027?utm_source=github&utm_medium=joblist&utm_campaign=summer-2027-internships&utm_content=apply",
-   "firstSeen": "2026-10-26"
+   "added": "2026-10-27T11:33:48.000Z",
+   "url": "https://aplyr.ai/jobs/d8bcfa4504a6/software-engineer-intern?utm_source=github&utm_medium=joblist&utm_campaign=summer-2027-internships&utm_content=apply",
+   "sponsorsH1B": true,
+   "firstSeen": "2026-10-19"
   },
-  "cox.com::software engineering intern summer 2027 atlanta ga": {
-   "id": "e7146b0e10d4",
-   "company": "Cox Enterprises",
-   "companyUrl": "https://aplyr.ai/companies/cox?utm_source=github&utm_medium=joblist&utm_campaign=summer-2027-internships&utm_content=company",
-   "title": "Software Engineering Intern - Summer 2027 (Atlanta, GA)",
+  "lockheedmartin.com::test intern": {
+   "id": "703e072d180a",
+   "company": "Lockheed Martin",
+   "companyUrl": "https://aplyr.ai/companies/lockheedmartin?utm_source=github&utm_medium=joblist&utm_campaign=summer-2027-internships&utm_content=company",
+   "title": "Test-Intern",
    "locations": [
-    "Atlanta GA"
+    "Huntsville, AL"
    ],
    "section": "swe",
    "posted": "2026-10-26",
-   "added": "2026-10-26T17:33:11.000Z",
-   "url": "https://aplyr.ai/jobs/e7146b0e10d4/software-engineering-intern-summer-2027-atlanta-ga?utm_source=github&utm_medium=joblist&utm_campaign=summer-2027-internships&utm_content=apply",
-   "firstSeen": "2026-10-26"
+   "added": "2026-10-27T11:33:48.000Z",
+   "url": "https://aplyr.ai/jobs/703e072d180a/test-intern?utm_source=github&utm_medium=joblist&utm_campaign=summer-2027-internships&utm_content=apply",
+   "sponsorsH1B": true,
+   "firstSeen": "2026-10-27"
+  },
+  "lockheedmartin.com::systems engineering it intern": {
+   "id": "6d459660ee02",
+   "company": "Lockheed Martin",
+   "companyUrl": "https://aplyr.ai/companies/lockheedmartin?utm_source=github&utm_medium=joblist&utm_campaign=summer-2027-internships&utm_content=company",
+   "title": "Systems Engineering/IT-Intern",
+   "locations": [
+    "Huntsville, AL"
+   ],
+   "section": "swe",
+   "posted": "2026-10-26",
+   "added": "2026-10-27T11:33:48.000Z",
+   "url": "https://aplyr.ai/jobs/6d459660ee02/systems-engineeringit-intern?utm_source=github&utm_medium=joblist&utm_campaign=summer-2027-internships&utm_content=apply",
+   "sponsorsH1B": true,
+   "firstSeen": "2026-10-27"
   },
   "cvshealth.com::innovation technology internship data engineering summer 2027 undergraduate": {
    "id": "477474fe9088",
@@ -106,6 +526,66 @@
    "sponsorsH1B": true,
    "firstSeen": "2026-10-23"
   },
+  "lockheedmartin.com::information technology intern": {
+   "id": "187c841a41f6",
+   "company": "Lockheed Martin",
+   "companyUrl": "https://aplyr.ai/companies/lockheedmartin?utm_source=github&utm_medium=joblist&utm_campaign=summer-2027-internships&utm_content=company",
+   "title": "Information Technology-Intern",
+   "locations": [
+    "Huntsville, AL"
+   ],
+   "section": "swe",
+   "posted": "2026-10-26",
+   "added": "2026-10-27T11:33:48.000Z",
+   "url": "https://aplyr.ai/jobs/187c841a41f6/information-technology-intern?utm_source=github&utm_medium=joblist&utm_campaign=summer-2027-internships&utm_content=apply",
+   "sponsorsH1B": true,
+   "firstSeen": "2026-10-27"
+  },
+  "lockheedmartin.com::quality engineer intern college student technical": {
+   "id": "8d553e386089",
+   "company": "Lockheed Martin",
+   "companyUrl": "https://aplyr.ai/companies/lockheedmartin?utm_source=github&utm_medium=joblist&utm_campaign=summer-2027-internships&utm_content=company",
+   "title": "Quality Engineer Intern (College Student - Technical)",
+   "locations": [
+    "Troy, AL"
+   ],
+   "section": "swe",
+   "posted": "2026-10-26",
+   "added": "2026-10-27T11:33:48.000Z",
+   "url": "https://aplyr.ai/jobs/8d553e386089/quality-engineer-intern-college-student-technical?utm_source=github&utm_medium=joblist&utm_campaign=summer-2027-internships&utm_content=apply",
+   "sponsorsH1B": true,
+   "firstSeen": "2026-10-27"
+  },
+  "skydio.com::autonomy engineer intern reinforcement learning 2027 hq": {
+   "id": "48b40b3d950a",
+   "company": "Skydio",
+   "companyUrl": "https://aplyr.ai/companies/skydio?utm_source=github&utm_medium=joblist&utm_campaign=summer-2027-internships&utm_content=company",
+   "title": "Autonomy Engineer Intern, Reinforcement Learning, 2027 (HQ)",
+   "locations": [
+    "San Mateo, California"
+   ],
+   "section": "data",
+   "posted": "2026-10-26",
+   "added": "2026-10-27T09:45:50.000Z",
+   "pay": "$47–70/hr",
+   "url": "https://aplyr.ai/jobs/48b40b3d950a/autonomy-engineer-intern-reinforcement-learning-2027-hq?utm_source=github&utm_medium=joblist&utm_campaign=summer-2027-internships&utm_content=apply",
+   "firstSeen": "2026-10-27"
+  },
+  "catalent.com::2027 intern qa qms": {
+   "id": "25c5e1ece9f0",
+   "company": "Catalent",
+   "companyUrl": "https://aplyr.ai/companies/catalent?utm_source=github&utm_medium=joblist&utm_campaign=summer-2027-internships&utm_content=company",
+   "title": "2027 Intern - QA, QMS",
+   "locations": [
+    "Madison, WI"
+   ],
+   "section": "swe",
+   "posted": "2026-10-26",
+   "added": "2026-10-26T22:40:42.000Z",
+   "url": "https://aplyr.ai/jobs/25c5e1ece9f0/2027-intern-qa-qms?utm_source=github&utm_medium=joblist&utm_campaign=summer-2027-internships&utm_content=apply",
+   "sponsorsH1B": true,
+   "firstSeen": "2026-10-27"
+  },
   "catalent.com::2027 intern it": {
    "id": "b75cad081abf",
    "company": "Catalent",
@@ -121,21 +601,170 @@
    "sponsorsH1B": true,
    "firstSeen": "2026-10-26"
   },
-  "lockheedmartin.com::software engineer intern summer 2027": {
-   "id": "e464bdd3fae9",
-   "company": "Lockheed Martin",
-   "companyUrl": "https://aplyr.ai/companies/lockheedmartin?utm_source=github&utm_medium=joblist&utm_campaign=summer-2027-internships&utm_content=company",
-   "title": "Software Engineer Intern - Summer 2027",
+  "appliedmaterials.com::2027 summer electrical engineering intern bs or ms gloucester ma": {
+   "id": "857b0318a57d",
+   "company": "Applied Materials",
+   "companyUrl": "https://aplyr.ai/companies/appliedmaterials?utm_source=github&utm_medium=joblist&utm_campaign=summer-2027-internships&utm_content=company",
+   "title": "2027 Summer Electrical Engineering Intern - BS or MS (Gloucester, MA)",
    "locations": [
-    "Huntsville, AL",
-    "King of Prussia, PA"
+    "Gloucester,MA"
+   ],
+   "section": "hw",
+   "posted": "2026-10-26",
+   "added": "2026-10-27T12:30:19.000Z",
+   "url": "https://aplyr.ai/jobs/857b0318a57d/2027-summer-electrical-engineering-intern-bs-or-ms-gloucester-ma?utm_source=github&utm_medium=joblist&utm_campaign=summer-2027-internships&utm_content=apply",
+   "sponsorsH1B": true,
+   "firstSeen": "2026-10-27"
+  },
+  "xcelenergy.com::residential energy product strategy intern mn": {
+   "id": "a7063549049d",
+   "company": "Xcel Energy",
+   "companyUrl": "https://aplyr.ai/companies/xcelenergy?utm_source=github&utm_medium=joblist&utm_campaign=summer-2027-internships&utm_content=company",
+   "title": "Residential Energy Product Strategy Intern - MN",
+   "locations": [
+    "Minneapolis, MN, 55401"
+   ],
+   "section": "pm",
+   "posted": "2026-10-26",
+   "added": "2026-10-26T20:30:34.000Z",
+   "url": "https://aplyr.ai/jobs/a7063549049d/residential-energy-product-strategy-intern-mn?utm_source=github&utm_medium=joblist&utm_campaign=summer-2027-internships&utm_content=apply",
+   "sponsorsH1B": true,
+   "firstSeen": "2026-10-27"
+  },
+  "hpe.com::hardware engineering intern": {
+   "id": "29ad58c91533",
+   "company": "HPE",
+   "companyUrl": "https://aplyr.ai/companies/hpe?utm_source=github&utm_medium=joblist&utm_campaign=summer-2027-internships&utm_content=company",
+   "title": "Hardware Engineering Intern",
+   "locations": [
+    "Sunnyvale, California"
+   ],
+   "section": "hw",
+   "posted": "2026-10-26",
+   "added": "2026-10-27T09:30:26.000Z",
+   "url": "https://aplyr.ai/jobs/29ad58c91533/hardware-engineering-intern?utm_source=github&utm_medium=joblist&utm_campaign=summer-2027-internships&utm_content=apply",
+   "sponsorsH1B": true,
+   "firstSeen": "2026-10-17"
+  },
+  "boozallen.com::university 2027 summer games software developer intern albuquerque nm": {
+   "id": "e9f219ae1f8e",
+   "company": "Booz Allen Hamilton",
+   "companyUrl": "https://aplyr.ai/companies/boozallen?utm_source=github&utm_medium=joblist&utm_campaign=summer-2027-internships&utm_content=company",
+   "title": "University - 2027 Summer Games Software Developer Intern - Albuquerque, NM",
+   "locations": [
+    "Albuquerque, NM"
    ],
    "section": "swe",
    "posted": "2026-10-26",
-   "added": "2026-10-26T11:33:34.000Z",
-   "url": "https://aplyr.ai/jobs/e464bdd3fae9/software-engineer-intern-summer-2027?utm_source=github&utm_medium=joblist&utm_campaign=summer-2027-internships&utm_content=apply",
+   "added": "2026-10-27T08:45:18.000Z",
+   "url": "https://aplyr.ai/jobs/e9f219ae1f8e/university-2027-summer-games-software-developer-intern-albuquerque-nm?utm_source=github&utm_medium=joblist&utm_campaign=summer-2027-internships&utm_content=apply",
    "sponsorsH1B": true,
-   "firstSeen": "2026-10-19"
+   "firstSeen": "2026-10-27"
+  },
+  "boozallen.com::university 2027 summer games data scientist intern lexington ma": {
+   "id": "2a226ab0c0cc",
+   "company": "Booz Allen Hamilton",
+   "companyUrl": "https://aplyr.ai/companies/boozallen?utm_source=github&utm_medium=joblist&utm_campaign=summer-2027-internships&utm_content=company",
+   "title": "University - 2027 Summer Games Data Scientist Intern - Lexington, MA",
+   "locations": [
+    "Lexington, MA"
+   ],
+   "section": "data",
+   "posted": "2026-10-26",
+   "added": "2026-10-26T19:30:58.000Z",
+   "url": "https://aplyr.ai/jobs/2a226ab0c0cc/university-2027-summer-games-data-scientist-intern-lexington-ma?utm_source=github&utm_medium=joblist&utm_campaign=summer-2027-internships&utm_content=apply",
+   "sponsorsH1B": true,
+   "firstSeen": "2026-10-27"
+  },
+  "boozallen.com::university 2027 summer games cyber security intern lexington ma": {
+   "id": "191148bea975",
+   "company": "Booz Allen Hamilton",
+   "companyUrl": "https://aplyr.ai/companies/boozallen?utm_source=github&utm_medium=joblist&utm_campaign=summer-2027-internships&utm_content=company",
+   "title": "University - 2027 Summer Games Cyber Security Intern - Lexington, MA",
+   "locations": [
+    "Lexington, MA"
+   ],
+   "section": "swe",
+   "posted": "2026-10-26",
+   "added": "2026-10-26T19:30:58.000Z",
+   "url": "https://aplyr.ai/jobs/191148bea975/university-2027-summer-games-cyber-security-intern-lexington-ma?utm_source=github&utm_medium=joblist&utm_campaign=summer-2027-internships&utm_content=apply",
+   "sponsorsH1B": true,
+   "firstSeen": "2026-10-27"
+  },
+  "boozallen.com::university 2027 summer games software developer intern dayton oh": {
+   "id": "dc8c05c307a8",
+   "company": "Booz Allen Hamilton",
+   "companyUrl": "https://aplyr.ai/companies/boozallen?utm_source=github&utm_medium=joblist&utm_campaign=summer-2027-internships&utm_content=company",
+   "title": "University - 2027 Summer Games Software Developer Intern - Dayton, OH",
+   "locations": [
+    "Dayton, OH"
+   ],
+   "section": "swe",
+   "posted": "2026-10-26",
+   "added": "2026-10-27T08:45:18.000Z",
+   "url": "https://aplyr.ai/jobs/dc8c05c307a8/university-2027-summer-games-software-developer-intern-dayton-oh?utm_source=github&utm_medium=joblist&utm_campaign=summer-2027-internships&utm_content=apply",
+   "sponsorsH1B": true,
+   "firstSeen": "2026-10-27"
+  },
+  "boozallen.com::university 2027 summer games software developer intern royal oaks mi": {
+   "id": "cdaf47f314fd",
+   "company": "Booz Allen Hamilton",
+   "companyUrl": "https://aplyr.ai/companies/boozallen?utm_source=github&utm_medium=joblist&utm_campaign=summer-2027-internships&utm_content=company",
+   "title": "University - 2027 Summer Games Software Developer Intern - Royal Oaks, MI",
+   "locations": [
+    "Detroit, MI"
+   ],
+   "section": "swe",
+   "posted": "2026-10-26",
+   "added": "2026-10-27T08:45:18.000Z",
+   "url": "https://aplyr.ai/jobs/cdaf47f314fd/university-2027-summer-games-software-developer-intern-royal-oaks-mi?utm_source=github&utm_medium=joblist&utm_campaign=summer-2027-internships&utm_content=apply",
+   "sponsorsH1B": true,
+   "firstSeen": "2026-10-27"
+  },
+  "northropgrumman.com::2027 software engineering intern beavercreek oh": {
+   "id": "5eb584fe2c42",
+   "company": "Northrop Grumman",
+   "companyUrl": "https://aplyr.ai/companies/northropgrumman?utm_source=github&utm_medium=joblist&utm_campaign=summer-2027-internships&utm_content=company",
+   "title": "2027 Software Engineering Intern - Beavercreek OH",
+   "locations": [
+    "United States-Ohio-Beavercreek"
+   ],
+   "section": "swe",
+   "posted": "2026-10-26",
+   "added": "2026-10-26T19:01:07.000Z",
+   "url": "https://aplyr.ai/jobs/5eb584fe2c42/2027-software-engineering-intern-beavercreek-oh?utm_source=github&utm_medium=joblist&utm_campaign=summer-2027-internships&utm_content=apply",
+   "sponsorsH1B": true,
+   "firstSeen": "2026-10-26"
+  },
+  "rtx.com::software engineering intern summer 2027": {
+   "id": "1644400bfe2d",
+   "company": "RTX/Raytheon",
+   "companyUrl": "https://aplyr.ai/companies/rtx?utm_source=github&utm_medium=joblist&utm_campaign=summer-2027-internships&utm_content=company",
+   "title": "Software Engineering Intern (Summer 2027)",
+   "locations": [
+    "US-CA-SAN DIEGO-SD1 ~ 8650 Balboa Ave ~ SAN ANTONIO BLDG",
+    "US-CO-AURORA-S77 ~ 16470 E Hughes Dr ~ BLDG S77"
+   ],
+   "section": "swe",
+   "posted": "2026-10-26",
+   "added": "2026-10-27T08:00:54.000Z",
+   "url": "https://aplyr.ai/jobs/1644400bfe2d/software-engineering-intern-summer-2027?utm_source=github&utm_medium=joblist&utm_campaign=summer-2027-internships&utm_content=apply",
+   "sponsorsH1B": true,
+   "firstSeen": "2026-10-18"
+  },
+  "apog.com::summer intern maintenance electrical engineer": {
+   "id": "e1cda8e1ae4c",
+   "company": "Apogee",
+   "companyUrl": "https://aplyr.ai/companies/apog?utm_source=github&utm_medium=joblist&utm_campaign=summer-2027-internships&utm_content=company",
+   "title": "Summer Intern - Maintenance/Electrical Engineer",
+   "locations": [
+    "Faribault, MN"
+   ],
+   "section": "hw",
+   "posted": "2026-10-26",
+   "added": "2026-10-27T00:11:17.000Z",
+   "url": "https://aplyr.ai/jobs/e1cda8e1ae4c/summer-intern-maintenanceelectrical-engineer?utm_source=github&utm_medium=joblist&utm_campaign=summer-2027-internships&utm_content=apply",
+   "firstSeen": "2026-10-27"
   },
   "genpt.com::product pricing analytics intern summer 2027": {
    "id": "08578b32a3cf",
@@ -150,6 +779,266 @@
    "added": "2026-10-26T00:50:49.000Z",
    "url": "https://aplyr.ai/jobs/08578b32a3cf/product-pricing-analytics-intern-summer-2027?utm_source=github&utm_medium=joblist&utm_campaign=summer-2027-internships&utm_content=apply",
    "firstSeen": "2026-10-24"
+  },
+  "genpt.com::microsoft sql server dba intern": {
+   "id": "b8c288d7030c",
+   "company": "Genuine Parts Company",
+   "companyUrl": "https://aplyr.ai/companies/genpt?utm_source=github&utm_medium=joblist&utm_campaign=summer-2027-internships&utm_content=company",
+   "title": "Microsoft SQL Server DBA Intern",
+   "locations": [
+    "Birmingham, AL"
+   ],
+   "section": "swe",
+   "posted": "2026-10-26",
+   "added": "2026-10-27T00:50:54.000Z",
+   "url": "https://aplyr.ai/jobs/b8c288d7030c/microsoft-sql-server-dba-intern?utm_source=github&utm_medium=joblist&utm_campaign=summer-2027-internships&utm_content=apply",
+   "firstSeen": "2026-10-27"
+  },
+  "cohesity.com::software engineering intern summer 2027": {
+   "id": "dd78eb0792cc",
+   "company": "Cohesity",
+   "companyUrl": "https://aplyr.ai/companies/cohesity?utm_source=github&utm_medium=joblist&utm_campaign=summer-2027-internships&utm_content=company",
+   "title": "Software Engineering Intern (Summer 2027)",
+   "locations": [
+    "Santa Clara, CA - USA (Office)"
+   ],
+   "section": "swe",
+   "posted": "2026-10-26",
+   "added": "2026-10-26T23:50:44.000Z",
+   "url": "https://aplyr.ai/jobs/dd78eb0792cc/software-engineering-intern-summer-2027?utm_source=github&utm_medium=joblist&utm_campaign=summer-2027-internships&utm_content=apply",
+   "sponsorsH1B": true,
+   "firstSeen": "2026-10-27"
+  },
+  "highmark.com::summer 2027 provider delivery software engineer engen undergraduate intern": {
+   "id": "c848d6fe18d0",
+   "company": "Highmark Health",
+   "companyUrl": "https://aplyr.ai/companies/highmark?utm_source=github&utm_medium=joblist&utm_campaign=summer-2027-internships&utm_content=company",
+   "title": "Summer 2027 Provider Delivery Software Engineer enGen Undergraduate Intern",
+   "locations": [
+    "PA, Working at Home - Pennsylvania",
+    "MD, Working at Home - Maryland",
+    "WA, Working at Home - Washington",
+    "NC, Working at Home - N Carolina",
+    "LA, Working at Home - Louisiana",
+    "KY, Working at Home - Kentucky",
+    "KS, Working at Home - Kansas",
+    "IN, Working at Home - Indiana",
+    "IL, Working at Home - Illinois",
+    "GA, Working at Home - Georgia",
+    "IA, Working at Home - Iowa",
+    "FL, Working at Home - Florida",
+    "CO, Working at Home - Colorado",
+    "CA, Working at Home - California",
+    "DE, Working at Home - Delaware",
+    "Work From Anywhere",
+    "CT, Working at Home - Conneticut",
+    "AR, Working at Home - Arkansas",
+    "AZ, Working at Home - Arizona",
+    "AL, Working at Home - Alabama",
+    "AK, Working at Home - Alaska",
+    "NV, Working at Home - Nevada",
+    "VT, Working at Home - Vermont",
+    "ID, Working at Home - Idaho",
+    "TN, Working at Home -Tennessee",
+    "OK, Working at Home - Oklahoma",
+    "HI, Working at Home - Hawaii",
+    "MS, Working at Home - Mississippi",
+    "UT, Working at Home - Utah",
+    "NH, Working at Home - New Hampshire",
+    "NM, Working at Home - New Mexico",
+    "WY, Working at Home - Wyoming",
+    "ND, Working at Home - North Dakota",
+    "SD, Working at Home-South Dakota",
+    "RI, Working at Home - Rhode Island",
+    "WV, Working at Home - W Virginia",
+    "MO, Working at Home - Montana",
+    "TX, Working at Home - Texas",
+    "DC, Working at Home - Dist of Col",
+    "OH, Working at Home - Ohio",
+    "NJ, Working at Home - New Jersey",
+    "OR, Working at Home - Oregon",
+    "SC, Working at Home-South Carolina",
+    "MO, Working at Home - Missouri",
+    "VA, Working at Home - Virginia",
+    "MA, Working at Home -Massachusetts",
+    "NE, Working at Home - Nebraska",
+    "MN, Working at Home - Minnesota",
+    "MI, Working at Home - Michigan",
+    "WI, Working at Home - Wisconsin",
+    "NY, Working at Home - New York",
+    "ME, Working at Home - Maine"
+   ],
+   "remote": true,
+   "section": "swe",
+   "posted": "2026-10-26",
+   "added": "2026-10-26T23:40:42.000Z",
+   "url": "https://aplyr.ai/jobs/c848d6fe18d0/summer-2027-provider-delivery-software-engineer-engen-undergraduate-intern?utm_source=github&utm_medium=joblist&utm_campaign=summer-2027-internships&utm_content=apply",
+   "noSponsorship": true,
+   "firstSeen": "2026-10-27"
+  },
+  "highmark.com::summer 2027 enterprise architecture software engineer architect engen undergradute intern": {
+   "id": "362f11b86aa2",
+   "company": "Highmark Health",
+   "companyUrl": "https://aplyr.ai/companies/highmark?utm_source=github&utm_medium=joblist&utm_campaign=summer-2027-internships&utm_content=company",
+   "title": "Summer 2027 Enterprise Architecture Software Engineer & Architect enGen Undergradute Intern",
+   "locations": [
+    "Pittsburgh PA, 15222, PAP, Penn Avenue Place"
+   ],
+   "section": "swe",
+   "posted": "2026-10-26",
+   "added": "2026-10-26T23:40:42.000Z",
+   "url": "https://aplyr.ai/jobs/362f11b86aa2/summer-2027-enterprise-architecture-software-engineer-architect-engen-undergradu?utm_source=github&utm_medium=joblist&utm_campaign=summer-2027-internships&utm_content=apply",
+   "noSponsorship": true,
+   "firstSeen": "2026-10-27"
+  },
+  "highmark.com::summer 2027 software engineer engen undergraduate intern": {
+   "id": "3e4cb1301534",
+   "company": "Highmark Health",
+   "companyUrl": "https://aplyr.ai/companies/highmark?utm_source=github&utm_medium=joblist&utm_campaign=summer-2027-internships&utm_content=company",
+   "title": "Summer 2027 Software Engineer enGen Undergraduate Intern",
+   "locations": [
+    "PA, Working at Home - Pennsylvania"
+   ],
+   "remote": true,
+   "section": "swe",
+   "posted": "2026-10-26",
+   "added": "2026-10-26T23:40:42.000Z",
+   "url": "https://aplyr.ai/jobs/3e4cb1301534/summer-2027-software-engineer-engen-undergraduate-intern?utm_source=github&utm_medium=joblist&utm_campaign=summer-2027-internships&utm_content=apply",
+   "noSponsorship": true,
+   "firstSeen": "2026-10-27"
+  },
+  "highmark.com::summer 2027 software engineer engen graduate intern": {
+   "id": "1f7694ba45cc",
+   "company": "Highmark Health",
+   "companyUrl": "https://aplyr.ai/companies/highmark?utm_source=github&utm_medium=joblist&utm_campaign=summer-2027-internships&utm_content=company",
+   "title": "Summer 2027 Software Engineer enGen Graduate Intern",
+   "locations": [
+    "PA, Working at Home - Pennsylvania",
+    "MD, Working at Home - Maryland",
+    "WA, Working at Home - Washington",
+    "NC, Working at Home - N Carolina",
+    "LA, Working at Home - Louisiana",
+    "KY, Working at Home - Kentucky",
+    "KS, Working at Home - Kansas",
+    "IN, Working at Home - Indiana",
+    "IL, Working at Home - Illinois",
+    "GA, Working at Home - Georgia",
+    "IA, Working at Home - Iowa",
+    "FL, Working at Home - Florida",
+    "CO, Working at Home - Colorado",
+    "CA, Working at Home - California",
+    "DE, Working at Home - Delaware",
+    "CT, Working at Home - Conneticut",
+    "AR, Working at Home - Arkansas",
+    "AZ, Working at Home - Arizona",
+    "AL, Working at Home - Alabama",
+    "AK, Working at Home - Alaska",
+    "NV, Working at Home - Nevada",
+    "VT, Working at Home - Vermont",
+    "TN, Working at Home -Tennessee",
+    "ID, Working at Home - Idaho",
+    "OK, Working at Home - Oklahoma",
+    "HI, Working at Home - Hawaii",
+    "MS, Working at Home - Mississippi",
+    "UT, Working at Home - Utah",
+    "NH, Working at Home - New Hampshire",
+    "NM, Working at Home - New Mexico",
+    "WY, Working at Home - Wyoming",
+    "ND, Working at Home - North Dakota",
+    "SD, Working at Home-South Dakota",
+    "RI, Working at Home - Rhode Island",
+    "WV, Working at Home - W Virginia",
+    "MO, Working at Home - Montana",
+    "TX, Working at Home - Texas",
+    "DC, Working at Home - Dist of Col",
+    "OH, Working at Home - Ohio",
+    "NJ, Working at Home - New Jersey",
+    "OR, Working at Home - Oregon",
+    "SC, Working at Home-South Carolina",
+    "MO, Working at Home - Missouri",
+    "VA, Working at Home - Virginia",
+    "MA, Working at Home -Massachusetts",
+    "NE, Working at Home - Nebraska",
+    "MN, Working at Home - Minnesota",
+    "MI, Working at Home - Michigan",
+    "WI, Working at Home - Wisconsin",
+    "NY, Working at Home - New York",
+    "ME, Working at Home - Maine"
+   ],
+   "remote": true,
+   "section": "swe",
+   "posted": "2026-10-26",
+   "added": "2026-10-26T23:40:42.000Z",
+   "url": "https://aplyr.ai/jobs/1f7694ba45cc/summer-2027-software-engineer-engen-graduate-intern?utm_source=github&utm_medium=joblist&utm_campaign=summer-2027-internships&utm_content=apply",
+   "noSponsorship": true,
+   "firstSeen": "2026-10-27"
+  },
+  "motorolasolutions.com::presales systems engineer summer 2027 internship": {
+   "id": "e7004b17a9b5",
+   "company": "Motorola Solutions",
+   "companyUrl": "https://aplyr.ai/companies/motorolasolutions?utm_source=github&utm_medium=joblist&utm_campaign=summer-2027-internships&utm_content=company",
+   "title": "Presales Systems Engineer - Summer 2027 Internship",
+   "locations": [
+    "Allen, TX (TX139)",
+    "San Diego, CA",
+    "Brentwood, TN",
+    "Alpharetta, GA"
+   ],
+   "section": "swe",
+   "posted": "2026-10-26",
+   "added": "2026-10-26T22:20:59.000Z",
+   "url": "https://aplyr.ai/jobs/e7004b17a9b5/presales-systems-engineer-summer-2027-internship?utm_source=github&utm_medium=joblist&utm_campaign=summer-2027-internships&utm_content=apply",
+   "sponsorsH1B": true,
+   "firstSeen": "2026-10-27"
+  },
+  "wellsfargo.com::2027 technology summer internship early careers cybersecurity": {
+   "id": "dfb1c00c9d36",
+   "company": "Wells Fargo",
+   "companyUrl": "https://aplyr.ai/companies/wellsfargo?utm_source=github&utm_medium=joblist&utm_campaign=summer-2027-internships&utm_content=company",
+   "title": "2027 Technology Summer Internship - Early Careers (Cybersecurity)",
+   "locations": [
+    "CHARLOTTE, NC",
+    "PHOENIX, AZ",
+    "CHANDLER, AZ"
+   ],
+   "section": "swe",
+   "posted": "2026-10-26",
+   "added": "2026-10-26T21:52:09.000Z",
+   "pay": "$48.08/hr",
+   "url": "https://aplyr.ai/jobs/dfb1c00c9d36/2027-technology-summer-internship-early-careers-cybersecurity?utm_source=github&utm_medium=joblist&utm_campaign=summer-2027-internships&utm_content=apply",
+   "noSponsorship": true,
+   "firstSeen": "2026-10-27"
+  },
+  "boozallen.com::university 2027 summer games software developer intern lexington ma": {
+   "id": "f12b9793ec0e",
+   "company": "Booz Allen Hamilton",
+   "companyUrl": "https://aplyr.ai/companies/boozallen?utm_source=github&utm_medium=joblist&utm_campaign=summer-2027-internships&utm_content=company",
+   "title": "University - 2027 Summer Games Software Developer Intern - Lexington, MA",
+   "locations": [
+    "Lexington, MA"
+   ],
+   "section": "swe",
+   "posted": "2026-10-26",
+   "added": "2026-10-26T19:30:58.000Z",
+   "pay": "$53k–108k/yr",
+   "url": "https://aplyr.ai/jobs/f12b9793ec0e/university-2027-summer-games-software-developer-intern-lexington-ma?utm_source=github&utm_medium=joblist&utm_campaign=summer-2027-internships&utm_content=apply",
+   "sponsorsH1B": true,
+   "firstSeen": "2026-10-27"
+  },
+  "skydio.com::phd autonomy engineer intern deep learning computer vision 2027": {
+   "id": "449d9324af87",
+   "company": "Skydio",
+   "companyUrl": "https://aplyr.ai/companies/skydio?utm_source=github&utm_medium=joblist&utm_campaign=summer-2027-internships&utm_content=company",
+   "title": "PhD Autonomy Engineer Intern - Deep Learning / Computer Vision, 2027",
+   "locations": [
+    "San Mateo, California"
+   ],
+   "section": "data",
+   "posted": "2026-10-25",
+   "added": "2026-10-27T09:45:50.000Z",
+   "pay": "$70/hr",
+   "url": "https://aplyr.ai/jobs/449d9324af87/phd-autonomy-engineer-intern-deep-learning-computer-vision-2027?utm_source=github&utm_medium=joblist&utm_campaign=summer-2027-internships&utm_content=apply",
+   "firstSeen": "2026-10-27"
   },
   "hpe.com::ai ml developer intern": {
    "id": "0e7d9cd7f4fb",
@@ -318,36 +1207,6 @@
    "pay": "$20/hr",
    "url": "https://aplyr.ai/jobs/dca937678fac/product-development-intern?utm_source=github&utm_medium=joblist&utm_campaign=summer-2027-internships&utm_content=apply",
    "noSponsorship": true,
-   "firstSeen": "2026-10-24"
-  },
-  "microsoft.com::software engineering intern": {
-   "id": "af7d89c2caf3",
-   "company": "Microsoft",
-   "companyUrl": "https://aplyr.ai/companies/microsoft?utm_source=github&utm_medium=joblist&utm_campaign=summer-2027-internships&utm_content=company",
-   "title": "Software Engineering Intern",
-   "locations": [
-    "United States, Oklahoma, Tulsa"
-   ],
-   "section": "swe",
-   "posted": "2026-10-23",
-   "added": "2026-10-24T06:31:15.000Z",
-   "url": "https://aplyr.ai/jobs/af7d89c2caf3/software-engineering-intern?utm_source=github&utm_medium=joblist&utm_campaign=summer-2027-internships&utm_content=apply",
-   "sponsorsH1B": true,
-   "firstSeen": "2026-10-24"
-  },
-  "microsoft.com::product management intern": {
-   "id": "f0dd3f32b417",
-   "company": "Microsoft",
-   "companyUrl": "https://aplyr.ai/companies/microsoft?utm_source=github&utm_medium=joblist&utm_campaign=summer-2027-internships&utm_content=company",
-   "title": "Product Management Intern",
-   "locations": [
-    "United States, Massachusetts, Cambridge"
-   ],
-   "section": "pm",
-   "posted": "2026-10-23",
-   "added": "2026-10-24T06:31:15.000Z",
-   "url": "https://aplyr.ai/jobs/f0dd3f32b417/product-management-intern?utm_source=github&utm_medium=joblist&utm_campaign=summer-2027-internships&utm_content=apply",
-   "sponsorsH1B": true,
    "firstSeen": "2026-10-24"
   },
   "olsson.com::student internship network and server infrastructure": {
@@ -600,22 +1459,6 @@
    "url": "https://aplyr.ai/jobs/d0c7d6b80be6/software-engineer-ground-systems-intern?utm_source=github&utm_medium=joblist&utm_campaign=summer-2027-internships&utm_content=apply",
    "sponsorsH1B": true,
    "firstSeen": "2026-10-23"
-  },
-  "lockheedmartin.com::software engineer intern": {
-   "id": "f888781507fa",
-   "company": "Lockheed Martin",
-   "companyUrl": "https://aplyr.ai/companies/lockheedmartin?utm_source=github&utm_medium=joblist&utm_campaign=summer-2027-internships&utm_content=company",
-   "title": "Software Engineer - Intern",
-   "locations": [
-    "Marietta, GA",
-    "Manassas, VA"
-   ],
-   "section": "swe",
-   "posted": "2026-10-22",
-   "added": "2026-10-23T11:34:44.000Z",
-   "url": "https://aplyr.ai/jobs/f888781507fa/software-engineer-intern?utm_source=github&utm_medium=joblist&utm_campaign=summer-2027-internships&utm_content=apply",
-   "sponsorsH1B": true,
-   "firstSeen": "2026-10-19"
   },
   "badgermeter.com::business analyst self service adoption intern": {
    "id": "28e4abe61f9a",
@@ -1059,21 +1902,6 @@
    "sponsorsH1B": true,
    "firstSeen": "2026-10-18"
   },
-  "rtx.com::software engineering intern summer 2027": {
-   "id": "d28652acfd15",
-   "company": "RTX/Raytheon",
-   "companyUrl": "https://aplyr.ai/companies/rtx?utm_source=github&utm_medium=joblist&utm_campaign=summer-2027-internships&utm_content=company",
-   "title": "Software Engineering Intern (Summer 2027)",
-   "locations": [
-    "US-CO-AURORA-S77 ~ 16470 E Hughes Dr ~ BLDG S77"
-   ],
-   "section": "swe",
-   "posted": "2026-10-22",
-   "added": "2026-10-22T19:01:16.000Z",
-   "url": "https://aplyr.ai/jobs/d28652acfd15/software-engineering-intern-summer-2027?utm_source=github&utm_medium=joblist&utm_campaign=summer-2027-internships&utm_content=apply",
-   "sponsorsH1B": true,
-   "firstSeen": "2026-10-18"
-  },
   "rtx.com::antenna and microwave intern summer 2027": {
    "id": "8528f9d56d5d",
    "company": "RTX/Raytheon",
@@ -1328,21 +2156,6 @@
    "sponsorsH1B": true,
    "firstSeen": "2026-10-22"
   },
-  "lockheedmartin.com::college student dmsms intern": {
-   "id": "326bafa63133",
-   "company": "Lockheed Martin",
-   "companyUrl": "https://aplyr.ai/companies/lockheedmartin?utm_source=github&utm_medium=joblist&utm_campaign=summer-2027-internships&utm_content=company",
-   "title": "College Student - DMSMS Intern",
-   "locations": [
-    "Stratford, CT"
-   ],
-   "section": "swe",
-   "posted": "2026-10-22",
-   "added": "2026-10-22T11:43:01.000Z",
-   "url": "https://aplyr.ai/jobs/326bafa63133/college-student-dmsms-intern?utm_source=github&utm_medium=joblist&utm_campaign=summer-2027-internships&utm_content=apply",
-   "sponsorsH1B": true,
-   "firstSeen": "2026-10-22"
-  },
   "lnw.com::intern software engineering": {
    "id": "7f4ea890d2b3",
    "company": "Light & Wonder",
@@ -1494,21 +2307,6 @@
    "url": "https://aplyr.ai/jobs/35c24e1da2e1/camera-software-intern?utm_source=github&utm_medium=joblist&utm_campaign=summer-2027-internships&utm_content=apply",
    "firstSeen": "2026-10-22"
   },
-  "lockheedmartin.com::it intern": {
-   "id": "99662a6e8b33",
-   "company": "Lockheed Martin",
-   "companyUrl": "https://aplyr.ai/companies/lockheedmartin?utm_source=github&utm_medium=joblist&utm_campaign=summer-2027-internships&utm_content=company",
-   "title": "IT Intern",
-   "locations": [
-    "Virtual Four, SC"
-   ],
-   "section": "swe",
-   "posted": "2026-10-21",
-   "added": "2026-10-22T11:43:01.000Z",
-   "url": "https://aplyr.ai/jobs/99662a6e8b33/it-intern?utm_source=github&utm_medium=joblist&utm_campaign=summer-2027-internships&utm_content=apply",
-   "sponsorsH1B": true,
-   "firstSeen": "2026-10-22"
-  },
   "marvell.com::silicon validation intern bs summer 2027": {
    "id": "d5f8018558ad",
    "company": "Marvell",
@@ -1521,36 +2319,6 @@
    "posted": "2026-10-21",
    "added": "2026-10-21T18:12:01.000Z",
    "url": "https://aplyr.ai/jobs/d5f8018558ad/silicon-validation-intern-bs-summer-2027?utm_source=github&utm_medium=joblist&utm_campaign=summer-2027-internships&utm_content=apply",
-   "sponsorsH1B": true,
-   "firstSeen": "2026-10-22"
-  },
-  "lockheedmartin.com::embedded software intern": {
-   "id": "e3d8a98f79e1",
-   "company": "Lockheed Martin",
-   "companyUrl": "https://aplyr.ai/companies/lockheedmartin?utm_source=github&utm_medium=joblist&utm_campaign=summer-2027-internships&utm_content=company",
-   "title": "Embedded Software Intern",
-   "locations": [
-    "Moorestown, NJ"
-   ],
-   "section": "swe",
-   "posted": "2026-10-21",
-   "added": "2026-10-22T11:43:01.000Z",
-   "url": "https://aplyr.ai/jobs/e3d8a98f79e1/embedded-software-intern?utm_source=github&utm_medium=joblist&utm_campaign=summer-2027-internships&utm_content=apply",
-   "sponsorsH1B": true,
-   "firstSeen": "2026-10-22"
-  },
-  "lockheedmartin.com::ai supply chain intelligence intern": {
-   "id": "a3909c0cb489",
-   "company": "Lockheed Martin",
-   "companyUrl": "https://aplyr.ai/companies/lockheedmartin?utm_source=github&utm_medium=joblist&utm_campaign=summer-2027-internships&utm_content=company",
-   "title": "AI/ Supply Chain Intelligence Intern",
-   "locations": [
-    "Dallas, TX"
-   ],
-   "section": "data",
-   "posted": "2026-10-21",
-   "added": "2026-10-22T11:43:01.000Z",
-   "url": "https://aplyr.ai/jobs/a3909c0cb489/ai-supply-chain-intelligence-intern?utm_source=github&utm_medium=joblist&utm_campaign=summer-2027-internships&utm_content=apply",
    "sponsorsH1B": true,
    "firstSeen": "2026-10-22"
   },
@@ -1739,20 +2507,6 @@
    "sponsorsH1B": true,
    "firstSeen": "2026-10-22"
   },
-  "duke-energy.com::nuclear cybersecurity 2027 summer internship": {
-   "id": "c9418b6c8dfb",
-   "company": "Duke Energy",
-   "companyUrl": "https://aplyr.ai/companies/duke-energy?utm_source=github&utm_medium=joblist&utm_campaign=summer-2027-internships&utm_content=company",
-   "title": "Nuclear Cybersecurity 2027 Summer Internship",
-   "locations": [
-    "Hartsville, SC"
-   ],
-   "section": "swe",
-   "posted": "2026-10-21",
-   "added": "2026-10-21T20:30:29.000Z",
-   "url": "https://aplyr.ai/jobs/c9418b6c8dfb/nuclear-cybersecurity-2027-summer-internship?utm_source=github&utm_medium=joblist&utm_campaign=summer-2027-internships&utm_content=apply",
-   "firstSeen": "2026-10-22"
-  },
   "moog.com::intern quality engineering": {
    "id": "586c6d1d9f52",
    "company": "Moog",
@@ -1768,18 +2522,18 @@
    "sponsorsH1B": true,
    "firstSeen": "2026-10-22"
   },
-  "rtx.com::software engineer intern summer 2027": {
-   "id": "6127dc31fb83",
-   "company": "RTX/Raytheon",
-   "companyUrl": "https://aplyr.ai/companies/rtx?utm_source=github&utm_medium=joblist&utm_campaign=summer-2027-internships&utm_content=company",
-   "title": "Software Engineer Intern (Summer 2027)",
+  "global.abb::power bi intern summer 2027": {
+   "id": "a225594c644a",
+   "company": "ABB",
+   "companyUrl": "https://aplyr.ai/companies/global?utm_source=github&utm_medium=joblist&utm_campaign=summer-2027-internships&utm_content=company",
+   "title": "Power BI Intern- Summer 2027",
    "locations": [
-    "US-MA-TEWKSBURY-TB3 ~ 50 Apple Hill Dr ~ CONCORD BLDG, Tewksbury Tb3 300 Concord"
+    "USA, NC, Cary"
    ],
-   "section": "swe",
+   "section": "data",
    "posted": "2026-10-21",
-   "added": "2026-10-21T19:01:08.000Z",
-   "url": "https://aplyr.ai/jobs/6127dc31fb83/software-engineer-intern-summer-2027?utm_source=github&utm_medium=joblist&utm_campaign=summer-2027-internships&utm_content=apply",
+   "added": "2026-10-22T00:20:35.000Z",
+   "url": "https://aplyr.ai/jobs/a225594c644a/power-bi-intern-summer-2027?utm_source=github&utm_medium=joblist&utm_campaign=summer-2027-internships&utm_content=apply",
    "sponsorsH1B": true,
    "firstSeen": "2026-10-22"
   },
@@ -2151,21 +2905,6 @@
    "sponsorsH1B": true,
    "firstSeen": "2026-10-22"
   },
-  "thehartford.com::2027 summer intern rotational it operations risk and fund treasury": {
-   "id": "c9120f507073",
-   "company": "The Hartford",
-   "companyUrl": "https://aplyr.ai/companies/thehartford?utm_source=github&utm_medium=joblist&utm_campaign=summer-2027-internships&utm_content=company",
-   "title": "2027 Summer Intern - Rotational (IT, Operations, Risk, and Fund Treasury)",
-   "locations": [
-    "Wayne, PA"
-   ],
-   "section": "swe",
-   "posted": "2026-10-20",
-   "added": "2026-10-20T20:50:24.000Z",
-   "url": "https://aplyr.ai/jobs/c9120f507073/2027-summer-intern-rotational-it-operations-risk-and-fund-treasury?utm_source=github&utm_medium=joblist&utm_campaign=summer-2027-internships&utm_content=apply",
-   "sponsorsH1B": true,
-   "firstSeen": "2026-10-21"
-  },
   "xcelenergy.com::gis grid data intern mn": {
    "id": "584206af1dae",
    "company": "Xcel Energy",
@@ -2178,21 +2917,6 @@
    "posted": "2026-10-20",
    "added": "2026-10-20T20:30:20.000Z",
    "url": "https://aplyr.ai/jobs/584206af1dae/gis-grid-data-intern-mn?utm_source=github&utm_medium=joblist&utm_campaign=summer-2027-internships&utm_content=apply",
-   "sponsorsH1B": true,
-   "firstSeen": "2026-10-21"
-  },
-  "hpe.com::embedded software engineering intern": {
-   "id": "a63832702e36",
-   "company": "HPE",
-   "companyUrl": "https://aplyr.ai/companies/hpe?utm_source=github&utm_medium=joblist&utm_campaign=summer-2027-internships&utm_content=company",
-   "title": "Embedded Software Engineering Intern",
-   "locations": [
-    "Roseville, California"
-   ],
-   "section": "swe",
-   "posted": "2026-10-20",
-   "added": "2026-10-21T09:30:19.000Z",
-   "url": "https://aplyr.ai/jobs/a63832702e36/embedded-software-engineering-intern?utm_source=github&utm_medium=joblist&utm_campaign=summer-2027-internships&utm_content=apply",
    "sponsorsH1B": true,
    "firstSeen": "2026-10-21"
   },
@@ -2314,39 +3038,6 @@
    "added": "2026-10-20T06:46:19.000Z",
    "pay": "$44k–88k/yr",
    "url": "https://aplyr.ai/jobs/f67c7360a382/test-engineering-intern-summer?utm_source=github&utm_medium=joblist&utm_campaign=summer-2027-internships&utm_content=apply",
-   "sponsorsH1B": true,
-   "firstSeen": "2026-10-20"
-  },
-  "carrier.com::quality engineering intern summer": {
-   "id": "bd86e1f3a390",
-   "company": "Carrier",
-   "companyUrl": "https://aplyr.ai/companies/carrier?utm_source=github&utm_medium=joblist&utm_campaign=summer-2027-internships&utm_content=company",
-   "title": "Quality Engineering Intern - Summer",
-   "locations": [
-    "CAN01: Carrier-Syracuse, 6304 Carrier Parkway, East Syracuse, NY, 13057 USA"
-   ],
-   "section": "swe",
-   "posted": "2026-10-20",
-   "added": "2026-10-20T06:46:19.000Z",
-   "pay": "$44k–88k/yr",
-   "url": "https://aplyr.ai/jobs/bd86e1f3a390/quality-engineering-intern-summer?utm_source=github&utm_medium=joblist&utm_campaign=summer-2027-internships&utm_content=apply",
-   "sponsorsH1B": true,
-   "firstSeen": "2026-10-20"
-  },
-  "lockheedmartin.com::radio frequency rf engineering intern": {
-   "id": "b684a102a1d8",
-   "company": "Lockheed Martin",
-   "companyUrl": "https://aplyr.ai/companies/lockheedmartin?utm_source=github&utm_medium=joblist&utm_campaign=summer-2027-internships&utm_content=company",
-   "title": "Radio Frequency (RF) Engineering Intern",
-   "locations": [
-    "Andover, MA",
-    "Chelmsford, MA"
-   ],
-   "section": "hw",
-   "posted": "2026-10-20",
-   "added": "2026-10-20T11:34:33.000Z",
-   "pay": "$22.66–31.67/hr",
-   "url": "https://aplyr.ai/jobs/b684a102a1d8/radio-frequency-rf-engineering-intern?utm_source=github&utm_medium=joblist&utm_campaign=summer-2027-internships&utm_content=apply",
    "sponsorsH1B": true,
    "firstSeen": "2026-10-20"
   },
@@ -2742,22 +3433,6 @@
    "sponsorsH1B": true,
    "firstSeen": "2026-10-19"
   },
-  "lockheedmartin.com::electronics engineer intern": {
-   "id": "28f8c25bc371",
-   "company": "Lockheed Martin",
-   "companyUrl": "https://aplyr.ai/companies/lockheedmartin?utm_source=github&utm_medium=joblist&utm_campaign=summer-2027-internships&utm_content=company",
-   "title": "Electronics Engineer Intern",
-   "locations": [
-    "Palo Alto, CA"
-   ],
-   "section": "hw",
-   "posted": "2026-10-19",
-   "added": "2026-10-20T11:34:33.000Z",
-   "pay": "$25.18–35.19/hr",
-   "url": "https://aplyr.ai/jobs/28f8c25bc371/electronics-engineer-intern?utm_source=github&utm_medium=joblist&utm_campaign=summer-2027-internships&utm_content=apply",
-   "noSponsorship": true,
-   "firstSeen": "2026-10-20"
-  },
   "nisc.coop::intern application analyst financials software": {
    "id": "c7bd8b81ddd5",
    "company": "National Information Solutions Cooperative (NISC)",
@@ -2802,22 +3477,6 @@
    "url": "https://aplyr.ai/jobs/f08417d3c8cc/2027-intern-emerging-technology-innovation?utm_source=github&utm_medium=joblist&utm_campaign=summer-2027-internships&utm_content=apply",
    "sponsorsH1B": true,
    "firstSeen": "2026-10-22"
-  },
-  "lockheedmartin.com::electrical engineering intern": {
-   "id": "fc2e4af50880",
-   "company": "Lockheed Martin",
-   "companyUrl": "https://aplyr.ai/companies/lockheedmartin?utm_source=github&utm_medium=joblist&utm_campaign=summer-2027-internships&utm_content=company",
-   "title": "Electrical Engineering Intern",
-   "locations": [
-    "Andover, MA"
-   ],
-   "section": "hw",
-   "posted": "2026-10-19",
-   "added": "2026-10-20T11:34:33.000Z",
-   "pay": "$22.66–31.67/hr",
-   "url": "https://aplyr.ai/jobs/fc2e4af50880/electrical-engineering-intern?utm_source=github&utm_medium=joblist&utm_campaign=summer-2027-internships&utm_content=apply",
-   "sponsorsH1B": true,
-   "firstSeen": "2026-10-20"
   },
   "heronpower.com::intern firmware engineering": {
    "id": "6ea255107f62",
@@ -2908,6 +3567,51 @@
    "sponsorsH1B": true,
    "firstSeen": "2026-10-19"
   },
+  "werner.com::information security intern": {
+   "id": "2c30314a0536",
+   "company": "Werner Enterprises",
+   "companyUrl": "https://aplyr.ai/companies/werner?utm_source=github&utm_medium=joblist&utm_campaign=summer-2027-internships&utm_content=company",
+   "title": "Information Security Intern",
+   "locations": [
+    "Omaha, NE"
+   ],
+   "section": "swe",
+   "posted": "2026-10-19",
+   "added": "2026-10-20T13:31:07.000Z",
+   "url": "https://aplyr.ai/jobs/2c30314a0536/information-security-intern?utm_source=github&utm_medium=joblist&utm_campaign=summer-2027-internships&utm_content=apply",
+   "sponsorsH1B": true,
+   "firstSeen": "2026-10-20"
+  },
+  "werner.com::it cloud engineering intern": {
+   "id": "2b72d54400fb",
+   "company": "Werner Enterprises",
+   "companyUrl": "https://aplyr.ai/companies/werner?utm_source=github&utm_medium=joblist&utm_campaign=summer-2027-internships&utm_content=company",
+   "title": "IT Cloud Engineering Intern",
+   "locations": [
+    "Omaha, NE"
+   ],
+   "section": "swe",
+   "posted": "2026-10-19",
+   "added": "2026-10-20T13:31:07.000Z",
+   "url": "https://aplyr.ai/jobs/2b72d54400fb/it-cloud-engineering-intern?utm_source=github&utm_medium=joblist&utm_campaign=summer-2027-internships&utm_content=apply",
+   "sponsorsH1B": true,
+   "firstSeen": "2026-10-20"
+  },
+  "werner.com::telecom support intern": {
+   "id": "49ad042b91e6",
+   "company": "Werner Enterprises",
+   "companyUrl": "https://aplyr.ai/companies/werner?utm_source=github&utm_medium=joblist&utm_campaign=summer-2027-internships&utm_content=company",
+   "title": "Telecom Support Intern",
+   "locations": [
+    "Omaha, NE"
+   ],
+   "section": "swe",
+   "posted": "2026-10-19",
+   "added": "2026-10-20T13:31:07.000Z",
+   "url": "https://aplyr.ai/jobs/49ad042b91e6/telecom-support-intern?utm_source=github&utm_medium=joblist&utm_campaign=summer-2027-internships&utm_content=apply",
+   "sponsorsH1B": true,
+   "firstSeen": "2026-10-20"
+  },
   "hpe.com::asic intern": {
    "id": "8d4a87c4e151",
    "company": "HPE",
@@ -2955,22 +3659,6 @@
    "url": "https://aplyr.ai/jobs/696c0d0d3a11/intern-design-engineer-hbm?utm_source=github&utm_medium=joblist&utm_campaign=summer-2027-internships&utm_content=apply",
    "sponsorsH1B": true,
    "firstSeen": "2026-10-19"
-  },
-  "thetorocompany.com::cloud software development intern the toro company": {
-   "id": "a0eabcf81ad1",
-   "company": "The Toro Company",
-   "companyUrl": "https://aplyr.ai/companies/thetorocompany?utm_source=github&utm_medium=joblist&utm_campaign=summer-2027-internships&utm_content=company",
-   "title": "Cloud Software Development Intern - The Toro Company",
-   "locations": [
-    "Frederick, CO"
-   ],
-   "section": "swe",
-   "posted": "2026-10-19",
-   "added": "2026-10-20T00:40:53.000Z",
-   "pay": "$20–24/hr",
-   "url": "https://aplyr.ai/jobs/a0eabcf81ad1/cloud-software-development-intern-the-toro-company?utm_source=github&utm_medium=joblist&utm_campaign=summer-2027-internships&utm_content=apply",
-   "noSponsorship": true,
-   "firstSeen": "2026-10-20"
   },
   "nissan-global.com::mechanical electrical engineer intern summer 2027 canton ms": {
    "id": "6f56fd9503de",
@@ -3312,6 +4000,22 @@
    "url": "https://aplyr.ai/jobs/e6bb9a37c4ef/data-scientist-intern?utm_source=github&utm_medium=joblist&utm_campaign=summer-2027-internships&utm_content=apply",
    "firstSeen": "2026-10-18"
   },
+  "amfam.com::summer 2027 intern data engineering": {
+   "id": "a7c40389a6a5",
+   "company": "American Family Insurance",
+   "companyUrl": "https://aplyr.ai/companies/amfam?utm_source=github&utm_medium=joblist&utm_campaign=summer-2027-internships&utm_content=company",
+   "title": "Summer 2027 Intern - Data Engineering",
+   "locations": [
+    "WI Madison"
+   ],
+   "section": "data",
+   "posted": "2026-10-16",
+   "added": "2026-10-17T22:44:43.000Z",
+   "pay": "$25–39/hr",
+   "url": "https://aplyr.ai/jobs/a7c40389a6a5/summer-2027-intern-data-engineering?utm_source=github&utm_medium=joblist&utm_campaign=summer-2027-internships&utm_content=apply",
+   "noSponsorship": true,
+   "firstSeen": "2026-10-17"
+  },
   "plantemoran.com::2027 managed it consulting intern": {
    "id": "e36f983520a2",
    "company": "Plante Moran",
@@ -3406,21 +4110,6 @@
    "url": "https://aplyr.ai/jobs/644d02276135/mgr-electronics-engineering-1-ground-systems-intern-development-manager?utm_source=github&utm_medium=joblist&utm_campaign=summer-2027-internships&utm_content=apply",
    "sponsorsH1B": true,
    "firstSeen": "2026-10-17"
-  },
-  "micron.com::intern memory design engineer hbm": {
-   "id": "e5582f31eef6",
-   "company": "Micron",
-   "companyUrl": "https://aplyr.ai/companies/micron?utm_source=github&utm_medium=joblist&utm_campaign=summer-2027-internships&utm_content=company",
-   "title": "Intern - Memory Design Engineer, HBM",
-   "locations": [
-    "Richardson, TX"
-   ],
-   "section": "hw",
-   "posted": "2026-10-16",
-   "added": "2026-10-17T22:22:16.000Z",
-   "url": "https://aplyr.ai/jobs/e5582f31eef6/intern-memory-design-engineer-hbm?utm_source=github&utm_medium=joblist&utm_campaign=summer-2027-internships&utm_content=apply",
-   "sponsorsH1B": true,
-   "firstSeen": "2026-10-19"
   },
   "prologis.com::customer experience data intern": {
    "id": "1766d5907c6c",
@@ -4190,21 +4879,6 @@
    "sponsorsH1B": true,
    "firstSeen": "2026-10-18"
   },
-  "cswg.com::is internship data analytics data science": {
-   "id": "03112c72d878",
-   "company": "C&S Wholesale Grocers",
-   "companyUrl": "https://aplyr.ai/companies/cswg?utm_source=github&utm_medium=joblist&utm_campaign=summer-2027-internships&utm_content=company",
-   "title": "IS Internship - Data Analytics & Data Science",
-   "locations": [
-    "Edison, NJ"
-   ],
-   "section": "data",
-   "posted": "2026-10-14",
-   "added": "2026-10-12T05:16:49.000Z",
-   "url": "https://aplyr.ai/jobs/03112c72d878/is-internship-data-analytics-data-science?utm_source=github&utm_medium=joblist&utm_campaign=summer-2027-internships&utm_content=apply",
-   "noSponsorship": true,
-   "firstSeen": "2026-10-17"
-  },
   "washu.edu::data analyst emergency management intern prn enterprise physical operations": {
    "id": "f13ee44362ed",
    "company": "Wash U",
@@ -4316,8 +4990,7 @@
    "companyUrl": "https://aplyr.ai/companies/advocatehealth?utm_source=github&utm_medium=joblist&utm_campaign=summer-2027-internships&utm_content=company",
    "title": "Enterprise Internship, Information Technology",
    "locations": [
-    "Atrium Health Navicent The Medical Center - 777 Hemlock St, Macon, GA",
-    "Aurora Medical Center West Allis - 8901 W Lincoln Ave"
+    "Atrium Health Navicent The Medical Center - 777 Hemlock St, Macon, GA"
    ],
    "section": "swe",
    "posted": "2026-10-14",
@@ -5818,76 +6491,6 @@
    "sponsorsH1B": true,
    "firstSeen": "2026-10-17"
   },
-  "expedia.com::applied science intern masters 2027 austin san jose seattle": {
-   "id": "73ed4740ee93",
-   "company": "Expedia",
-   "companyUrl": "https://aplyr.ai/companies/expedia?utm_source=github&utm_medium=joblist&utm_campaign=summer-2027-internships&utm_content=company",
-   "title": "Applied Science Intern - Masters - 2027 - Austin, San Jose, Seattle",
-   "locations": [
-    "Austin Domain 11 - HomeAway",
-    "USA - California - San Jose",
-    "Washington - Seattle Campus"
-   ],
-   "section": "data",
-   "posted": "2026-10-12",
-   "added": "2026-10-17T22:24:08.000Z",
-   "pay": "$52–55/hr",
-   "url": "https://aplyr.ai/jobs/73ed4740ee93/applied-science-intern-masters-2027-austin-san-jose-seattle?utm_source=github&utm_medium=joblist&utm_campaign=summer-2027-internships&utm_content=apply",
-   "sponsorsH1B": true,
-   "firstSeen": "2026-10-26"
-  },
-  "expedia.com::applied science intern phd 2027 austin san jose seattle": {
-   "id": "d9a54bacd5d5",
-   "company": "Expedia",
-   "companyUrl": "https://aplyr.ai/companies/expedia?utm_source=github&utm_medium=joblist&utm_campaign=summer-2027-internships&utm_content=company",
-   "title": "Applied Science Intern - PhD - 2027 - Austin, San Jose, Seattle",
-   "locations": [
-    "Austin Domain 11 - HomeAway",
-    "USA - California - San Jose",
-    "Washington - Seattle Campus"
-   ],
-   "section": "data",
-   "posted": "2026-10-12",
-   "added": "2026-10-17T22:24:08.000Z",
-   "pay": "$56–61/hr",
-   "url": "https://aplyr.ai/jobs/d9a54bacd5d5/applied-science-intern-phd-2027-austin-san-jose-seattle?utm_source=github&utm_medium=joblist&utm_campaign=summer-2027-internships&utm_content=apply",
-   "sponsorsH1B": true,
-   "firstSeen": "2026-10-26"
-  },
-  "expedia.com::mobile engineering intern 2027 austin san jose seattle": {
-   "id": "d8df29c963d9",
-   "company": "Expedia",
-   "companyUrl": "https://aplyr.ai/companies/expedia?utm_source=github&utm_medium=joblist&utm_campaign=summer-2027-internships&utm_content=company",
-   "title": "Mobile Engineering Intern - 2027 - Austin, San Jose, Seattle",
-   "locations": [
-    "Austin Domain 11 - HomeAway",
-    "USA - California - San Jose",
-    "Washington - Seattle Campus"
-   ],
-   "section": "swe",
-   "posted": "2026-10-12",
-   "added": "2026-10-17T22:24:08.000Z",
-   "pay": "$45–54/hr",
-   "url": "https://aplyr.ai/jobs/d8df29c963d9/mobile-engineering-intern-2027-austin-san-jose-seattle?utm_source=github&utm_medium=joblist&utm_campaign=summer-2027-internships&utm_content=apply",
-   "sponsorsH1B": true,
-   "firstSeen": "2026-10-19"
-  },
-  "expedia.com::security engineering intern 2027 seattle": {
-   "id": "4fb693fada2a",
-   "company": "Expedia",
-   "companyUrl": "https://aplyr.ai/companies/expedia?utm_source=github&utm_medium=joblist&utm_campaign=summer-2027-internships&utm_content=company",
-   "title": "Security Engineering Intern - 2027 - Seattle",
-   "locations": [
-    "Washington - Seattle Campus"
-   ],
-   "section": "swe",
-   "posted": "2026-10-12",
-   "added": "2026-10-17T22:24:08.000Z",
-   "pay": "$45–51/hr",
-   "url": "https://aplyr.ai/jobs/4fb693fada2a/security-engineering-intern-2027-seattle?utm_source=github&utm_medium=joblist&utm_campaign=summer-2027-internships&utm_content=apply",
-   "sponsorsH1B": true,
-   "firstSeen": "2026-10-17"
-  },
   "micron.com::intern ssd hardware engineering": {
    "id": "1bc11432db35",
    "company": "Micron",
@@ -6010,36 +6613,6 @@
    "added": "2026-10-03T05:46:53.000Z",
    "pay": "$46k–92k/yr",
    "url": "https://aplyr.ai/jobs/c540f7f9822c/cyber-security-intern-summer-2027?utm_source=github&utm_medium=joblist&utm_campaign=summer-2027-internships&utm_content=apply",
-   "sponsorsH1B": true,
-   "firstSeen": "2026-10-17"
-  },
-  "whitecap.com::corporate intern product strategy category management": {
-   "id": "716074b2ceb4",
-   "company": "White Cap Supply Holdings",
-   "companyUrl": "https://aplyr.ai/companies/whitecap?utm_source=github&utm_medium=joblist&utm_campaign=summer-2027-internships&utm_content=company",
-   "title": "Corporate Intern - Product Strategy/Category Management",
-   "locations": [
-    "Atlanta_30360"
-   ],
-   "section": "pm",
-   "posted": "2026-10-10",
-   "added": "2026-10-11T05:32:01.000Z",
-   "url": "https://aplyr.ai/jobs/716074b2ceb4/corporate-intern-product-strategycategory-management?utm_source=github&utm_medium=joblist&utm_campaign=summer-2027-internships&utm_content=apply",
-   "firstSeen": "2026-10-26"
-  },
-  "abbott.com::2027 it intern": {
-   "id": "9796f0f9649b",
-   "company": "Abbott",
-   "companyUrl": "https://aplyr.ai/companies/abbott?utm_source=github&utm_medium=joblist&utm_campaign=summer-2027-internships&utm_content=company",
-   "title": "2027 IT Intern",
-   "locations": [
-    "United States - Illinois - Waukegan"
-   ],
-   "section": "swe",
-   "posted": "2026-10-10",
-   "added": "2026-10-10T05:15:29.000Z",
-   "pay": "$9.42–33.59/hr",
-   "url": "https://aplyr.ai/jobs/9796f0f9649b/2027-it-intern?utm_source=github&utm_medium=joblist&utm_campaign=summer-2027-internships&utm_content=apply",
    "sponsorsH1B": true,
    "firstSeen": "2026-10-17"
   },
@@ -6385,7 +6958,7 @@
    "section": "data",
    "posted": "2026-10-09",
    "added": "2026-10-10T07:46:00.000Z",
-   "pay": "$128k–214k/yr",
+   "pay": "$61.59/hr",
    "url": "https://aplyr.ai/jobs/804a6c70e4c6/intern-people-analytics-summer-2027?utm_source=github&utm_medium=joblist&utm_campaign=summer-2027-internships&utm_content=apply",
    "sponsorsH1B": true,
    "firstSeen": "2026-10-17"
@@ -6437,21 +7010,6 @@
    "sponsorsH1B": true,
    "firstSeen": "2026-10-18"
   },
-  "aep.com::data scientist intern": {
-   "id": "ba92acb65167",
-   "company": "American Electric Power",
-   "companyUrl": "https://aplyr.ai/companies/aep?utm_source=github&utm_medium=joblist&utm_campaign=summer-2027-internships&utm_content=company",
-   "title": "Data Scientist Intern",
-   "locations": [
-    "Columbus, OH"
-   ],
-   "section": "data",
-   "posted": "2026-10-09",
-   "added": "2026-10-09T06:02:01.000Z",
-   "url": "https://aplyr.ai/jobs/ba92acb65167/data-scientist-intern?utm_source=github&utm_medium=joblist&utm_campaign=summer-2027-internships&utm_content=apply",
-   "sponsorsH1B": true,
-   "firstSeen": "2026-10-23"
-  },
   "intel.com::software research engineering phd intern": {
    "id": "ce6413753120",
    "company": "Intel",
@@ -6483,6 +7041,22 @@
    "url": "https://aplyr.ai/jobs/2ab2f1d9e53a/network-engineering-intern-student-wage?utm_source=github&utm_medium=joblist&utm_campaign=summer-2027-internships&utm_content=apply",
    "firstSeen": "2026-10-18"
   },
+  "icf.com::2027 summer intern configuration analyst reston va": {
+   "id": "55d9ef063b3d",
+   "company": "ICF International",
+   "companyUrl": "https://aplyr.ai/companies/icf?utm_source=github&utm_medium=joblist&utm_campaign=summer-2027-internships&utm_content=company",
+   "title": "2027 Summer Intern, Configuration Analyst (Reston, VA)",
+   "locations": [
+    "Reston, VA"
+   ],
+   "section": "swe",
+   "posted": "2026-10-09",
+   "added": "2026-10-09T05:02:26.000Z",
+   "pay": "$38k–64k/yr",
+   "url": "https://aplyr.ai/jobs/55d9ef063b3d/2027-summer-intern-configuration-analyst-reston-va?utm_source=github&utm_medium=joblist&utm_campaign=summer-2027-internships&utm_content=apply",
+   "sponsorsH1B": true,
+   "firstSeen": "2026-10-27"
+  },
   "bwe.com::summer 2027 internship information technology cleveland": {
    "id": "2d069a808f1b",
    "company": "BWE",
@@ -6495,7 +7069,38 @@
    "posted": "2026-10-09",
    "added": "2026-10-18T00:51:00.000Z",
    "url": "https://aplyr.ai/jobs/2d069a808f1b/summer-2027-internship-information-technology-cleveland?utm_source=github&utm_medium=joblist&utm_campaign=summer-2027-internships&utm_content=apply",
+   "noSponsorship": true,
    "firstSeen": "2026-10-18"
+  },
+  "alcon.com::clinical data science intern": {
+   "id": "cdc9704cc00a",
+   "company": "Alcon",
+   "companyUrl": "https://aplyr.ai/companies/alcon?utm_source=github&utm_medium=joblist&utm_campaign=summer-2027-internships&utm_content=company",
+   "title": "Clinical Data Science Intern",
+   "locations": [
+    "Fort Worth, Texas"
+   ],
+   "section": "data",
+   "posted": "2026-10-09",
+   "added": "2026-10-18T00:01:46.000Z",
+   "url": "https://aplyr.ai/jobs/cdc9704cc00a/clinical-data-science-intern?utm_source=github&utm_medium=joblist&utm_campaign=summer-2027-internships&utm_content=apply",
+   "sponsorsH1B": true,
+   "firstSeen": "2026-10-27"
+  },
+  "fnbo.com::banking automation engineer intern": {
+   "id": "dfa6ce354067",
+   "company": "FNBO",
+   "companyUrl": "https://aplyr.ai/companies/fnbo?utm_source=github&utm_medium=joblist&utm_campaign=summer-2027-internships&utm_content=company",
+   "title": "Banking Automation Engineer Intern",
+   "locations": [
+    "Omaha - FN Tower"
+   ],
+   "section": "swe",
+   "posted": "2026-10-09",
+   "added": "2026-10-17T23:31:39.000Z",
+   "url": "https://aplyr.ai/jobs/dfa6ce354067/banking-automation-engineer-intern?utm_source=github&utm_medium=joblist&utm_campaign=summer-2027-internships&utm_content=apply",
+   "noSponsorship": true,
+   "firstSeen": "2026-10-27"
   },
   "appliedmaterials.com::2027 summer electrical engineer intern controls pcb bs or ms gloucester ma": {
    "id": "0a77ab879e87",
@@ -6508,6 +7113,7 @@
    "section": "hw",
    "posted": "2026-10-09",
    "added": "2026-10-17T22:41:46.000Z",
+   "pay": "$31–41/hr",
    "url": "https://aplyr.ai/jobs/0a77ab879e87/2027-summer-electrical-engineer-intern-controlspcb-bs-or-ms-gloucester-ma?utm_source=github&utm_medium=joblist&utm_campaign=summer-2027-internships&utm_content=apply",
    "sponsorsH1B": true,
    "firstSeen": "2026-10-17"
@@ -7042,21 +7648,6 @@
    "sponsorsH1B": true,
    "firstSeen": "2026-10-17"
   },
-  "hpe.com::hardware engineering intern": {
-   "id": "de9376c4ea87",
-   "company": "HPE",
-   "companyUrl": "https://aplyr.ai/companies/hpe?utm_source=github&utm_medium=joblist&utm_campaign=summer-2027-internships&utm_content=company",
-   "title": "Hardware Engineering Intern",
-   "locations": [
-    "Sunnyvale, California"
-   ],
-   "section": "hw",
-   "posted": "2026-10-07",
-   "added": "2026-10-17T22:28:13.000Z",
-   "url": "https://aplyr.ai/jobs/de9376c4ea87/hardware-engineering-intern?utm_source=github&utm_medium=joblist&utm_campaign=summer-2027-internships&utm_content=apply",
-   "sponsorsH1B": true,
-   "firstSeen": "2026-10-17"
-  },
   "rtx.com::electrical engineer intern summer2027 onsite": {
    "id": "b0682ddb989e",
    "company": "RTX/Raytheon",
@@ -7388,6 +7979,20 @@
    "url": "https://aplyr.ai/jobs/c23cc8ce92f1/software-engineering-intern-summer-2027?utm_source=github&utm_medium=joblist&utm_campaign=summer-2027-internships&utm_content=apply",
    "noSponsorship": true,
    "firstSeen": "2026-10-17"
+  },
+  "axos.com::data analyst intern": {
+   "id": "3b91cc640b39",
+   "company": "Axos Financial",
+   "companyUrl": "https://aplyr.ai/companies/axos?utm_source=github&utm_medium=joblist&utm_campaign=summer-2027-internships&utm_content=company",
+   "title": "Data Analyst Intern",
+   "locations": [
+    "Omaha, NE"
+   ],
+   "section": "data",
+   "posted": "2026-10-06",
+   "added": "2026-10-17T22:44:43.000Z",
+   "url": "https://aplyr.ai/jobs/3b91cc640b39/data-analyst-intern?utm_source=github&utm_medium=joblist&utm_campaign=summer-2027-internships&utm_content=apply",
+   "firstSeen": "2026-10-27"
   },
   "hpe.com::electrical engineering labs intern": {
    "id": "182504786ccb",
@@ -8054,20 +8659,20 @@
    "sponsorsH1B": true,
    "firstSeen": "2026-10-17"
   },
-  "gm.com::2027 summer intern ai ml engineer mapping": {
+  "gm.com::2027 summer intern ai ml engineer mapping phd": {
    "id": "a1de72e0e270",
    "company": "General Motors",
    "companyUrl": "https://aplyr.ai/companies/gm?utm_source=github&utm_medium=joblist&utm_campaign=summer-2027-internships&utm_content=company",
-   "title": "2027 Summer Intern, AI/ML Engineer, Mapping",
+   "title": "2027 Summer Intern, AI/ML Engineer, Mapping (PhD)",
    "locations": [
     "Warren, Michigan"
    ],
    "section": "data",
    "posted": "2026-10-05",
    "added": "2026-10-06T09:00:33.000Z",
-   "url": "https://aplyr.ai/jobs/a1de72e0e270/2027-summer-intern-aiml-engineer-mapping?utm_source=github&utm_medium=joblist&utm_campaign=summer-2027-internships&utm_content=apply",
+   "url": "https://aplyr.ai/jobs/a1de72e0e270/2027-summer-intern-aiml-engineer-mapping-phd?utm_source=github&utm_medium=joblist&utm_campaign=summer-2027-internships&utm_content=apply",
    "sponsorsH1B": true,
-   "firstSeen": "2026-10-17"
+   "firstSeen": "2026-10-27"
   },
   "cai.io::data analyst intern": {
    "id": "3d2bb285057b",
@@ -9155,21 +9760,6 @@
    "posted": "2026-10-01",
    "added": "2026-10-17T22:27:12.000Z",
    "url": "https://aplyr.ai/jobs/c63102624441/2027-summer-intern-aiml-engineer-autonomous-vehicles-simulation-phd?utm_source=github&utm_medium=joblist&utm_campaign=summer-2027-internships&utm_content=apply",
-   "sponsorsH1B": true,
-   "firstSeen": "2026-10-17"
-  },
-  "pnc.com::graduate intern portfolio management and analytics chief investment office cio non campus": {
-   "id": "32ffb8fded95",
-   "company": "PNC Financial",
-   "companyUrl": "https://aplyr.ai/companies/pnc?utm_source=github&utm_medium=joblist&utm_campaign=summer-2027-internships&utm_content=company",
-   "title": "Graduate Intern, Portfolio Management and Analytics, Chief Investment Office (CIO) (Non-Campus)",
-   "locations": [
-    "NY - New York (10173)"
-   ],
-   "section": "data",
-   "posted": "2026-10-01",
-   "added": "2026-10-17T22:24:08.000Z",
-   "url": "https://aplyr.ai/jobs/32ffb8fded95/graduate-intern-portfolio-management-and-analytics-chief-investment-office-cio-n?utm_source=github&utm_medium=joblist&utm_campaign=summer-2027-internships&utm_content=apply",
    "sponsorsH1B": true,
    "firstSeen": "2026-10-17"
   },
@@ -10452,22 +11042,6 @@
    "sponsorsH1B": true,
    "firstSeen": "2026-10-17"
   },
-  "abbvie.com::2027 business technology solutions intern cybersecurity undergraduate": {
-   "id": "c5b8f3434ec6",
-   "company": "AbbVie",
-   "companyUrl": "https://aplyr.ai/companies/abbvie?utm_source=github&utm_medium=joblist&utm_campaign=summer-2027-internships&utm_content=company",
-   "title": "2027 Business Technology Solutions Intern - Cybersecurity (Undergraduate)",
-   "locations": [
-    "North Chicago"
-   ],
-   "section": "swe",
-   "posted": "2026-09-25",
-   "added": "2026-09-26T05:45:56.000Z",
-   "pay": "$21–37.8/hr",
-   "url": "https://aplyr.ai/jobs/c5b8f3434ec6/2027-business-technology-solutions-intern-cybersecurity-undergraduate?utm_source=github&utm_medium=joblist&utm_campaign=summer-2027-internships&utm_content=apply",
-   "sponsorsH1B": true,
-   "firstSeen": "2026-10-18"
-  },
   "rtx.com::2027 network engineering intern": {
    "id": "aad97aab6ae1",
    "company": "RTX/Raytheon",
@@ -11129,21 +11703,6 @@
    "sponsorsH1B": true,
    "firstSeen": "2026-10-17"
   },
-  "danaher.com::it data analyst intern": {
-   "id": "820729ca2bd5",
-   "company": "Danaher",
-   "companyUrl": "https://aplyr.ai/companies/danaher?utm_source=github&utm_medium=joblist&utm_campaign=summer-2027-internships&utm_content=company",
-   "title": "IT Data Analyst Intern",
-   "locations": [
-    "Brea, California"
-   ],
-   "section": "data",
-   "posted": "2026-09-22",
-   "added": "2026-10-17T22:42:23.000Z",
-   "url": "https://aplyr.ai/jobs/820729ca2bd5/it-data-analyst-intern?utm_source=github&utm_medium=joblist&utm_campaign=summer-2027-internships&utm_content=apply",
-   "sponsorsH1B": true,
-   "firstSeen": "2026-10-17"
-  },
   "danaher.com::product management marketing intern summer 2027 intern": {
    "id": "17cde07a41e6",
    "company": "Danaher",
@@ -11187,21 +11746,6 @@
    "posted": "2026-09-22",
    "added": "2026-10-17T22:25:12.000Z",
    "url": "https://aplyr.ai/jobs/2639b97c5847/summer-2027-software-engineering-intern-onsite?utm_source=github&utm_medium=joblist&utm_campaign=summer-2027-internships&utm_content=apply",
-   "sponsorsH1B": true,
-   "firstSeen": "2026-10-17"
-  },
-  "kla.com::software engineering intern c++ unix": {
-   "id": "0325373782a5",
-   "company": "KLA Corporation",
-   "companyUrl": "https://aplyr.ai/companies/kla?utm_source=github&utm_medium=joblist&utm_campaign=summer-2027-internships&utm_content=company",
-   "title": "Software Engineering Intern (C++, Unix)",
-   "locations": [
-    "Milpitas, CA"
-   ],
-   "section": "swe",
-   "posted": "2026-09-22",
-   "added": "2026-10-17T22:24:25.000Z",
-   "url": "https://aplyr.ai/jobs/0325373782a5/software-engineering-intern-c-unix?utm_source=github&utm_medium=joblist&utm_campaign=summer-2027-internships&utm_content=apply",
    "sponsorsH1B": true,
    "firstSeen": "2026-10-17"
   },
@@ -11270,113 +11814,6 @@
    "sponsorsH1B": true,
    "firstSeen": "2026-10-17"
   },
-  "tanium.com::cloud security intern": {
-   "id": "ee8b64ab6af4",
-   "company": "Tanium",
-   "companyUrl": "https://aplyr.ai/companies/tanium?utm_source=github&utm_medium=joblist&utm_campaign=summer-2027-internships&utm_content=company",
-   "title": "Cloud Security Intern",
-   "locations": [
-    "Durham, NC (Hybrid)"
-   ],
-   "section": "swe",
-   "posted": "2026-09-22",
-   "added": "2026-09-23T07:46:42.000Z",
-   "pay": "$55/hr",
-   "url": "https://aplyr.ai/jobs/ee8b64ab6af4/cloud-security-intern?utm_source=github&utm_medium=joblist&utm_campaign=summer-2027-internships&utm_content=apply",
-   "sponsorsH1B": true,
-   "firstSeen": "2026-10-17"
-  },
-  "haigroup.com::software development intern": {
-   "id": "efdf17ff2345",
-   "company": "Haigroup",
-   "companyUrl": "https://aplyr.ai/companies/haigroup?utm_source=github&utm_medium=joblist&utm_campaign=summer-2027-internships&utm_content=company",
-   "title": "Software Development Intern",
-   "locations": [
-    "Cheshire, CT"
-   ],
-   "section": "swe",
-   "posted": "2026-09-22",
-   "added": "2026-09-23T06:15:54.000Z",
-   "pay": "$22–25/hr",
-   "url": "https://aplyr.ai/jobs/efdf17ff2345/software-development-intern?utm_source=github&utm_medium=joblist&utm_campaign=summer-2027-internships&utm_content=apply",
-   "firstSeen": "2026-10-17"
-  },
-  "haigroup.com::data analytics intern": {
-   "id": "0e49de16435b",
-   "company": "Haigroup",
-   "companyUrl": "https://aplyr.ai/companies/haigroup?utm_source=github&utm_medium=joblist&utm_campaign=summer-2027-internships&utm_content=company",
-   "title": "Data Analytics Intern",
-   "locations": [
-    "Cheshire, CT"
-   ],
-   "section": "data",
-   "posted": "2026-09-22",
-   "added": "2026-09-23T06:15:54.000Z",
-   "pay": "$22–25/hr",
-   "url": "https://aplyr.ai/jobs/0e49de16435b/data-analytics-intern?utm_source=github&utm_medium=joblist&utm_campaign=summer-2027-internships&utm_content=apply",
-   "firstSeen": "2026-10-17"
-  },
-  "premierinc.com::data science intern": {
-   "id": "47376c782c82",
-   "company": "Premier",
-   "companyUrl": "https://aplyr.ai/companies/premierinc?utm_source=github&utm_medium=joblist&utm_campaign=summer-2027-internships&utm_content=company",
-   "title": "Data Science Intern",
-   "locations": [
-    "Charlotte, NC"
-   ],
-   "section": "data",
-   "posted": "2026-09-22",
-   "added": "2026-09-05T06:01:22.000Z",
-   "pay": "$52k–78k/yr",
-   "url": "https://aplyr.ai/jobs/47376c782c82/data-science-intern?utm_source=github&utm_medium=joblist&utm_campaign=summer-2027-internships&utm_content=apply",
-   "firstSeen": "2026-10-18"
-  },
-  "premierinc.com::software engineer intern": {
-   "id": "03a0b2339c5f",
-   "company": "Premier",
-   "companyUrl": "https://aplyr.ai/companies/premierinc?utm_source=github&utm_medium=joblist&utm_campaign=summer-2027-internships&utm_content=company",
-   "title": "Software Engineer Intern",
-   "locations": [
-    "Charlotte, NC"
-   ],
-   "section": "swe",
-   "posted": "2026-09-22",
-   "added": "2026-09-05T06:01:22.000Z",
-   "pay": "$190k–300k/yr",
-   "url": "https://aplyr.ai/jobs/03a0b2339c5f/software-engineer-intern?utm_source=github&utm_medium=joblist&utm_campaign=summer-2027-internships&utm_content=apply",
-   "firstSeen": "2026-10-18"
-  },
-  "coinbase.com::internal audit analytics intern": {
-   "id": "cda8b770c982",
-   "company": "Coinbase",
-   "companyUrl": "https://aplyr.ai/companies/coinbase?utm_source=github&utm_medium=joblist&utm_campaign=summer-2027-internships&utm_content=company",
-   "title": "Internal Audit Analytics Intern",
-   "locations": [
-    "Hybrid - New York, NY"
-   ],
-   "section": "data",
-   "posted": "2026-09-22",
-   "added": "2026-09-22T05:31:36.000Z",
-   "pay": "$50/hr",
-   "url": "https://aplyr.ai/jobs/cda8b770c982/internal-audit-analytics-intern?utm_source=github&utm_medium=joblist&utm_campaign=summer-2027-internships&utm_content=apply",
-   "sponsorsH1B": true,
-   "firstSeen": "2026-10-17"
-  },
-  "emcins.com::intern software engineering": {
-   "id": "9c38e062cf64",
-   "company": "EMC Insurance",
-   "companyUrl": "https://aplyr.ai/companies/emcins?utm_source=github&utm_medium=joblist&utm_campaign=summer-2027-internships&utm_content=company",
-   "title": "Intern - Software Engineering",
-   "locations": [
-    "Iowa"
-   ],
-   "remote": true,
-   "section": "swe",
-   "posted": "2026-09-22",
-   "added": "2026-10-17T22:44:43.000Z",
-   "url": "https://aplyr.ai/jobs/9c38e062cf64/intern-software-engineering?utm_source=github&utm_medium=joblist&utm_campaign=summer-2027-internships&utm_content=apply",
-   "firstSeen": "2026-10-17"
-  },
   "aerospace.org::2027 modeling and simulation graduate intern communication and ground architectures": {
    "id": "fa54c273d864",
    "company": "Aerospace Corporation",
@@ -11391,21 +11828,6 @@
    "added": "2026-10-17T22:44:43.000Z",
    "url": "https://aplyr.ai/jobs/fa54c273d864/2027-modeling-and-simulation-graduate-intern-communication-and-ground-architectu?utm_source=github&utm_medium=joblist&utm_campaign=summer-2027-internships&utm_content=apply",
    "firstSeen": "2026-10-18"
-  },
-  "kla.com::algorithm engineering intern ai computer vision software engineering": {
-   "id": "797908fbc899",
-   "company": "KLA Corporation",
-   "companyUrl": "https://aplyr.ai/companies/kla?utm_source=github&utm_medium=joblist&utm_campaign=summer-2027-internships&utm_content=company",
-   "title": "Algorithm Engineering Intern (AI, Computer Vision & Software Engineering)",
-   "locations": [
-    "Milpitas, CA"
-   ],
-   "section": "swe",
-   "posted": "2026-09-22",
-   "added": "2026-10-17T22:24:25.000Z",
-   "url": "https://aplyr.ai/jobs/797908fbc899/algorithm-engineering-intern-ai-computer-vision-software-engineering?utm_source=github&utm_medium=joblist&utm_campaign=summer-2027-internships&utm_content=apply",
-   "sponsorsH1B": true,
-   "firstSeen": "2026-10-17"
   },
   "astranis.com::assembly integration and test intern summer 2027": {
    "id": "48e50e028057",
@@ -11422,39 +11844,6 @@
    "url": "https://aplyr.ai/jobs/48e50e028057/assembly-integration-and-test-intern-summer-2027?utm_source=github&utm_medium=joblist&utm_campaign=summer-2027-internships&utm_content=apply",
    "noSponsorship": true,
    "firstSeen": "2026-10-17"
-  },
-  "one.app::ai research intern": {
-   "id": "695b5ddc9805",
-   "company": "ONE Finance",
-   "companyUrl": "https://aplyr.ai/companies/one?utm_source=github&utm_medium=joblist&utm_campaign=summer-2027-internships&utm_content=company",
-   "title": "AI Research Intern",
-   "locations": [
-    "United States (Remote)"
-   ],
-   "remote": true,
-   "section": "data",
-   "posted": "2026-09-21",
-   "added": "2026-09-22T10:00:38.000Z",
-   "pay": "$32/hr",
-   "url": "https://aplyr.ai/jobs/695b5ddc9805/ai-research-intern?utm_source=github&utm_medium=joblist&utm_campaign=summer-2027-internships&utm_content=apply",
-   "noSponsorship": true,
-   "firstSeen": "2026-10-18"
-  },
-  "g2.com::intern ai agent evaluations": {
-   "id": "a2c1648adab9",
-   "company": "G2",
-   "companyUrl": "https://aplyr.ai/companies/g2?utm_source=github&utm_medium=joblist&utm_campaign=summer-2027-internships&utm_content=company",
-   "title": "Intern, AI Agent Evaluations",
-   "locations": [
-    "San Francisco, CA"
-   ],
-   "section": "data",
-   "posted": "2026-09-21",
-   "added": "2026-09-22T10:00:38.000Z",
-   "pay": "$24/hr",
-   "url": "https://aplyr.ai/jobs/a2c1648adab9/intern-ai-agent-evaluations?utm_source=github&utm_medium=joblist&utm_campaign=summer-2027-internships&utm_content=apply",
-   "sponsorsH1B": true,
-   "firstSeen": "2026-10-18"
   },
   "waymo.com::2027 summer intern ms phd software ml engineer simulation": {
    "id": "c90870c95ce7",
@@ -11486,37 +11875,6 @@
    "pay": "$70–85/hr",
    "url": "https://aplyr.ai/jobs/32149468795a/2027-summer-intern-msphd-software-engineer-simulation-evaluation-ml-model?utm_source=github&utm_medium=joblist&utm_campaign=summer-2027-internships&utm_content=apply",
    "sponsorsH1B": true,
-   "firstSeen": "2026-10-17"
-  },
-  "aecom.com::transit planning intern ii": {
-   "id": "878867e40278",
-   "company": "AECOM",
-   "companyUrl": "https://aplyr.ai/companies/aecom?utm_source=github&utm_medium=joblist&utm_campaign=summer-2027-internships&utm_content=company",
-   "title": "Transit Planning Intern II",
-   "locations": [
-    "Detroit"
-   ],
-   "section": "swe",
-   "posted": "2026-09-21",
-   "added": "2026-09-22T10:30:25.000Z",
-   "pay": "$20.31–27.92/hr",
-   "url": "https://aplyr.ai/jobs/878867e40278/transit-planning-intern-ii?utm_source=github&utm_medium=joblist&utm_campaign=summer-2027-internships&utm_content=apply",
-   "sponsorsH1B": true,
-   "firstSeen": "2026-10-17"
-  },
-  "amd.com::summer 2027 master s ai research reinforcement learning and llm post training intern": {
-   "id": "79471d19cee2",
-   "company": "AMD",
-   "companyUrl": "https://aplyr.ai/companies/amd?utm_source=github&utm_medium=joblist&utm_campaign=summer-2027-internships&utm_content=company",
-   "title": "Summer 2027 Master's AI Research, Reinforcement Learning and LLM Post-Training Intern",
-   "locations": [
-    "Santa Clara, California"
-   ],
-   "section": "data",
-   "posted": "2026-09-21",
-   "added": "2026-10-17T21:53:01.000Z",
-   "url": "https://aplyr.ai/jobs/79471d19cee2/summer-2027-masters-ai-research-reinforcement-learning-and-llm-post-training-int?utm_source=github&utm_medium=joblist&utm_campaign=summer-2027-internships&utm_content=apply",
-   "noSponsorship": true,
    "firstSeen": "2026-10-17"
   },
   "amd.com::summer 2027 phd technical program manager ai research intern": {
@@ -11610,81 +11968,6 @@
    "url": "https://aplyr.ai/jobs/5faf23db118d/2027-summer-it-internship-program?utm_source=github&utm_medium=joblist&utm_campaign=summer-2027-internships&utm_content=apply",
    "firstSeen": "2026-10-18"
   },
-  "wellmark.com::software engineer internship technology healthcare innovation": {
-   "id": "a588fdaece03",
-   "company": "Wellmark",
-   "companyUrl": "https://aplyr.ai/companies/wellmark?utm_source=github&utm_medium=joblist&utm_campaign=summer-2027-internships&utm_content=company",
-   "title": "Software Engineer Internship - Technology Healthcare Innovation",
-   "locations": [
-    "Des Moines"
-   ],
-   "section": "swe",
-   "posted": "2026-09-21",
-   "added": "2026-09-22T11:00:32.000Z",
-   "url": "https://aplyr.ai/jobs/a588fdaece03/software-engineer-internship-technology-healthcare-innovation?utm_source=github&utm_medium=joblist&utm_campaign=summer-2027-internships&utm_content=apply",
-   "firstSeen": "2026-10-17"
-  },
-  "rtx.com::electrical engineer intern": {
-   "id": "801fcaa5e512",
-   "company": "RTX/Raytheon",
-   "companyUrl": "https://aplyr.ai/companies/rtx?utm_source=github&utm_medium=joblist&utm_campaign=summer-2027-internships&utm_content=company",
-   "title": "Electrical Engineer Intern",
-   "locations": [
-    "US-AZ-TUCSON-805 ~ 1151 E Hermans Rd ~ BLDG 805"
-   ],
-   "section": "hw",
-   "posted": "2026-09-21",
-   "added": "2026-09-22T08:00:40.000Z",
-   "pay": "$63k–120k/yr",
-   "url": "https://aplyr.ai/jobs/801fcaa5e512/electrical-engineer-intern?utm_source=github&utm_medium=joblist&utm_campaign=summer-2027-internships&utm_content=apply",
-   "sponsorsH1B": true,
-   "firstSeen": "2026-10-17"
-  },
-  "rtx.com::software engineer intern": {
-   "id": "7797f32acd6f",
-   "company": "RTX/Raytheon",
-   "companyUrl": "https://aplyr.ai/companies/rtx?utm_source=github&utm_medium=joblist&utm_campaign=summer-2027-internships&utm_content=company",
-   "title": "Software Engineer Intern",
-   "locations": [
-    "US-AZ-TUCSON-805 ~ 1151 E Hermans Rd ~ BLDG 805"
-   ],
-   "section": "swe",
-   "posted": "2026-09-21",
-   "added": "2026-09-22T08:00:40.000Z",
-   "pay": "$69k–131k/yr",
-   "url": "https://aplyr.ai/jobs/7797f32acd6f/software-engineer-intern?utm_source=github&utm_medium=joblist&utm_campaign=summer-2027-internships&utm_content=apply",
-   "sponsorsH1B": true,
-   "firstSeen": "2026-10-17"
-  },
-  "imegcorp.com::electrical engineering intern anaheim ca": {
-   "id": "db4ca993fa5c",
-   "company": "IMEG",
-   "companyUrl": "https://aplyr.ai/companies/imegcorp?utm_source=github&utm_medium=joblist&utm_campaign=summer-2027-internships&utm_content=company",
-   "title": "Electrical Engineering Intern | Anaheim, CA",
-   "locations": [
-    "Anaheim, CA"
-   ],
-   "section": "hw",
-   "posted": "2026-09-21",
-   "added": "2026-10-18T00:22:00.000Z",
-   "url": "https://aplyr.ai/jobs/db4ca993fa5c/electrical-engineering-intern-anaheim-ca?utm_source=github&utm_medium=joblist&utm_campaign=summer-2027-internships&utm_content=apply",
-   "firstSeen": "2026-10-18"
-  },
-  "cadence.com::graduate student intern software engineering": {
-   "id": "b4d294e7a873",
-   "company": "Cadence Design Systems",
-   "companyUrl": "https://aplyr.ai/companies/cadence?utm_source=github&utm_medium=joblist&utm_campaign=summer-2027-internships&utm_content=company",
-   "title": "Graduate Student Intern - Software Engineering",
-   "locations": [
-    "AUSTIN"
-   ],
-   "section": "swe",
-   "posted": "2026-09-21",
-   "added": "2026-10-17T22:43:58.000Z",
-   "url": "https://aplyr.ai/jobs/b4d294e7a873/graduate-student-intern-software-engineering?utm_source=github&utm_medium=joblist&utm_campaign=summer-2027-internships&utm_content=apply",
-   "sponsorsH1B": true,
-   "firstSeen": "2026-10-17"
-  },
   "3m.com::internship 2027 mba it enterprise application intern": {
    "id": "8e018a36abb7",
    "company": "3M",
@@ -11730,20 +12013,6 @@
    "pay": "$18–37/hr",
    "url": "https://aplyr.ai/jobs/e704fa878138/summer-2027-advanced-analytics-intern?utm_source=github&utm_medium=joblist&utm_campaign=summer-2027-internships&utm_content=apply",
    "sponsorsH1B": true,
-   "firstSeen": "2026-10-18"
-  },
-  "theocc.com::summer intern product management": {
-   "id": "292619d33d1d",
-   "company": "OCC",
-   "companyUrl": "https://aplyr.ai/companies/theocc?utm_source=github&utm_medium=joblist&utm_campaign=summer-2027-internships&utm_content=company",
-   "title": "Summer Intern - Product Management",
-   "locations": [
-    "Chicago - 125 S Franklin"
-   ],
-   "section": "pm",
-   "posted": "2026-09-19",
-   "added": "2026-10-18T00:41:03.000Z",
-   "url": "https://aplyr.ai/jobs/292619d33d1d/summer-intern-product-management?utm_source=github&utm_medium=joblist&utm_campaign=summer-2027-internships&utm_content=apply",
    "firstSeen": "2026-10-18"
   },
   "global.abb::planning fulfillment intern summer 2027": {
@@ -12916,21 +13185,6 @@
    "sponsorsH1B": true,
    "firstSeen": "2026-10-17"
   },
-  "abbott.com::2027 it cancer diagnostics intern": {
-   "id": "4688f4216fc4",
-   "company": "Abbott",
-   "companyUrl": "https://aplyr.ai/companies/abbott?utm_source=github&utm_medium=joblist&utm_campaign=summer-2027-internships&utm_content=company",
-   "title": "2027 IT Cancer Diagnostics Intern",
-   "locations": [
-    "United States > Madison : 1 Exact Lane"
-   ],
-   "section": "swe",
-   "posted": "2026-09-15",
-   "added": "2026-10-17T22:02:47.000Z",
-   "url": "https://aplyr.ai/jobs/4688f4216fc4/2027-it-cancer-diagnostics-intern?utm_source=github&utm_medium=joblist&utm_campaign=summer-2027-internships&utm_content=apply",
-   "sponsorsH1B": true,
-   "firstSeen": "2026-10-17"
-  },
   "doordash.com::software engineer intern summer 2027 us": {
    "id": "0dc97601a272",
    "company": "DoorDash",
@@ -13060,6 +13314,21 @@
    "posted": "2026-09-14",
    "added": "2026-10-18T00:41:03.000Z",
    "url": "https://aplyr.ai/jobs/a742f3295db2/information-technology-internship-program-summer-2027?utm_source=github&utm_medium=joblist&utm_campaign=summer-2027-internships&utm_content=apply",
+   "firstSeen": "2026-10-18"
+  },
+  "airbus.com::2027 summer internship quality assurance engineering": {
+   "id": "65a1cad4e8e0",
+   "company": "Airbus",
+   "companyUrl": "https://aplyr.ai/companies/airbus?utm_source=github&utm_medium=joblist&utm_campaign=summer-2027-internships&utm_content=company",
+   "title": "2027 Summer Internship - Quality Assurance Engineering",
+   "locations": [
+    "Kinston, NC"
+   ],
+   "section": "swe",
+   "posted": "2026-09-14",
+   "added": "2026-10-18T00:41:03.000Z",
+   "url": "https://aplyr.ai/jobs/65a1cad4e8e0/2027-summer-internship-quality-assurance-engineering?utm_source=github&utm_medium=joblist&utm_campaign=summer-2027-internships&utm_content=apply",
+   "sponsorsH1B": true,
    "firstSeen": "2026-10-18"
   },
   "hntb.com::rail transit intern engineer summer 2027": {
@@ -13896,6 +14165,21 @@
    "url": "https://aplyr.ai/jobs/c0b706dcb95f/aircraft-software-integration-intern-summer-2027?utm_source=github&utm_medium=joblist&utm_campaign=summer-2027-internships&utm_content=apply",
    "firstSeen": "2026-10-17"
   },
+  "schonfeld.com::2027 data science intern": {
+   "id": "164ffe0256c1",
+   "company": "Schonfeld",
+   "companyUrl": "https://aplyr.ai/companies/schonfeld?utm_source=github&utm_medium=joblist&utm_campaign=summer-2027-internships&utm_content=company",
+   "title": "2027 Data Science Intern",
+   "locations": [
+    "New York, New York"
+   ],
+   "section": "data",
+   "posted": "2026-09-04",
+   "added": "2026-10-27T07:15:44.000Z",
+   "url": "https://aplyr.ai/jobs/164ffe0256c1/2027-data-science-intern?utm_source=github&utm_medium=joblist&utm_campaign=summer-2027-internships&utm_content=apply",
+   "sponsorsH1B": true,
+   "firstSeen": "2026-10-27"
+  },
   "schonfeld.com::2027 business analytics intern": {
    "id": "71d0489e33d1",
    "company": "Schonfeld",
@@ -14017,11 +14301,11 @@
    "sponsorsH1B": true,
    "firstSeen": "2026-10-17"
   },
-  "skydio.com::autonomy engineer intern computer vision deep learning summer 2027": {
+  "skydio.com::autonomy engineer intern computer vision deep learning 2027": {
    "id": "9de1f1b45189",
    "company": "Skydio",
    "companyUrl": "https://aplyr.ai/companies/skydio?utm_source=github&utm_medium=joblist&utm_campaign=summer-2027-internships&utm_content=company",
-   "title": "Autonomy Engineer Intern, Computer Vision / Deep Learning, Summer 2027",
+   "title": "Autonomy Engineer Intern, Computer Vision / Deep Learning, 2027",
    "locations": [
     "San Mateo, California"
    ],
@@ -14029,8 +14313,8 @@
    "posted": "2026-09-03",
    "added": "2026-09-17T09:45:31.000Z",
    "pay": "$47/hr",
-   "url": "https://aplyr.ai/jobs/9de1f1b45189/autonomy-engineer-intern-computer-vision-deep-learning-summer-2027?utm_source=github&utm_medium=joblist&utm_campaign=summer-2027-internships&utm_content=apply",
-   "firstSeen": "2026-10-17"
+   "url": "https://aplyr.ai/jobs/9de1f1b45189/autonomy-engineer-intern-computer-vision-deep-learning-2027?utm_source=github&utm_medium=joblist&utm_campaign=summer-2027-internships&utm_content=apply",
+   "firstSeen": "2026-10-27"
   },
   "waymo.com::2027 summer intern ms software engineering behavior test": {
    "id": "b410f00f0b82",
@@ -14123,283 +14407,810 @@
    "url": "https://aplyr.ai/jobs/3514492ddb8f/software-engineering-intern-summer-2027?utm_source=github&utm_medium=joblist&utm_campaign=summer-2027-internships&utm_content=apply",
    "noSponsorship": true,
    "firstSeen": "2026-10-24"
-  },
-  "roblox.com::summer 2027 product management intern": {
-   "id": "cba9b67073bd",
-   "company": "Roblox",
-   "companyUrl": "https://aplyr.ai/companies/roblox?utm_source=github&utm_medium=joblist&utm_campaign=summer-2027-internships&utm_content=company",
-   "title": "[Summer 2027] Product Management Intern",
-   "locations": [
-    "San Mateo, CA"
-   ],
-   "section": "swe",
-   "posted": "2026-09-02",
-   "added": "2026-09-17T07:15:43.000Z",
-   "pay": "$62/hr",
-   "url": "https://aplyr.ai/jobs/cba9b67073bd/summer-2027-product-management-intern?utm_source=github&utm_medium=joblist&utm_campaign=summer-2027-internships&utm_content=apply",
-   "sponsorsH1B": true,
-   "firstSeen": "2026-10-25"
-  },
-  "roblox.com::summer 2027 product design intern": {
-   "id": "dec7a44932da",
-   "company": "Roblox",
-   "companyUrl": "https://aplyr.ai/companies/roblox?utm_source=github&utm_medium=joblist&utm_campaign=summer-2027-internships&utm_content=company",
-   "title": "[Summer 2027] Product Design Intern",
-   "locations": [
-    "San Mateo, CA"
-   ],
-   "section": "pm",
-   "posted": "2026-09-02",
-   "added": "2026-09-17T07:15:43.000Z",
-   "pay": "$58/hr",
-   "url": "https://aplyr.ai/jobs/dec7a44932da/summer-2027-product-design-intern?utm_source=github&utm_medium=joblist&utm_campaign=summer-2027-internships&utm_content=apply",
-   "sponsorsH1B": true,
-   "firstSeen": "2026-10-25"
-  },
-  "jmsmucker.com::operations qa intern summer 2027 decatur al": {
-   "id": "a3c6f08dedae",
-   "company": "J.M. Smucker",
-   "companyUrl": "https://aplyr.ai/companies/jmsmucker?utm_source=github&utm_medium=joblist&utm_campaign=summer-2027-internships&utm_content=company",
-   "title": "Operations QA Intern, Summer 2027- Decatur, AL",
-   "locations": [
-    "Decatur, AL"
-   ],
-   "section": "swe",
-   "posted": "2026-09-02",
-   "added": "2026-09-03T07:00:46.000Z",
-   "pay": "$26/hr",
-   "url": "https://aplyr.ai/jobs/a3c6f08dedae/operations-qa-intern-summer-2027-decatur-al?utm_source=github&utm_medium=joblist&utm_campaign=summer-2027-internships&utm_content=apply",
-   "firstSeen": "2026-10-25"
-  },
-  "michelin.com::summer 2027 internship data engineering ardmore ok": {
-   "id": "dc98d2e64757",
-   "company": "Michelin",
-   "companyUrl": "https://aplyr.ai/companies/michelin?utm_source=github&utm_medium=joblist&utm_campaign=summer-2027-internships&utm_content=company",
-   "title": "Summer 2027 Internship: Data Engineering (Ardmore, OK)",
-   "locations": [
-    "ARDMORE, OK"
-   ],
-   "section": "data",
-   "posted": "2026-09-02",
-   "added": "2026-09-03T06:30:41.000Z",
-   "url": "https://aplyr.ai/jobs/dc98d2e64757/summer-2027-internship-data-engineering-ardmore-ok?utm_source=github&utm_medium=joblist&utm_campaign=summer-2027-internships&utm_content=apply",
-   "firstSeen": "2026-10-25"
-  },
-  "mckesson.com::software development intern summer 2027": {
-   "id": "e5a4ecb83340",
-   "company": "McKesson",
-   "companyUrl": "https://aplyr.ai/companies/mckesson?utm_source=github&utm_medium=joblist&utm_campaign=summer-2027-internships&utm_content=company",
-   "title": "Software Development Intern - Summer 2027",
-   "locations": [
-    "USA, TX, Irving"
-   ],
-   "section": "swe",
-   "posted": "2026-09-02",
-   "added": "2026-10-17T22:18:07.000Z",
-   "url": "https://aplyr.ai/jobs/e5a4ecb83340/software-development-intern-summer-2027?utm_source=github&utm_medium=joblist&utm_campaign=summer-2027-internships&utm_content=apply",
-   "sponsorsH1B": true,
-   "firstSeen": "2026-10-25"
-  },
-  "hp.com::software engineering intern connectivity summer 2027": {
-   "id": "7b65aed46c25",
-   "company": "HP IQ",
-   "companyUrl": "https://aplyr.ai/companies/hp?utm_source=github&utm_medium=joblist&utm_campaign=summer-2027-internships&utm_content=company",
-   "title": "Software Engineering Intern, Connectivity (Summer 2027)",
-   "locations": [
-    "San Francisco, CA"
-   ],
-   "section": "swe",
-   "posted": "2026-09-01",
-   "added": "2026-09-17T06:16:13.000Z",
-   "pay": "$54k–62k/yr",
-   "url": "https://aplyr.ai/jobs/7b65aed46c25/software-engineering-intern-connectivity-summer-2027?utm_source=github&utm_medium=joblist&utm_campaign=summer-2027-internships&utm_content=apply",
-   "sponsorsH1B": true,
-   "firstSeen": "2026-10-25"
-  },
-  "wightco.com::building electrical engineering intern summer 2027": {
-   "id": "9598193978f1",
-   "company": "Wight & Company",
-   "companyUrl": "https://aplyr.ai/companies/wightco?utm_source=github&utm_medium=joblist&utm_campaign=summer-2027-internships&utm_content=company",
-   "title": "Building Electrical Engineering Intern - Summer 2027",
-   "locations": [
-    "Darien, Illinois"
-   ],
-   "section": "hw",
-   "posted": "2026-09-01",
-   "added": "2026-09-18T04:45:16.000Z",
-   "pay": "$20–25/hr",
-   "url": "https://aplyr.ai/jobs/9598193978f1/building-electrical-engineering-intern-summer-2027?utm_source=github&utm_medium=joblist&utm_campaign=summer-2027-internships&utm_content=apply",
-   "firstSeen": "2026-10-25"
-  },
-  "pimco.com::2027 summer intern phd quant research analyst client solutions analytics us": {
-   "id": "2bc06417c725",
-   "company": "PIMCO",
-   "companyUrl": "https://aplyr.ai/companies/pimco?utm_source=github&utm_medium=joblist&utm_campaign=summer-2027-internships&utm_content=company",
-   "title": "2027 Summer Intern – PhD Quant Research Analyst, Client Solutions & Analytics, US",
-   "locations": [
-    "Newport Beach, CA USA"
-   ],
-   "section": "quant",
-   "posted": "2026-09-01",
-   "added": "2026-09-02T07:15:41.000Z",
-   "pay": "$165k/yr",
-   "url": "https://aplyr.ai/jobs/2bc06417c725/2027-summer-intern-phd-quant-research-analyst-client-solutions-analytics-us?utm_source=github&utm_medium=joblist&utm_campaign=summer-2027-internships&utm_content=apply",
-   "firstSeen": "2026-10-25"
-  },
-  "pimco.com::2027 summer intern masters quant research analyst client solutions analytics us": {
-   "id": "85a291606394",
-   "company": "PIMCO",
-   "companyUrl": "https://aplyr.ai/companies/pimco?utm_source=github&utm_medium=joblist&utm_campaign=summer-2027-internships&utm_content=company",
-   "title": "2027 Summer Intern - Masters Quant Research Analyst, Client Solutions & Analytics, US",
-   "locations": [
-    "Newport Beach, CA USA"
-   ],
-   "section": "quant",
-   "posted": "2026-09-01",
-   "added": "2026-09-02T07:15:41.000Z",
-   "pay": "$205k/yr",
-   "url": "https://aplyr.ai/jobs/85a291606394/2027-summer-intern-masters-quant-research-analyst-client-solutions-analytics-us?utm_source=github&utm_medium=joblist&utm_campaign=summer-2027-internships&utm_content=apply",
-   "firstSeen": "2026-10-25"
-  },
-  "pimco.com::2027 mba summer intern credit research analyst us": {
-   "id": "747c8b35c07a",
-   "company": "PIMCO",
-   "companyUrl": "https://aplyr.ai/companies/pimco?utm_source=github&utm_medium=joblist&utm_campaign=summer-2027-internships&utm_content=company",
-   "title": "2027 MBA Summer Intern – Credit Research Analyst, US",
-   "locations": [
-    "Newport Beach, CA USA"
-   ],
-   "section": "swe",
-   "posted": "2026-09-01",
-   "added": "2026-09-02T07:15:41.000Z",
-   "pay": "$180k/yr",
-   "url": "https://aplyr.ai/jobs/747c8b35c07a/2027-mba-summer-intern-credit-research-analyst-us?utm_source=github&utm_medium=joblist&utm_campaign=summer-2027-internships&utm_content=apply",
-   "firstSeen": "2026-10-25"
-  },
-  "oshkoshcorp.com::product management intern summer 2027": {
-   "id": "c8ef29dfbb1e",
-   "company": "Oshkosh",
-   "companyUrl": "https://aplyr.ai/companies/oshkoshcorp?utm_source=github&utm_medium=joblist&utm_campaign=summer-2027-internships&utm_content=company",
-   "title": "Product Management Intern (Summer 2027)",
-   "locations": [
-    "Appleton, Wisconsin"
-   ],
-   "section": "pm",
-   "posted": "2026-09-01",
-   "added": "2026-09-02T05:15:48.000Z",
-   "pay": "$18–37/hr",
-   "url": "https://aplyr.ai/jobs/c8ef29dfbb1e/product-management-intern-summer-2027?utm_source=github&utm_medium=joblist&utm_campaign=summer-2027-internships&utm_content=apply",
-   "firstSeen": "2026-10-26"
-  },
-  "oshkoshcorp.com::engineer intern software summer 2027": {
-   "id": "047c473cb9a1",
-   "company": "Oshkosh",
-   "companyUrl": "https://aplyr.ai/companies/oshkoshcorp?utm_source=github&utm_medium=joblist&utm_campaign=summer-2027-internships&utm_content=company",
-   "title": "Engineer Intern - Software (Summer 2027)",
-   "locations": [
-    "Dodge Center, Minnesota"
-   ],
-   "section": "swe",
-   "posted": "2026-09-01",
-   "added": "2026-09-02T05:15:48.000Z",
-   "pay": "$18–37/hr",
-   "url": "https://aplyr.ai/jobs/047c473cb9a1/engineer-intern-software-summer-2027?utm_source=github&utm_medium=joblist&utm_campaign=summer-2027-internships&utm_content=apply",
-   "firstSeen": "2026-10-26"
-  },
-  "k2space.com::electrical engineering intern summer 2027": {
-   "id": "04a04faca5c0",
-   "company": "K2 Space",
-   "companyUrl": "https://aplyr.ai/companies/k2space?utm_source=github&utm_medium=joblist&utm_campaign=summer-2027-internships&utm_content=company",
-   "title": "Electrical Engineering Intern – Summer 2027",
-   "locations": [
-    "Los Angeles, CA"
-   ],
-   "section": "hw",
-   "posted": "2026-09-01",
-   "added": "2026-09-18T04:15:29.000Z",
-   "pay": "$30–40/hr",
-   "url": "https://aplyr.ai/jobs/04a04faca5c0/electrical-engineering-intern-summer-2027?utm_source=github&utm_medium=joblist&utm_campaign=summer-2027-internships&utm_content=apply",
-   "firstSeen": "2026-10-26"
-  },
-  "k2space.com::avionics systems test engineering intern summer 2027": {
-   "id": "848ec3335051",
-   "company": "K2 Space",
-   "companyUrl": "https://aplyr.ai/companies/k2space?utm_source=github&utm_medium=joblist&utm_campaign=summer-2027-internships&utm_content=company",
-   "title": "Avionics Systems/Test Engineering Intern – Summer 2027",
-   "locations": [
-    "Los Angeles, CA"
-   ],
-   "section": "swe",
-   "posted": "2026-09-01",
-   "added": "2026-09-18T04:15:29.000Z",
-   "pay": "$30–40/hr",
-   "url": "https://aplyr.ai/jobs/848ec3335051/avionics-systemstest-engineering-intern-summer-2027?utm_source=github&utm_medium=joblist&utm_campaign=summer-2027-internships&utm_content=apply",
-   "firstSeen": "2026-10-26"
-  },
-  "k2space.com::software engineering intern summer 2027": {
-   "id": "797ad001cbc1",
-   "company": "K2 Space",
-   "companyUrl": "https://aplyr.ai/companies/k2space?utm_source=github&utm_medium=joblist&utm_campaign=summer-2027-internships&utm_content=company",
-   "title": "Software Engineering Intern – Summer 2027",
-   "locations": [
-    "Los Angeles, CA"
-   ],
-   "section": "swe",
-   "posted": "2026-09-01",
-   "added": "2026-09-18T04:15:29.000Z",
-   "pay": "$30–40/hr",
-   "url": "https://aplyr.ai/jobs/797ad001cbc1/software-engineering-intern-summer-2027?utm_source=github&utm_medium=joblist&utm_campaign=summer-2027-internships&utm_content=apply",
-   "firstSeen": "2026-10-26"
-  },
-  "k2space.com::rf engineering intern summer 2027": {
-   "id": "02986ddac018",
-   "company": "K2 Space",
-   "companyUrl": "https://aplyr.ai/companies/k2space?utm_source=github&utm_medium=joblist&utm_campaign=summer-2027-internships&utm_content=company",
-   "title": "RF Engineering Intern – Summer 2027",
-   "locations": [
-    "Los Angeles, CA"
-   ],
-   "section": "hw",
-   "posted": "2026-09-01",
-   "added": "2026-09-18T04:15:29.000Z",
-   "pay": "$30–40/hr",
-   "url": "https://aplyr.ai/jobs/02986ddac018/rf-engineering-intern-summer-2027?utm_source=github&utm_medium=joblist&utm_campaign=summer-2027-internships&utm_content=apply",
-   "firstSeen": "2026-10-26"
-  },
-  "shield.ai::summer 2027 electrical engineering intern": {
-   "id": "63b551222c90",
-   "company": "Shield AI",
-   "companyUrl": "https://aplyr.ai/companies/shield?utm_source=github&utm_medium=joblist&utm_campaign=summer-2027-internships&utm_content=company",
-   "title": "Summer 2027 - Electrical Engineering Intern",
-   "locations": [
-    "Dallas, Texas",
-    "Seattle, Washington",
-    "San Diego, California",
-    "Boston, Massachusetts"
-   ],
-   "section": "hw",
-   "posted": "2026-09-01",
-   "added": "2026-09-17T05:00:21.000Z",
-   "pay": "$38–73/hr",
-   "url": "https://aplyr.ai/jobs/63b551222c90/summer-2027-electrical-engineering-intern?utm_source=github&utm_medium=joblist&utm_campaign=summer-2027-internships&utm_content=apply",
-   "firstSeen": "2026-10-26"
-  },
-  "auto-owners.com::home office underwriting audit internship summer 2027": {
-   "id": "aaf40471bf8a",
-   "company": "Auto-Owners Insurance",
-   "companyUrl": "https://aplyr.ai/companies/auto-owners?utm_source=github&utm_medium=joblist&utm_campaign=summer-2027-internships&utm_content=company",
-   "title": "Home Office Underwriting/Audit Internship - Summer 2027",
-   "locations": [
-    "Lansing, MI"
-   ],
-   "section": "swe",
-   "posted": "2026-09-01",
-   "added": "2026-10-18T00:11:50.000Z",
-   "url": "https://aplyr.ai/jobs/aaf40471bf8a/home-office-underwritingaudit-internship-summer-2027?utm_source=github&utm_medium=joblist&utm_campaign=summer-2027-internships&utm_content=apply",
-   "firstSeen": "2026-10-26"
   }
  },
  "closed": {
+  "cox.com::cybersecurity intern summer 2027": {
+   "id": "436ed85c74c9",
+   "company": "Cox Enterprises",
+   "companyUrl": "https://aplyr.ai/companies/cox?utm_source=github&utm_medium=joblist&utm_campaign=summer-2027-internships&utm_content=company",
+   "title": "Cybersecurity Intern - Summer 2027",
+   "locations": [
+    "Atlanta GA"
+   ],
+   "section": "swe",
+   "posted": "2026-10-26",
+   "added": "2026-10-26T17:33:11.000Z",
+   "url": "https://aplyr.ai/jobs/436ed85c74c9/cybersecurity-intern-summer-2027?utm_source=github&utm_medium=joblist&utm_campaign=summer-2027-internships&utm_content=apply",
+   "firstSeen": "2026-10-26",
+   "closedAt": "2026-10-27"
+  },
+  "cox.com::software engineering intern summer 2027 atlanta ga": {
+   "id": "e7146b0e10d4",
+   "company": "Cox Enterprises",
+   "companyUrl": "https://aplyr.ai/companies/cox?utm_source=github&utm_medium=joblist&utm_campaign=summer-2027-internships&utm_content=company",
+   "title": "Software Engineering Intern - Summer 2027 (Atlanta, GA)",
+   "locations": [
+    "Atlanta GA"
+   ],
+   "section": "swe",
+   "posted": "2026-10-26",
+   "added": "2026-10-26T17:33:11.000Z",
+   "url": "https://aplyr.ai/jobs/e7146b0e10d4/software-engineering-intern-summer-2027-atlanta-ga?utm_source=github&utm_medium=joblist&utm_campaign=summer-2027-internships&utm_content=apply",
+   "firstSeen": "2026-10-26",
+   "closedAt": "2026-10-27"
+  },
+  "microsoft.com::software engineering intern": {
+   "id": "af7d89c2caf3",
+   "company": "Microsoft",
+   "companyUrl": "https://aplyr.ai/companies/microsoft?utm_source=github&utm_medium=joblist&utm_campaign=summer-2027-internships&utm_content=company",
+   "title": "Software Engineering Intern",
+   "locations": [
+    "United States, Oklahoma, Tulsa"
+   ],
+   "section": "swe",
+   "posted": "2026-10-23",
+   "added": "2026-10-24T06:31:15.000Z",
+   "url": "https://aplyr.ai/jobs/af7d89c2caf3/software-engineering-intern?utm_source=github&utm_medium=joblist&utm_campaign=summer-2027-internships&utm_content=apply",
+   "sponsorsH1B": true,
+   "firstSeen": "2026-10-24",
+   "closedAt": "2026-10-27"
+  },
+  "microsoft.com::product management intern": {
+   "id": "f0dd3f32b417",
+   "company": "Microsoft",
+   "companyUrl": "https://aplyr.ai/companies/microsoft?utm_source=github&utm_medium=joblist&utm_campaign=summer-2027-internships&utm_content=company",
+   "title": "Product Management Intern",
+   "locations": [
+    "United States, Massachusetts, Cambridge"
+   ],
+   "section": "pm",
+   "posted": "2026-10-23",
+   "added": "2026-10-24T06:31:15.000Z",
+   "url": "https://aplyr.ai/jobs/f0dd3f32b417/product-management-intern?utm_source=github&utm_medium=joblist&utm_campaign=summer-2027-internships&utm_content=apply",
+   "sponsorsH1B": true,
+   "firstSeen": "2026-10-24",
+   "closedAt": "2026-10-27"
+  },
+  "lockheedmartin.com::college student dmsms intern": {
+   "id": "326bafa63133",
+   "company": "Lockheed Martin",
+   "companyUrl": "https://aplyr.ai/companies/lockheedmartin?utm_source=github&utm_medium=joblist&utm_campaign=summer-2027-internships&utm_content=company",
+   "title": "College Student - DMSMS Intern",
+   "locations": [
+    "Stratford, CT"
+   ],
+   "section": "swe",
+   "posted": "2026-10-22",
+   "added": "2026-10-22T11:43:01.000Z",
+   "url": "https://aplyr.ai/jobs/326bafa63133/college-student-dmsms-intern?utm_source=github&utm_medium=joblist&utm_campaign=summer-2027-internships&utm_content=apply",
+   "sponsorsH1B": true,
+   "firstSeen": "2026-10-22",
+   "closedAt": "2026-10-27"
+  },
+  "lockheedmartin.com::it intern": {
+   "id": "99662a6e8b33",
+   "company": "Lockheed Martin",
+   "companyUrl": "https://aplyr.ai/companies/lockheedmartin?utm_source=github&utm_medium=joblist&utm_campaign=summer-2027-internships&utm_content=company",
+   "title": "IT Intern",
+   "locations": [
+    "Virtual Four, SC"
+   ],
+   "section": "swe",
+   "posted": "2026-10-21",
+   "added": "2026-10-22T11:43:01.000Z",
+   "url": "https://aplyr.ai/jobs/99662a6e8b33/it-intern?utm_source=github&utm_medium=joblist&utm_campaign=summer-2027-internships&utm_content=apply",
+   "sponsorsH1B": true,
+   "firstSeen": "2026-10-22",
+   "closedAt": "2026-10-27"
+  },
+  "lockheedmartin.com::embedded software intern": {
+   "id": "e3d8a98f79e1",
+   "company": "Lockheed Martin",
+   "companyUrl": "https://aplyr.ai/companies/lockheedmartin?utm_source=github&utm_medium=joblist&utm_campaign=summer-2027-internships&utm_content=company",
+   "title": "Embedded Software Intern",
+   "locations": [
+    "Moorestown, NJ"
+   ],
+   "section": "swe",
+   "posted": "2026-10-21",
+   "added": "2026-10-22T11:43:01.000Z",
+   "url": "https://aplyr.ai/jobs/e3d8a98f79e1/embedded-software-intern?utm_source=github&utm_medium=joblist&utm_campaign=summer-2027-internships&utm_content=apply",
+   "sponsorsH1B": true,
+   "firstSeen": "2026-10-22",
+   "closedAt": "2026-10-27"
+  },
+  "lockheedmartin.com::ai supply chain intelligence intern": {
+   "id": "a3909c0cb489",
+   "company": "Lockheed Martin",
+   "companyUrl": "https://aplyr.ai/companies/lockheedmartin?utm_source=github&utm_medium=joblist&utm_campaign=summer-2027-internships&utm_content=company",
+   "title": "AI/ Supply Chain Intelligence Intern",
+   "locations": [
+    "Dallas, TX"
+   ],
+   "section": "data",
+   "posted": "2026-10-21",
+   "added": "2026-10-22T11:43:01.000Z",
+   "url": "https://aplyr.ai/jobs/a3909c0cb489/ai-supply-chain-intelligence-intern?utm_source=github&utm_medium=joblist&utm_campaign=summer-2027-internships&utm_content=apply",
+   "sponsorsH1B": true,
+   "firstSeen": "2026-10-22",
+   "closedAt": "2026-10-27"
+  },
+  "duke-energy.com::nuclear cybersecurity 2027 summer internship": {
+   "id": "c9418b6c8dfb",
+   "company": "Duke Energy",
+   "companyUrl": "https://aplyr.ai/companies/duke-energy?utm_source=github&utm_medium=joblist&utm_campaign=summer-2027-internships&utm_content=company",
+   "title": "Nuclear Cybersecurity 2027 Summer Internship",
+   "locations": [
+    "Hartsville, SC"
+   ],
+   "section": "swe",
+   "posted": "2026-10-21",
+   "added": "2026-10-21T20:30:29.000Z",
+   "url": "https://aplyr.ai/jobs/c9418b6c8dfb/nuclear-cybersecurity-2027-summer-internship?utm_source=github&utm_medium=joblist&utm_campaign=summer-2027-internships&utm_content=apply",
+   "firstSeen": "2026-10-22",
+   "closedAt": "2026-10-27"
+  },
+  "rtx.com::software engineer intern summer 2027": {
+   "id": "6127dc31fb83",
+   "company": "RTX/Raytheon",
+   "companyUrl": "https://aplyr.ai/companies/rtx?utm_source=github&utm_medium=joblist&utm_campaign=summer-2027-internships&utm_content=company",
+   "title": "Software Engineer Intern (Summer 2027)",
+   "locations": [
+    "US-MA-TEWKSBURY-TB3 ~ 50 Apple Hill Dr ~ CONCORD BLDG, Tewksbury Tb3 300 Concord"
+   ],
+   "section": "swe",
+   "posted": "2026-10-21",
+   "added": "2026-10-21T19:01:08.000Z",
+   "url": "https://aplyr.ai/jobs/6127dc31fb83/software-engineer-intern-summer-2027?utm_source=github&utm_medium=joblist&utm_campaign=summer-2027-internships&utm_content=apply",
+   "sponsorsH1B": true,
+   "firstSeen": "2026-10-22",
+   "closedAt": "2026-10-27"
+  },
+  "thehartford.com::2027 summer intern rotational it operations risk and fund treasury": {
+   "id": "c9120f507073",
+   "company": "The Hartford",
+   "companyUrl": "https://aplyr.ai/companies/thehartford?utm_source=github&utm_medium=joblist&utm_campaign=summer-2027-internships&utm_content=company",
+   "title": "2027 Summer Intern - Rotational (IT, Operations, Risk, and Fund Treasury)",
+   "locations": [
+    "Wayne, PA"
+   ],
+   "section": "swe",
+   "posted": "2026-10-20",
+   "added": "2026-10-20T20:50:24.000Z",
+   "url": "https://aplyr.ai/jobs/c9120f507073/2027-summer-intern-rotational-it-operations-risk-and-fund-treasury?utm_source=github&utm_medium=joblist&utm_campaign=summer-2027-internships&utm_content=apply",
+   "sponsorsH1B": true,
+   "firstSeen": "2026-10-21",
+   "closedAt": "2026-10-27"
+  },
+  "hpe.com::embedded software engineering intern": {
+   "id": "a63832702e36",
+   "company": "HPE",
+   "companyUrl": "https://aplyr.ai/companies/hpe?utm_source=github&utm_medium=joblist&utm_campaign=summer-2027-internships&utm_content=company",
+   "title": "Embedded Software Engineering Intern",
+   "locations": [
+    "Roseville, California"
+   ],
+   "section": "swe",
+   "posted": "2026-10-20",
+   "added": "2026-10-21T09:30:19.000Z",
+   "url": "https://aplyr.ai/jobs/a63832702e36/embedded-software-engineering-intern?utm_source=github&utm_medium=joblist&utm_campaign=summer-2027-internships&utm_content=apply",
+   "sponsorsH1B": true,
+   "firstSeen": "2026-10-21",
+   "closedAt": "2026-10-27"
+  },
+  "lockheedmartin.com::radio frequency rf engineering intern": {
+   "id": "b684a102a1d8",
+   "company": "Lockheed Martin",
+   "companyUrl": "https://aplyr.ai/companies/lockheedmartin?utm_source=github&utm_medium=joblist&utm_campaign=summer-2027-internships&utm_content=company",
+   "title": "Radio Frequency (RF) Engineering Intern",
+   "locations": [
+    "Andover, MA",
+    "Chelmsford, MA"
+   ],
+   "section": "hw",
+   "posted": "2026-10-20",
+   "added": "2026-10-20T11:34:33.000Z",
+   "pay": "$22.66–31.67/hr",
+   "url": "https://aplyr.ai/jobs/b684a102a1d8/radio-frequency-rf-engineering-intern?utm_source=github&utm_medium=joblist&utm_campaign=summer-2027-internships&utm_content=apply",
+   "sponsorsH1B": true,
+   "firstSeen": "2026-10-20",
+   "closedAt": "2026-10-27"
+  },
+  "lockheedmartin.com::electronics engineer intern": {
+   "id": "28f8c25bc371",
+   "company": "Lockheed Martin",
+   "companyUrl": "https://aplyr.ai/companies/lockheedmartin?utm_source=github&utm_medium=joblist&utm_campaign=summer-2027-internships&utm_content=company",
+   "title": "Electronics Engineer Intern",
+   "locations": [
+    "Palo Alto, CA"
+   ],
+   "section": "hw",
+   "posted": "2026-10-19",
+   "added": "2026-10-20T11:34:33.000Z",
+   "pay": "$25.18–35.19/hr",
+   "url": "https://aplyr.ai/jobs/28f8c25bc371/electronics-engineer-intern?utm_source=github&utm_medium=joblist&utm_campaign=summer-2027-internships&utm_content=apply",
+   "noSponsorship": true,
+   "firstSeen": "2026-10-20",
+   "closedAt": "2026-10-27"
+  },
+  "lockheedmartin.com::electrical engineering intern": {
+   "id": "fc2e4af50880",
+   "company": "Lockheed Martin",
+   "companyUrl": "https://aplyr.ai/companies/lockheedmartin?utm_source=github&utm_medium=joblist&utm_campaign=summer-2027-internships&utm_content=company",
+   "title": "Electrical Engineering Intern",
+   "locations": [
+    "Andover, MA"
+   ],
+   "section": "hw",
+   "posted": "2026-10-19",
+   "added": "2026-10-20T11:34:33.000Z",
+   "pay": "$22.66–31.67/hr",
+   "url": "https://aplyr.ai/jobs/fc2e4af50880/electrical-engineering-intern?utm_source=github&utm_medium=joblist&utm_campaign=summer-2027-internships&utm_content=apply",
+   "sponsorsH1B": true,
+   "firstSeen": "2026-10-20",
+   "closedAt": "2026-10-27"
+  },
+  "thetorocompany.com::cloud software development intern the toro company": {
+   "id": "a0eabcf81ad1",
+   "company": "The Toro Company",
+   "companyUrl": "https://aplyr.ai/companies/thetorocompany?utm_source=github&utm_medium=joblist&utm_campaign=summer-2027-internships&utm_content=company",
+   "title": "Cloud Software Development Intern - The Toro Company",
+   "locations": [
+    "Frederick, CO"
+   ],
+   "section": "swe",
+   "posted": "2026-10-19",
+   "added": "2026-10-20T00:40:53.000Z",
+   "pay": "$20–24/hr",
+   "url": "https://aplyr.ai/jobs/a0eabcf81ad1/cloud-software-development-intern-the-toro-company?utm_source=github&utm_medium=joblist&utm_campaign=summer-2027-internships&utm_content=apply",
+   "noSponsorship": true,
+   "firstSeen": "2026-10-20",
+   "closedAt": "2026-10-27"
+  },
+  "micron.com::intern memory design engineer hbm": {
+   "id": "e5582f31eef6",
+   "company": "Micron",
+   "companyUrl": "https://aplyr.ai/companies/micron?utm_source=github&utm_medium=joblist&utm_campaign=summer-2027-internships&utm_content=company",
+   "title": "Intern - Memory Design Engineer, HBM",
+   "locations": [
+    "Richardson, TX"
+   ],
+   "section": "hw",
+   "posted": "2026-10-16",
+   "added": "2026-10-17T22:22:16.000Z",
+   "url": "https://aplyr.ai/jobs/e5582f31eef6/intern-memory-design-engineer-hbm?utm_source=github&utm_medium=joblist&utm_campaign=summer-2027-internships&utm_content=apply",
+   "sponsorsH1B": true,
+   "firstSeen": "2026-10-19",
+   "closedAt": "2026-10-27"
+  },
+  "cswg.com::is internship data analytics data science": {
+   "id": "03112c72d878",
+   "company": "C&S Wholesale Grocers",
+   "companyUrl": "https://aplyr.ai/companies/cswg?utm_source=github&utm_medium=joblist&utm_campaign=summer-2027-internships&utm_content=company",
+   "title": "IS Internship - Data Analytics & Data Science",
+   "locations": [
+    "Edison, NJ"
+   ],
+   "section": "data",
+   "posted": "2026-10-14",
+   "added": "2026-10-12T05:16:49.000Z",
+   "url": "https://aplyr.ai/jobs/03112c72d878/is-internship-data-analytics-data-science?utm_source=github&utm_medium=joblist&utm_campaign=summer-2027-internships&utm_content=apply",
+   "noSponsorship": true,
+   "firstSeen": "2026-10-17",
+   "closedAt": "2026-10-27"
+  },
+  "expedia.com::applied science intern masters 2027 austin san jose seattle": {
+   "id": "73ed4740ee93",
+   "company": "Expedia",
+   "companyUrl": "https://aplyr.ai/companies/expedia?utm_source=github&utm_medium=joblist&utm_campaign=summer-2027-internships&utm_content=company",
+   "title": "Applied Science Intern - Masters - 2027 - Austin, San Jose, Seattle",
+   "locations": [
+    "Austin Domain 11 - HomeAway",
+    "USA - California - San Jose",
+    "Washington - Seattle Campus"
+   ],
+   "section": "data",
+   "posted": "2026-10-12",
+   "added": "2026-10-17T22:24:08.000Z",
+   "pay": "$52–55/hr",
+   "url": "https://aplyr.ai/jobs/73ed4740ee93/applied-science-intern-masters-2027-austin-san-jose-seattle?utm_source=github&utm_medium=joblist&utm_campaign=summer-2027-internships&utm_content=apply",
+   "sponsorsH1B": true,
+   "firstSeen": "2026-10-26",
+   "closedAt": "2026-10-27"
+  },
+  "expedia.com::applied science intern phd 2027 austin san jose seattle": {
+   "id": "d9a54bacd5d5",
+   "company": "Expedia",
+   "companyUrl": "https://aplyr.ai/companies/expedia?utm_source=github&utm_medium=joblist&utm_campaign=summer-2027-internships&utm_content=company",
+   "title": "Applied Science Intern - PhD - 2027 - Austin, San Jose, Seattle",
+   "locations": [
+    "Austin Domain 11 - HomeAway",
+    "USA - California - San Jose",
+    "Washington - Seattle Campus"
+   ],
+   "section": "data",
+   "posted": "2026-10-12",
+   "added": "2026-10-17T22:24:08.000Z",
+   "pay": "$56–61/hr",
+   "url": "https://aplyr.ai/jobs/d9a54bacd5d5/applied-science-intern-phd-2027-austin-san-jose-seattle?utm_source=github&utm_medium=joblist&utm_campaign=summer-2027-internships&utm_content=apply",
+   "sponsorsH1B": true,
+   "firstSeen": "2026-10-26",
+   "closedAt": "2026-10-27"
+  },
+  "expedia.com::mobile engineering intern 2027 austin san jose seattle": {
+   "id": "d8df29c963d9",
+   "company": "Expedia",
+   "companyUrl": "https://aplyr.ai/companies/expedia?utm_source=github&utm_medium=joblist&utm_campaign=summer-2027-internships&utm_content=company",
+   "title": "Mobile Engineering Intern - 2027 - Austin, San Jose, Seattle",
+   "locations": [
+    "Austin Domain 11 - HomeAway",
+    "USA - California - San Jose",
+    "Washington - Seattle Campus"
+   ],
+   "section": "swe",
+   "posted": "2026-10-12",
+   "added": "2026-10-17T22:24:08.000Z",
+   "pay": "$45–54/hr",
+   "url": "https://aplyr.ai/jobs/d8df29c963d9/mobile-engineering-intern-2027-austin-san-jose-seattle?utm_source=github&utm_medium=joblist&utm_campaign=summer-2027-internships&utm_content=apply",
+   "sponsorsH1B": true,
+   "firstSeen": "2026-10-19",
+   "closedAt": "2026-10-27"
+  },
+  "expedia.com::security engineering intern 2027 seattle": {
+   "id": "4fb693fada2a",
+   "company": "Expedia",
+   "companyUrl": "https://aplyr.ai/companies/expedia?utm_source=github&utm_medium=joblist&utm_campaign=summer-2027-internships&utm_content=company",
+   "title": "Security Engineering Intern - 2027 - Seattle",
+   "locations": [
+    "Washington - Seattle Campus"
+   ],
+   "section": "swe",
+   "posted": "2026-10-12",
+   "added": "2026-10-17T22:24:08.000Z",
+   "pay": "$45–51/hr",
+   "url": "https://aplyr.ai/jobs/4fb693fada2a/security-engineering-intern-2027-seattle?utm_source=github&utm_medium=joblist&utm_campaign=summer-2027-internships&utm_content=apply",
+   "sponsorsH1B": true,
+   "firstSeen": "2026-10-17",
+   "closedAt": "2026-10-27"
+  },
+  "whitecap.com::corporate intern product strategy category management": {
+   "id": "716074b2ceb4",
+   "company": "White Cap Supply Holdings",
+   "companyUrl": "https://aplyr.ai/companies/whitecap?utm_source=github&utm_medium=joblist&utm_campaign=summer-2027-internships&utm_content=company",
+   "title": "Corporate Intern - Product Strategy/Category Management",
+   "locations": [
+    "Atlanta_30360"
+   ],
+   "section": "pm",
+   "posted": "2026-10-10",
+   "added": "2026-10-11T05:32:01.000Z",
+   "url": "https://aplyr.ai/jobs/716074b2ceb4/corporate-intern-product-strategycategory-management?utm_source=github&utm_medium=joblist&utm_campaign=summer-2027-internships&utm_content=apply",
+   "firstSeen": "2026-10-26",
+   "closedAt": "2026-10-27"
+  },
+  "abbott.com::2027 it intern": {
+   "id": "9796f0f9649b",
+   "company": "Abbott",
+   "companyUrl": "https://aplyr.ai/companies/abbott?utm_source=github&utm_medium=joblist&utm_campaign=summer-2027-internships&utm_content=company",
+   "title": "2027 IT Intern",
+   "locations": [
+    "United States - Illinois - Waukegan"
+   ],
+   "section": "swe",
+   "posted": "2026-10-10",
+   "added": "2026-10-10T05:15:29.000Z",
+   "pay": "$9.42–33.59/hr",
+   "url": "https://aplyr.ai/jobs/9796f0f9649b/2027-it-intern?utm_source=github&utm_medium=joblist&utm_campaign=summer-2027-internships&utm_content=apply",
+   "sponsorsH1B": true,
+   "firstSeen": "2026-10-17",
+   "closedAt": "2026-10-27"
+  },
+  "aep.com::data scientist intern": {
+   "id": "ba92acb65167",
+   "company": "American Electric Power",
+   "companyUrl": "https://aplyr.ai/companies/aep?utm_source=github&utm_medium=joblist&utm_campaign=summer-2027-internships&utm_content=company",
+   "title": "Data Scientist Intern",
+   "locations": [
+    "Columbus, OH"
+   ],
+   "section": "data",
+   "posted": "2026-10-09",
+   "added": "2026-10-09T06:02:01.000Z",
+   "url": "https://aplyr.ai/jobs/ba92acb65167/data-scientist-intern?utm_source=github&utm_medium=joblist&utm_campaign=summer-2027-internships&utm_content=apply",
+   "sponsorsH1B": true,
+   "firstSeen": "2026-10-23",
+   "closedAt": "2026-10-27"
+  },
+  "gm.com::2027 summer intern ai ml engineer mapping": {
+   "id": "a1de72e0e270",
+   "company": "General Motors",
+   "companyUrl": "https://aplyr.ai/companies/gm?utm_source=github&utm_medium=joblist&utm_campaign=summer-2027-internships&utm_content=company",
+   "title": "2027 Summer Intern, AI/ML Engineer, Mapping",
+   "locations": [
+    "Warren, Michigan"
+   ],
+   "section": "data",
+   "posted": "2026-10-05",
+   "added": "2026-10-06T09:00:33.000Z",
+   "url": "https://aplyr.ai/jobs/a1de72e0e270/2027-summer-intern-aiml-engineer-mapping?utm_source=github&utm_medium=joblist&utm_campaign=summer-2027-internships&utm_content=apply",
+   "sponsorsH1B": true,
+   "firstSeen": "2026-10-17",
+   "closedAt": "2026-10-27"
+  },
+  "pnc.com::graduate intern portfolio management and analytics chief investment office cio non campus": {
+   "id": "32ffb8fded95",
+   "company": "PNC Financial",
+   "companyUrl": "https://aplyr.ai/companies/pnc?utm_source=github&utm_medium=joblist&utm_campaign=summer-2027-internships&utm_content=company",
+   "title": "Graduate Intern, Portfolio Management and Analytics, Chief Investment Office (CIO) (Non-Campus)",
+   "locations": [
+    "NY - New York (10173)"
+   ],
+   "section": "data",
+   "posted": "2026-10-01",
+   "added": "2026-10-17T22:24:08.000Z",
+   "url": "https://aplyr.ai/jobs/32ffb8fded95/graduate-intern-portfolio-management-and-analytics-chief-investment-office-cio-n?utm_source=github&utm_medium=joblist&utm_campaign=summer-2027-internships&utm_content=apply",
+   "sponsorsH1B": true,
+   "firstSeen": "2026-10-17",
+   "closedAt": "2026-10-27"
+  },
+  "danaher.com::it data analyst intern": {
+   "id": "820729ca2bd5",
+   "company": "Danaher",
+   "companyUrl": "https://aplyr.ai/companies/danaher?utm_source=github&utm_medium=joblist&utm_campaign=summer-2027-internships&utm_content=company",
+   "title": "IT Data Analyst Intern",
+   "locations": [
+    "Brea, California"
+   ],
+   "section": "data",
+   "posted": "2026-09-22",
+   "added": "2026-10-17T22:42:23.000Z",
+   "url": "https://aplyr.ai/jobs/820729ca2bd5/it-data-analyst-intern?utm_source=github&utm_medium=joblist&utm_campaign=summer-2027-internships&utm_content=apply",
+   "sponsorsH1B": true,
+   "firstSeen": "2026-10-17",
+   "closedAt": "2026-10-27"
+  },
+  "kla.com::software engineering intern c++ unix": {
+   "id": "0325373782a5",
+   "company": "KLA Corporation",
+   "companyUrl": "https://aplyr.ai/companies/kla?utm_source=github&utm_medium=joblist&utm_campaign=summer-2027-internships&utm_content=company",
+   "title": "Software Engineering Intern (C++, Unix)",
+   "locations": [
+    "Milpitas, CA"
+   ],
+   "section": "swe",
+   "posted": "2026-09-22",
+   "added": "2026-10-17T22:24:25.000Z",
+   "url": "https://aplyr.ai/jobs/0325373782a5/software-engineering-intern-c-unix?utm_source=github&utm_medium=joblist&utm_campaign=summer-2027-internships&utm_content=apply",
+   "sponsorsH1B": true,
+   "firstSeen": "2026-10-17",
+   "closedAt": "2026-10-27"
+  },
+  "tanium.com::cloud security intern": {
+   "id": "ee8b64ab6af4",
+   "company": "Tanium",
+   "companyUrl": "https://aplyr.ai/companies/tanium?utm_source=github&utm_medium=joblist&utm_campaign=summer-2027-internships&utm_content=company",
+   "title": "Cloud Security Intern",
+   "locations": [
+    "Durham, NC (Hybrid)"
+   ],
+   "section": "swe",
+   "posted": "2026-09-22",
+   "added": "2026-09-23T07:46:42.000Z",
+   "pay": "$55/hr",
+   "url": "https://aplyr.ai/jobs/ee8b64ab6af4/cloud-security-intern?utm_source=github&utm_medium=joblist&utm_campaign=summer-2027-internships&utm_content=apply",
+   "sponsorsH1B": true,
+   "firstSeen": "2026-10-17",
+   "closedAt": "2026-10-27"
+  },
+  "haigroup.com::software development intern": {
+   "id": "efdf17ff2345",
+   "company": "Haigroup",
+   "companyUrl": "https://aplyr.ai/companies/haigroup?utm_source=github&utm_medium=joblist&utm_campaign=summer-2027-internships&utm_content=company",
+   "title": "Software Development Intern",
+   "locations": [
+    "Cheshire, CT"
+   ],
+   "section": "swe",
+   "posted": "2026-09-22",
+   "added": "2026-09-23T06:15:54.000Z",
+   "pay": "$22–25/hr",
+   "url": "https://aplyr.ai/jobs/efdf17ff2345/software-development-intern?utm_source=github&utm_medium=joblist&utm_campaign=summer-2027-internships&utm_content=apply",
+   "firstSeen": "2026-10-17",
+   "closedAt": "2026-10-27"
+  },
+  "haigroup.com::data analytics intern": {
+   "id": "0e49de16435b",
+   "company": "Haigroup",
+   "companyUrl": "https://aplyr.ai/companies/haigroup?utm_source=github&utm_medium=joblist&utm_campaign=summer-2027-internships&utm_content=company",
+   "title": "Data Analytics Intern",
+   "locations": [
+    "Cheshire, CT"
+   ],
+   "section": "data",
+   "posted": "2026-09-22",
+   "added": "2026-09-23T06:15:54.000Z",
+   "pay": "$22–25/hr",
+   "url": "https://aplyr.ai/jobs/0e49de16435b/data-analytics-intern?utm_source=github&utm_medium=joblist&utm_campaign=summer-2027-internships&utm_content=apply",
+   "firstSeen": "2026-10-17",
+   "closedAt": "2026-10-27"
+  },
+  "premierinc.com::data science intern": {
+   "id": "47376c782c82",
+   "company": "Premier",
+   "companyUrl": "https://aplyr.ai/companies/premierinc?utm_source=github&utm_medium=joblist&utm_campaign=summer-2027-internships&utm_content=company",
+   "title": "Data Science Intern",
+   "locations": [
+    "Charlotte, NC"
+   ],
+   "section": "data",
+   "posted": "2026-09-22",
+   "added": "2026-09-05T06:01:22.000Z",
+   "pay": "$52k–78k/yr",
+   "url": "https://aplyr.ai/jobs/47376c782c82/data-science-intern?utm_source=github&utm_medium=joblist&utm_campaign=summer-2027-internships&utm_content=apply",
+   "firstSeen": "2026-10-18",
+   "closedAt": "2026-10-27"
+  },
+  "premierinc.com::software engineer intern": {
+   "id": "03a0b2339c5f",
+   "company": "Premier",
+   "companyUrl": "https://aplyr.ai/companies/premierinc?utm_source=github&utm_medium=joblist&utm_campaign=summer-2027-internships&utm_content=company",
+   "title": "Software Engineer Intern",
+   "locations": [
+    "Charlotte, NC"
+   ],
+   "section": "swe",
+   "posted": "2026-09-22",
+   "added": "2026-09-05T06:01:22.000Z",
+   "pay": "$190k–300k/yr",
+   "url": "https://aplyr.ai/jobs/03a0b2339c5f/software-engineer-intern?utm_source=github&utm_medium=joblist&utm_campaign=summer-2027-internships&utm_content=apply",
+   "firstSeen": "2026-10-18",
+   "closedAt": "2026-10-27"
+  },
+  "coinbase.com::internal audit analytics intern": {
+   "id": "cda8b770c982",
+   "company": "Coinbase",
+   "companyUrl": "https://aplyr.ai/companies/coinbase?utm_source=github&utm_medium=joblist&utm_campaign=summer-2027-internships&utm_content=company",
+   "title": "Internal Audit Analytics Intern",
+   "locations": [
+    "Hybrid - New York, NY"
+   ],
+   "section": "data",
+   "posted": "2026-09-22",
+   "added": "2026-09-22T05:31:36.000Z",
+   "pay": "$50/hr",
+   "url": "https://aplyr.ai/jobs/cda8b770c982/internal-audit-analytics-intern?utm_source=github&utm_medium=joblist&utm_campaign=summer-2027-internships&utm_content=apply",
+   "sponsorsH1B": true,
+   "firstSeen": "2026-10-17",
+   "closedAt": "2026-10-27"
+  },
+  "emcins.com::intern software engineering": {
+   "id": "9c38e062cf64",
+   "company": "EMC Insurance",
+   "companyUrl": "https://aplyr.ai/companies/emcins?utm_source=github&utm_medium=joblist&utm_campaign=summer-2027-internships&utm_content=company",
+   "title": "Intern - Software Engineering",
+   "locations": [
+    "Iowa"
+   ],
+   "remote": true,
+   "section": "swe",
+   "posted": "2026-09-22",
+   "added": "2026-10-17T22:44:43.000Z",
+   "url": "https://aplyr.ai/jobs/9c38e062cf64/intern-software-engineering?utm_source=github&utm_medium=joblist&utm_campaign=summer-2027-internships&utm_content=apply",
+   "firstSeen": "2026-10-17",
+   "closedAt": "2026-10-27"
+  },
+  "kla.com::algorithm engineering intern ai computer vision software engineering": {
+   "id": "797908fbc899",
+   "company": "KLA Corporation",
+   "companyUrl": "https://aplyr.ai/companies/kla?utm_source=github&utm_medium=joblist&utm_campaign=summer-2027-internships&utm_content=company",
+   "title": "Algorithm Engineering Intern (AI, Computer Vision & Software Engineering)",
+   "locations": [
+    "Milpitas, CA"
+   ],
+   "section": "swe",
+   "posted": "2026-09-22",
+   "added": "2026-10-17T22:24:25.000Z",
+   "url": "https://aplyr.ai/jobs/797908fbc899/algorithm-engineering-intern-ai-computer-vision-software-engineering?utm_source=github&utm_medium=joblist&utm_campaign=summer-2027-internships&utm_content=apply",
+   "sponsorsH1B": true,
+   "firstSeen": "2026-10-17",
+   "closedAt": "2026-10-27"
+  },
+  "one.app::ai research intern": {
+   "id": "695b5ddc9805",
+   "company": "ONE Finance",
+   "companyUrl": "https://aplyr.ai/companies/one?utm_source=github&utm_medium=joblist&utm_campaign=summer-2027-internships&utm_content=company",
+   "title": "AI Research Intern",
+   "locations": [
+    "United States (Remote)"
+   ],
+   "remote": true,
+   "section": "data",
+   "posted": "2026-09-21",
+   "added": "2026-09-22T10:00:38.000Z",
+   "pay": "$32/hr",
+   "url": "https://aplyr.ai/jobs/695b5ddc9805/ai-research-intern?utm_source=github&utm_medium=joblist&utm_campaign=summer-2027-internships&utm_content=apply",
+   "noSponsorship": true,
+   "firstSeen": "2026-10-18",
+   "closedAt": "2026-10-27"
+  },
+  "g2.com::intern ai agent evaluations": {
+   "id": "a2c1648adab9",
+   "company": "G2",
+   "companyUrl": "https://aplyr.ai/companies/g2?utm_source=github&utm_medium=joblist&utm_campaign=summer-2027-internships&utm_content=company",
+   "title": "Intern, AI Agent Evaluations",
+   "locations": [
+    "San Francisco, CA"
+   ],
+   "section": "data",
+   "posted": "2026-09-21",
+   "added": "2026-09-22T10:00:38.000Z",
+   "pay": "$24/hr",
+   "url": "https://aplyr.ai/jobs/a2c1648adab9/intern-ai-agent-evaluations?utm_source=github&utm_medium=joblist&utm_campaign=summer-2027-internships&utm_content=apply",
+   "sponsorsH1B": true,
+   "firstSeen": "2026-10-18",
+   "closedAt": "2026-10-27"
+  },
+  "aecom.com::transit planning intern ii": {
+   "id": "878867e40278",
+   "company": "AECOM",
+   "companyUrl": "https://aplyr.ai/companies/aecom?utm_source=github&utm_medium=joblist&utm_campaign=summer-2027-internships&utm_content=company",
+   "title": "Transit Planning Intern II",
+   "locations": [
+    "Detroit"
+   ],
+   "section": "swe",
+   "posted": "2026-09-21",
+   "added": "2026-09-22T10:30:25.000Z",
+   "pay": "$20.31–27.92/hr",
+   "url": "https://aplyr.ai/jobs/878867e40278/transit-planning-intern-ii?utm_source=github&utm_medium=joblist&utm_campaign=summer-2027-internships&utm_content=apply",
+   "sponsorsH1B": true,
+   "firstSeen": "2026-10-17",
+   "closedAt": "2026-10-27"
+  },
+  "amd.com::summer 2027 master s ai research reinforcement learning and llm post training intern": {
+   "id": "79471d19cee2",
+   "company": "AMD",
+   "companyUrl": "https://aplyr.ai/companies/amd?utm_source=github&utm_medium=joblist&utm_campaign=summer-2027-internships&utm_content=company",
+   "title": "Summer 2027 Master's AI Research, Reinforcement Learning and LLM Post-Training Intern",
+   "locations": [
+    "Santa Clara, California"
+   ],
+   "section": "data",
+   "posted": "2026-09-21",
+   "added": "2026-10-17T21:53:01.000Z",
+   "url": "https://aplyr.ai/jobs/79471d19cee2/summer-2027-masters-ai-research-reinforcement-learning-and-llm-post-training-int?utm_source=github&utm_medium=joblist&utm_campaign=summer-2027-internships&utm_content=apply",
+   "noSponsorship": true,
+   "firstSeen": "2026-10-17",
+   "closedAt": "2026-10-27"
+  },
+  "wellmark.com::software engineer internship technology healthcare innovation": {
+   "id": "a588fdaece03",
+   "company": "Wellmark",
+   "companyUrl": "https://aplyr.ai/companies/wellmark?utm_source=github&utm_medium=joblist&utm_campaign=summer-2027-internships&utm_content=company",
+   "title": "Software Engineer Internship - Technology Healthcare Innovation",
+   "locations": [
+    "Des Moines"
+   ],
+   "section": "swe",
+   "posted": "2026-09-21",
+   "added": "2026-09-22T11:00:32.000Z",
+   "url": "https://aplyr.ai/jobs/a588fdaece03/software-engineer-internship-technology-healthcare-innovation?utm_source=github&utm_medium=joblist&utm_campaign=summer-2027-internships&utm_content=apply",
+   "firstSeen": "2026-10-17",
+   "closedAt": "2026-10-27"
+  },
+  "rtx.com::electrical engineer intern": {
+   "id": "801fcaa5e512",
+   "company": "RTX/Raytheon",
+   "companyUrl": "https://aplyr.ai/companies/rtx?utm_source=github&utm_medium=joblist&utm_campaign=summer-2027-internships&utm_content=company",
+   "title": "Electrical Engineer Intern",
+   "locations": [
+    "US-AZ-TUCSON-805 ~ 1151 E Hermans Rd ~ BLDG 805"
+   ],
+   "section": "hw",
+   "posted": "2026-09-21",
+   "added": "2026-09-22T08:00:40.000Z",
+   "pay": "$63k–120k/yr",
+   "url": "https://aplyr.ai/jobs/801fcaa5e512/electrical-engineer-intern?utm_source=github&utm_medium=joblist&utm_campaign=summer-2027-internships&utm_content=apply",
+   "sponsorsH1B": true,
+   "firstSeen": "2026-10-17",
+   "closedAt": "2026-10-27"
+  },
+  "rtx.com::software engineer intern": {
+   "id": "7797f32acd6f",
+   "company": "RTX/Raytheon",
+   "companyUrl": "https://aplyr.ai/companies/rtx?utm_source=github&utm_medium=joblist&utm_campaign=summer-2027-internships&utm_content=company",
+   "title": "Software Engineer Intern",
+   "locations": [
+    "US-AZ-TUCSON-805 ~ 1151 E Hermans Rd ~ BLDG 805"
+   ],
+   "section": "swe",
+   "posted": "2026-09-21",
+   "added": "2026-09-22T08:00:40.000Z",
+   "pay": "$69k–131k/yr",
+   "url": "https://aplyr.ai/jobs/7797f32acd6f/software-engineer-intern?utm_source=github&utm_medium=joblist&utm_campaign=summer-2027-internships&utm_content=apply",
+   "sponsorsH1B": true,
+   "firstSeen": "2026-10-17",
+   "closedAt": "2026-10-27"
+  },
+  "imegcorp.com::electrical engineering intern anaheim ca": {
+   "id": "db4ca993fa5c",
+   "company": "IMEG",
+   "companyUrl": "https://aplyr.ai/companies/imegcorp?utm_source=github&utm_medium=joblist&utm_campaign=summer-2027-internships&utm_content=company",
+   "title": "Electrical Engineering Intern | Anaheim, CA",
+   "locations": [
+    "Anaheim, CA"
+   ],
+   "section": "hw",
+   "posted": "2026-09-21",
+   "added": "2026-10-18T00:22:00.000Z",
+   "url": "https://aplyr.ai/jobs/db4ca993fa5c/electrical-engineering-intern-anaheim-ca?utm_source=github&utm_medium=joblist&utm_campaign=summer-2027-internships&utm_content=apply",
+   "firstSeen": "2026-10-18",
+   "closedAt": "2026-10-27"
+  },
+  "cadence.com::graduate student intern software engineering": {
+   "id": "b4d294e7a873",
+   "company": "Cadence Design Systems",
+   "companyUrl": "https://aplyr.ai/companies/cadence?utm_source=github&utm_medium=joblist&utm_campaign=summer-2027-internships&utm_content=company",
+   "title": "Graduate Student Intern - Software Engineering",
+   "locations": [
+    "AUSTIN"
+   ],
+   "section": "swe",
+   "posted": "2026-09-21",
+   "added": "2026-10-17T22:43:58.000Z",
+   "url": "https://aplyr.ai/jobs/b4d294e7a873/graduate-student-intern-software-engineering?utm_source=github&utm_medium=joblist&utm_campaign=summer-2027-internships&utm_content=apply",
+   "sponsorsH1B": true,
+   "firstSeen": "2026-10-17",
+   "closedAt": "2026-10-27"
+  },
+  "theocc.com::summer intern product management": {
+   "id": "292619d33d1d",
+   "company": "OCC",
+   "companyUrl": "https://aplyr.ai/companies/theocc?utm_source=github&utm_medium=joblist&utm_campaign=summer-2027-internships&utm_content=company",
+   "title": "Summer Intern - Product Management",
+   "locations": [
+    "Chicago - 125 S Franklin"
+   ],
+   "section": "pm",
+   "posted": "2026-09-19",
+   "added": "2026-10-18T00:41:03.000Z",
+   "url": "https://aplyr.ai/jobs/292619d33d1d/summer-intern-product-management?utm_source=github&utm_medium=joblist&utm_campaign=summer-2027-internships&utm_content=apply",
+   "firstSeen": "2026-10-18",
+   "closedAt": "2026-10-27"
+  },
+  "abbott.com::2027 it cancer diagnostics intern": {
+   "id": "4688f4216fc4",
+   "company": "Abbott",
+   "companyUrl": "https://aplyr.ai/companies/abbott?utm_source=github&utm_medium=joblist&utm_campaign=summer-2027-internships&utm_content=company",
+   "title": "2027 IT Cancer Diagnostics Intern",
+   "locations": [
+    "United States > Madison : 1 Exact Lane"
+   ],
+   "section": "swe",
+   "posted": "2026-09-15",
+   "added": "2026-10-17T22:02:47.000Z",
+   "url": "https://aplyr.ai/jobs/4688f4216fc4/2027-it-cancer-diagnostics-intern?utm_source=github&utm_medium=joblist&utm_campaign=summer-2027-internships&utm_content=apply",
+   "sponsorsH1B": true,
+   "firstSeen": "2026-10-17",
+   "closedAt": "2026-10-27"
+  },
+  "skydio.com::autonomy engineer intern computer vision deep learning summer 2027": {
+   "id": "9de1f1b45189",
+   "company": "Skydio",
+   "companyUrl": "https://aplyr.ai/companies/skydio?utm_source=github&utm_medium=joblist&utm_campaign=summer-2027-internships&utm_content=company",
+   "title": "Autonomy Engineer Intern, Computer Vision / Deep Learning, Summer 2027",
+   "locations": [
+    "San Mateo, California"
+   ],
+   "section": "data",
+   "posted": "2026-09-03",
+   "added": "2026-09-17T09:45:31.000Z",
+   "pay": "$47/hr",
+   "url": "https://aplyr.ai/jobs/9de1f1b45189/autonomy-engineer-intern-computer-vision-deep-learning-summer-2027?utm_source=github&utm_medium=joblist&utm_campaign=summer-2027-internships&utm_content=apply",
+   "firstSeen": "2026-10-17",
+   "closedAt": "2026-10-27"
+  },
   "microsoft.com::security research intern": {
    "id": "697deb02c7d9",
    "company": "Microsoft",
@@ -14983,22 +15794,6 @@
    "firstSeen": "2026-10-22",
    "closedAt": "2026-10-25"
   },
-  "global.abb::power bi intern summer 2027": {
-   "id": "a225594c644a",
-   "company": "ABB",
-   "companyUrl": "https://aplyr.ai/companies/global?utm_source=github&utm_medium=joblist&utm_campaign=summer-2027-internships&utm_content=company",
-   "title": "Power BI Intern- Summer 2027",
-   "locations": [
-    "USA, NC, Cary"
-   ],
-   "section": "data",
-   "posted": "2026-10-21",
-   "added": "2026-10-22T00:20:35.000Z",
-   "url": "https://aplyr.ai/jobs/a225594c644a/power-bi-intern-summer-2027?utm_source=github&utm_medium=joblist&utm_campaign=summer-2027-internships&utm_content=apply",
-   "sponsorsH1B": true,
-   "firstSeen": "2026-10-22",
-   "closedAt": "2026-10-25"
-  },
   "hpe.com::electrical engineering intern": {
    "id": "18b707d4f285",
    "company": "HPE",
@@ -15063,54 +15858,6 @@
    "firstSeen": "2026-10-21",
    "closedAt": "2026-10-25"
   },
-  "werner.com::information security intern": {
-   "id": "2c30314a0536",
-   "company": "Werner Enterprises",
-   "companyUrl": "https://aplyr.ai/companies/werner?utm_source=github&utm_medium=joblist&utm_campaign=summer-2027-internships&utm_content=company",
-   "title": "Information Security Intern",
-   "locations": [
-    "Omaha, NE"
-   ],
-   "section": "swe",
-   "posted": "2026-10-19",
-   "added": "2026-10-20T13:31:07.000Z",
-   "url": "https://aplyr.ai/jobs/2c30314a0536/information-security-intern?utm_source=github&utm_medium=joblist&utm_campaign=summer-2027-internships&utm_content=apply",
-   "sponsorsH1B": true,
-   "firstSeen": "2026-10-20",
-   "closedAt": "2026-10-25"
-  },
-  "werner.com::it cloud engineering intern": {
-   "id": "2b72d54400fb",
-   "company": "Werner Enterprises",
-   "companyUrl": "https://aplyr.ai/companies/werner?utm_source=github&utm_medium=joblist&utm_campaign=summer-2027-internships&utm_content=company",
-   "title": "IT Cloud Engineering Intern",
-   "locations": [
-    "Omaha, NE"
-   ],
-   "section": "swe",
-   "posted": "2026-10-19",
-   "added": "2026-10-20T13:31:07.000Z",
-   "url": "https://aplyr.ai/jobs/2b72d54400fb/it-cloud-engineering-intern?utm_source=github&utm_medium=joblist&utm_campaign=summer-2027-internships&utm_content=apply",
-   "sponsorsH1B": true,
-   "firstSeen": "2026-10-20",
-   "closedAt": "2026-10-25"
-  },
-  "werner.com::telecom support intern": {
-   "id": "49ad042b91e6",
-   "company": "Werner Enterprises",
-   "companyUrl": "https://aplyr.ai/companies/werner?utm_source=github&utm_medium=joblist&utm_campaign=summer-2027-internships&utm_content=company",
-   "title": "Telecom Support Intern",
-   "locations": [
-    "Omaha, NE"
-   ],
-   "section": "swe",
-   "posted": "2026-10-19",
-   "added": "2026-10-20T13:31:07.000Z",
-   "url": "https://aplyr.ai/jobs/49ad042b91e6/telecom-support-intern?utm_source=github&utm_medium=joblist&utm_campaign=summer-2027-internships&utm_content=apply",
-   "sponsorsH1B": true,
-   "firstSeen": "2026-10-20",
-   "closedAt": "2026-10-25"
-  },
   "aerospace.org::2027 cloud solutions engineer site reliability undergrad intern": {
    "id": "4d97f8f3e0ef",
    "company": "Aerospace Corporation",
@@ -15144,23 +15891,6 @@
    "url": "https://aplyr.ai/jobs/5ba00d5533cf/applied-data-technology-intern?utm_source=github&utm_medium=joblist&utm_campaign=summer-2027-internships&utm_content=apply",
    "noSponsorship": true,
    "firstSeen": "2026-10-18",
-   "closedAt": "2026-10-25"
-  },
-  "amfam.com::summer 2027 intern data engineering": {
-   "id": "a7c40389a6a5",
-   "company": "American Family Insurance",
-   "companyUrl": "https://aplyr.ai/companies/amfam?utm_source=github&utm_medium=joblist&utm_campaign=summer-2027-internships&utm_content=company",
-   "title": "Summer 2027 Intern - Data Engineering",
-   "locations": [
-    "WI Madison"
-   ],
-   "section": "data",
-   "posted": "2026-10-16",
-   "added": "2026-10-17T22:44:43.000Z",
-   "pay": "$25–39/hr",
-   "url": "https://aplyr.ai/jobs/a7c40389a6a5/summer-2027-intern-data-engineering?utm_source=github&utm_medium=joblist&utm_campaign=summer-2027-internships&utm_content=apply",
-   "noSponsorship": true,
-   "firstSeen": "2026-10-17",
    "closedAt": "2026-10-25"
   },
   "northropgrumman.com::2027 software engineering intern aurora co": {
@@ -16621,21 +17351,6 @@
    "firstSeen": "2026-10-17",
    "closedAt": "2026-10-23"
   },
-  "cencora.com::ai intern": {
-   "id": "9ff6148da494",
-   "company": "Cencora",
-   "companyUrl": "https://aplyr.ai/companies/cencora?utm_source=github&utm_medium=joblist&utm_campaign=summer-2027-internships&utm_content=company",
-   "title": "AI Intern",
-   "locations": [
-    "Conshohocken, PA"
-   ],
-   "section": "data",
-   "posted": "2026-09-28",
-   "added": "2026-10-17T22:51:23.000Z",
-   "url": "https://aplyr.ai/jobs/9ff6148da494/ai-intern?utm_source=github&utm_medium=joblist&utm_campaign=summer-2027-internships&utm_content=apply",
-   "firstSeen": "2026-10-18",
-   "closedAt": "2026-10-23"
-  },
   "waymo.com::2027 summer intern bs ms embedded software engineer": {
    "id": "e76180a68132",
    "company": "Waymo",
@@ -17850,22 +18565,6 @@
    "firstSeen": "2026-10-17",
    "closedAt": "2026-10-21"
   },
-  "airbus.com::2027 summer internship quality assurance engineering": {
-   "id": "65a1cad4e8e0",
-   "company": "Airbus",
-   "companyUrl": "https://aplyr.ai/companies/airbus?utm_source=github&utm_medium=joblist&utm_campaign=summer-2027-internships&utm_content=company",
-   "title": "2027 Summer Internship - Quality Assurance Engineering",
-   "locations": [
-    "Kinston, NC"
-   ],
-   "section": "swe",
-   "posted": "2026-09-14",
-   "added": "2026-10-18T00:41:03.000Z",
-   "url": "https://aplyr.ai/jobs/65a1cad4e8e0/2027-summer-internship-quality-assurance-engineering?utm_source=github&utm_medium=joblist&utm_campaign=summer-2027-internships&utm_content=apply",
-   "sponsorsH1B": true,
-   "firstSeen": "2026-10-18",
-   "closedAt": "2026-10-21"
-  },
   "boozallen.com::university summer 2027 software engineer intern": {
    "id": "33e68333e7a7",
    "company": "Booz Allen Hamilton",
@@ -17947,22 +18646,6 @@
    "posted": "2026-10-14",
    "added": "2026-10-17T22:16:45.000Z",
    "url": "https://aplyr.ai/jobs/5c6848e9a9eb/asic-design-engineer-i-intern-united-states?utm_source=github&utm_medium=joblist&utm_campaign=summer-2027-internships&utm_content=apply",
-   "sponsorsH1B": true,
-   "firstSeen": "2026-10-17",
-   "closedAt": "2026-10-20"
-  },
-  "caci.com::software engineering intern summer 2027": {
-   "id": "816fa4c2a2d4",
-   "company": "CACI International",
-   "companyUrl": "https://aplyr.ai/companies/caci?utm_source=github&utm_medium=joblist&utm_campaign=summer-2027-internships&utm_content=company",
-   "title": "Software Engineering Intern - Summer 2027",
-   "locations": [
-    "Florham Park, NJ"
-   ],
-   "section": "swe",
-   "posted": "2026-10-14",
-   "added": "2026-10-17T06:04:37.000Z",
-   "url": "https://aplyr.ai/jobs/816fa4c2a2d4/software-engineering-intern-summer-2027?utm_source=github&utm_medium=joblist&utm_campaign=summer-2027-internships&utm_content=apply",
    "sponsorsH1B": true,
    "firstSeen": "2026-10-17",
    "closedAt": "2026-10-20"
@@ -18587,694 +19270,6 @@
    "sponsorsH1B": true,
    "firstSeen": "2026-10-17",
    "closedAt": "2026-10-19"
-  },
-  "caterpillar.com::2027 summer intern information technology": {
-   "id": "fd652a0a04d5",
-   "company": "Caterpillar",
-   "companyUrl": "https://aplyr.ai/companies/caterpillar?utm_source=github&utm_medium=joblist&utm_campaign=summer-2027-internships&utm_content=company",
-   "title": "2027 Summer Intern - Information Technology",
-   "locations": [
-    "Nashville, Tennessee"
-   ],
-   "section": "swe",
-   "posted": "2026-09-17",
-   "added": "2026-10-17T22:27:12.000Z",
-   "url": "https://aplyr.ai/jobs/fd652a0a04d5/2027-summer-intern-information-technology?utm_source=github&utm_medium=joblist&utm_campaign=summer-2027-internships&utm_content=apply",
-   "sponsorsH1B": true,
-   "firstSeen": "2026-10-17",
-   "closedAt": "2026-10-19"
-  },
-  "micron.com::intern dram product test engineer": {
-   "id": "8e2497d9a3d8",
-   "company": "Micron",
-   "companyUrl": "https://aplyr.ai/companies/micron?utm_source=github&utm_medium=joblist&utm_campaign=summer-2027-internships&utm_content=company",
-   "title": "Intern - DRAM Product Test Engineer",
-   "locations": [
-    "Boise, ID - Main Site"
-   ],
-   "section": "swe",
-   "posted": "2026-09-17",
-   "added": "2026-10-17T22:22:16.000Z",
-   "url": "https://aplyr.ai/jobs/8e2497d9a3d8/intern-dram-product-test-engineer?utm_source=github&utm_medium=joblist&utm_campaign=summer-2027-internships&utm_content=apply",
-   "sponsorsH1B": true,
-   "firstSeen": "2026-10-17",
-   "closedAt": "2026-10-19"
-  },
-  "conocophillips.com::intern trading analytics 2027": {
-   "id": "595d13d114c1",
-   "company": "ConocoPhillips",
-   "companyUrl": "https://aplyr.ai/companies/conocophillips?utm_source=github&utm_medium=joblist&utm_campaign=summer-2027-internships&utm_content=company",
-   "title": "Intern, Trading Analytics 2027",
-   "locations": [
-    "Houston, TX"
-   ],
-   "section": "quant",
-   "posted": "2026-09-17",
-   "added": "2026-10-17T22:22:16.000Z",
-   "url": "https://aplyr.ai/jobs/595d13d114c1/intern-trading-analytics-2027?utm_source=github&utm_medium=joblist&utm_campaign=summer-2027-internships&utm_content=apply",
-   "sponsorsH1B": true,
-   "firstSeen": "2026-10-17",
-   "closedAt": "2026-10-19"
-  },
-  "deloitte.com::audit assurance intern financial statement audit summer 2027": {
-   "id": "3213e1b3a075",
-   "company": "Deloitte",
-   "companyUrl": "https://aplyr.ai/companies/deloitte?utm_source=github&utm_medium=joblist&utm_campaign=summer-2027-internships&utm_content=company",
-   "title": "Audit & Assurance – Intern – Financial Statement Audit – Summer 2027",
-   "locations": [
-    "Honolulu, Hawaii"
-   ],
-   "section": "swe",
-   "posted": "2026-10-17",
-   "added": "2026-10-17T21:56:24.000Z",
-   "url": "https://aplyr.ai/jobs/3213e1b3a075/audit-assurance-intern-financial-statement-audit-summer-2027?utm_source=github&utm_medium=joblist&utm_campaign=summer-2027-internships&utm_content=apply",
-   "firstSeen": "2026-10-17",
-   "closedAt": "2026-10-18"
-  },
-  "waymo.com::2027 summer intern phd machine learning simulation realism": {
-   "id": "fa11ccda1a05",
-   "company": "Waymo",
-   "companyUrl": "https://aplyr.ai/companies/waymo?utm_source=github&utm_medium=joblist&utm_campaign=summer-2027-internships&utm_content=company",
-   "title": "2027 Summer Intern, PhD, Machine Learning, Simulation Realism",
-   "locations": [
-    "London, England, United Kingdom"
-   ],
-   "section": "data",
-   "posted": "2026-10-16",
-   "added": "2026-10-17T09:06:36.000Z",
-   "pay": "$80k/yr",
-   "url": "https://aplyr.ai/jobs/fa11ccda1a05/2027-summer-intern-phd-machine-learning-simulation-realism?utm_source=github&utm_medium=joblist&utm_campaign=summer-2027-internships&utm_content=apply",
-   "sponsorsH1B": true,
-   "firstSeen": "2026-10-17",
-   "closedAt": "2026-10-18"
-  },
-  "waymo.com::2027 summer intern ms phd sim realism ml infrastructure": {
-   "id": "a5798bb6c5ec",
-   "company": "Waymo",
-   "companyUrl": "https://aplyr.ai/companies/waymo?utm_source=github&utm_medium=joblist&utm_campaign=summer-2027-internships&utm_content=company",
-   "title": "2027 Summer Intern, MS/PhD, Sim-Realism ML Infrastructure",
-   "locations": [
-    "London, England, United Kingdom"
-   ],
-   "section": "data",
-   "posted": "2026-10-16",
-   "added": "2026-09-19T08:01:54.000Z",
-   "pay": "$65k–80k/yr",
-   "url": "https://aplyr.ai/jobs/a5798bb6c5ec/2027-summer-intern-msphd-sim-realism-ml-infrastructure?utm_source=github&utm_medium=joblist&utm_campaign=summer-2027-internships&utm_content=apply",
-   "sponsorsH1B": true,
-   "firstSeen": "2026-10-17",
-   "closedAt": "2026-10-18"
-  },
-  "waymo.com::2027 summer intern ms phd machine learning simulation realism": {
-   "id": "24c4225eaa0f",
-   "company": "Waymo",
-   "companyUrl": "https://aplyr.ai/companies/waymo?utm_source=github&utm_medium=joblist&utm_campaign=summer-2027-internships&utm_content=company",
-   "title": "2027 Summer Intern, MS/PhD, Machine Learning, Simulation Realism",
-   "locations": [
-    "London, England, United Kingdom"
-   ],
-   "section": "data",
-   "posted": "2026-10-16",
-   "added": "2026-09-18T08:01:05.000Z",
-   "pay": "$65k–80k/yr",
-   "url": "https://aplyr.ai/jobs/24c4225eaa0f/2027-summer-intern-msphd-machine-learning-simulation-realism?utm_source=github&utm_medium=joblist&utm_campaign=summer-2027-internships&utm_content=apply",
-   "sponsorsH1B": true,
-   "firstSeen": "2026-10-17",
-   "closedAt": "2026-10-18"
-  },
-  "aquatic.com::software engineer intern summer 2027": {
-   "id": "342406401a0d",
-   "company": "Aquatic Capital Management",
-   "companyUrl": "https://aplyr.ai/companies/aquatic?utm_source=github&utm_medium=joblist&utm_campaign=summer-2027-internships&utm_content=company",
-   "title": "Software Engineer, Intern (Summer 2027)",
-   "locations": [
-    "Chicago"
-   ],
-   "remote": true,
-   "section": "swe",
-   "posted": "2026-10-16",
-   "added": "2026-04-06T05:00:55.000Z",
-   "url": "https://aplyr.ai/jobs/342406401a0d/software-engineer-intern-summer-2027?utm_source=github&utm_medium=joblist&utm_campaign=summer-2027-internships&utm_content=apply",
-   "firstSeen": "2026-10-17",
-   "closedAt": "2026-10-18"
-  },
-  "roblox.com::summer 2027 software engineer intern": {
-   "id": "a42d451f7ed9",
-   "company": "Roblox",
-   "companyUrl": "https://aplyr.ai/companies/roblox?utm_source=github&utm_medium=joblist&utm_campaign=summer-2027-internships&utm_content=company",
-   "title": "[Summer 2027] Software Engineer Intern",
-   "locations": [
-    "San Mateo, CA"
-   ],
-   "remote": true,
-   "section": "swe",
-   "posted": "2026-10-16",
-   "added": "2026-09-17T07:15:43.000Z",
-   "pay": "$197k–243k/yr",
-   "url": "https://aplyr.ai/jobs/a42d451f7ed9/summer-2027-software-engineer-intern?utm_source=github&utm_medium=joblist&utm_campaign=summer-2027-internships&utm_content=apply",
-   "sponsorsH1B": true,
-   "firstSeen": "2026-10-17",
-   "closedAt": "2026-10-18"
-  },
-  "appian.com::information security engineer intern": {
-   "id": "5bc55d58935e",
-   "company": "Appian Corporation",
-   "companyUrl": "https://aplyr.ai/companies/appian?utm_source=github&utm_medium=joblist&utm_campaign=summer-2027-internships&utm_content=company",
-   "title": "Information Security Engineer Intern",
-   "locations": [
-    "McLean, Virginia"
-   ],
-   "section": "swe",
-   "posted": "2026-10-16",
-   "added": "2026-07-28T05:01:09.000Z",
-   "pay": "$50/hr",
-   "url": "https://aplyr.ai/jobs/5bc55d58935e/information-security-engineer-intern?utm_source=github&utm_medium=joblist&utm_campaign=summer-2027-internships&utm_content=apply",
-   "noSponsorship": true,
-   "firstSeen": "2026-10-17",
-   "closedAt": "2026-10-18"
-  },
-  "appian.com::software engineering intern": {
-   "id": "34bdf827da56",
-   "company": "Appian Corporation",
-   "companyUrl": "https://aplyr.ai/companies/appian?utm_source=github&utm_medium=joblist&utm_campaign=summer-2027-internships&utm_content=company",
-   "title": "Software Engineering Intern",
-   "locations": [
-    "McLean, Virginia"
-   ],
-   "section": "swe",
-   "posted": "2026-10-16",
-   "added": "2026-07-24T05:01:12.000Z",
-   "pay": "$50/hr",
-   "url": "https://aplyr.ai/jobs/34bdf827da56/software-engineering-intern?utm_source=github&utm_medium=joblist&utm_campaign=summer-2027-internships&utm_content=apply",
-   "noSponsorship": true,
-   "firstSeen": "2026-10-17",
-   "closedAt": "2026-10-18"
-  },
-  "psiquantum.com::intern quantum algorithms and compilation": {
-   "id": "60730b799d3e",
-   "company": "PsiQuantum",
-   "companyUrl": "https://aplyr.ai/companies/psiquantum?utm_source=github&utm_medium=joblist&utm_campaign=summer-2027-internships&utm_content=company",
-   "title": "Intern, Quantum Algorithms and Compilation",
-   "locations": [
-    "Palo Alto, California",
-    "Remote"
-   ],
-   "remote": true,
-   "section": "quant",
-   "posted": "2026-10-16",
-   "added": "2026-09-17T07:15:43.000Z",
-   "pay": "$27.5–47/hr",
-   "url": "https://aplyr.ai/jobs/60730b799d3e/intern-quantum-algorithms-and-compilation?utm_source=github&utm_medium=joblist&utm_campaign=summer-2027-internships&utm_content=apply",
-   "firstSeen": "2026-10-17",
-   "closedAt": "2026-10-18"
-  },
-  "psiquantum.com::intern optical packaging and characterization engineer": {
-   "id": "55aa542291e1",
-   "company": "PsiQuantum",
-   "companyUrl": "https://aplyr.ai/companies/psiquantum?utm_source=github&utm_medium=joblist&utm_campaign=summer-2027-internships&utm_content=company",
-   "title": "Intern, Optical Packaging and Characterization Engineer",
-   "locations": [
-    "Milpitas, California"
-   ],
-   "section": "hw",
-   "posted": "2026-10-16",
-   "added": "2026-09-17T07:15:43.000Z",
-   "pay": "$27.5–47/hr",
-   "url": "https://aplyr.ai/jobs/55aa542291e1/intern-optical-packaging-and-characterization-engineer?utm_source=github&utm_medium=joblist&utm_campaign=summer-2027-internships&utm_content=apply",
-   "firstSeen": "2026-10-17",
-   "closedAt": "2026-10-18"
-  },
-  "nxp.com::sw engineering intern": {
-   "id": "eb0358696396",
-   "company": "NXP Semiconductors",
-   "companyUrl": "https://aplyr.ai/companies/nxp?utm_source=github&utm_medium=joblist&utm_campaign=summer-2027-internships&utm_content=company",
-   "title": "SW Engineering Intern",
-   "locations": [
-    "Bucharest"
-   ],
-   "section": "swe",
-   "posted": "2026-10-16",
-   "added": "2026-10-12T10:30:17.000Z",
-   "url": "https://aplyr.ai/jobs/eb0358696396/sw-engineering-intern?utm_source=github&utm_medium=joblist&utm_campaign=summer-2027-internships&utm_content=apply",
-   "sponsorsH1B": true,
-   "firstSeen": "2026-10-17",
-   "closedAt": "2026-10-18"
-  },
-  "smartly.io::business analytics intern": {
-   "id": "851af4ccec13",
-   "company": "Smartly",
-   "companyUrl": "https://aplyr.ai/companies/smartly?utm_source=github&utm_medium=joblist&utm_campaign=summer-2027-internships&utm_content=company",
-   "title": "Business Analytics Intern",
-   "locations": [
-    "Chicago, Illinois"
-   ],
-   "section": "data",
-   "posted": "2026-10-16",
-   "added": "2026-09-17T07:31:04.000Z",
-   "url": "https://aplyr.ai/jobs/851af4ccec13/business-analytics-intern?utm_source=github&utm_medium=joblist&utm_campaign=summer-2027-internships&utm_content=apply",
-   "sponsorsH1B": true,
-   "firstSeen": "2026-10-17",
-   "closedAt": "2026-10-18"
-  },
-  "vastspace.com::emerging talent electrical engineering internship": {
-   "id": "5d2e31284ae5",
-   "company": "Vast",
-   "companyUrl": "https://aplyr.ai/companies/vastspace?utm_source=github&utm_medium=joblist&utm_campaign=summer-2027-internships&utm_content=company",
-   "title": "Emerging Talent - Electrical Engineering Internship",
-   "locations": [
-    "Long Beach, California"
-   ],
-   "section": "hw",
-   "posted": "2026-10-16",
-   "added": "2026-09-17T08:01:29.000Z",
-   "pay": "$35–42/hr",
-   "url": "https://aplyr.ai/jobs/5d2e31284ae5/emerging-talent-electrical-engineering-internship?utm_source=github&utm_medium=joblist&utm_campaign=summer-2027-internships&utm_content=apply",
-   "firstSeen": "2026-10-17",
-   "closedAt": "2026-10-18"
-  },
-  "freeform.co::software engineering intern summer 2027": {
-   "id": "2625ad92b0a3",
-   "company": "Freeform",
-   "companyUrl": "https://aplyr.ai/companies/freeform?utm_source=github&utm_medium=joblist&utm_campaign=summer-2027-internships&utm_content=company",
-   "title": "Software Engineering Intern (Summer 2027)",
-   "locations": [
-    "Los Angeles, CA (On-site)"
-   ],
-   "section": "swe",
-   "posted": "2026-10-16",
-   "added": "2026-09-17T06:01:11.000Z",
-   "pay": "$34/hr",
-   "url": "https://aplyr.ai/jobs/2625ad92b0a3/software-engineering-intern-summer-2027?utm_source=github&utm_medium=joblist&utm_campaign=summer-2027-internships&utm_content=apply",
-   "firstSeen": "2026-10-17",
-   "closedAt": "2026-10-18"
-  },
-  "freeform.co::electrical engineering intern summer 2027": {
-   "id": "99e3f9e7e8ca",
-   "company": "Freeform",
-   "companyUrl": "https://aplyr.ai/companies/freeform?utm_source=github&utm_medium=joblist&utm_campaign=summer-2027-internships&utm_content=company",
-   "title": "Electrical Engineering Intern (Summer 2027)",
-   "locations": [
-    "Los Angeles, CA (On-site)"
-   ],
-   "section": "hw",
-   "posted": "2026-10-16",
-   "added": "2026-09-17T06:01:11.000Z",
-   "pay": "$32/hr",
-   "url": "https://aplyr.ai/jobs/99e3f9e7e8ca/electrical-engineering-intern-summer-2027?utm_source=github&utm_medium=joblist&utm_campaign=summer-2027-internships&utm_content=apply",
-   "firstSeen": "2026-10-17",
-   "closedAt": "2026-10-18"
-  },
-  "anduril.com::2027 software engineer intern": {
-   "id": "5d8cf14008b5",
-   "company": "Anduril Industries",
-   "companyUrl": "https://aplyr.ai/companies/anduril?utm_source=github&utm_medium=joblist&utm_campaign=summer-2027-internships&utm_content=company",
-   "title": "2027 Software Engineer Intern",
-   "locations": [
-    "Atlanta, Georgia",
-    "Boston, Massachusetts",
-    "Broomfield, Colorado",
-    "Colorado Springs, Colorado",
-    "Costa Mesa, California",
-    "Fort Collins, Colorado",
-    "Irvine, California",
-    "Reston, Virginia",
-    "Seattle, Washington"
-   ],
-   "section": "swe",
-   "posted": "2026-10-15",
-   "added": "2026-06-11T05:02:05.000Z",
-   "pay": "$100k–130k/yr",
-   "url": "https://aplyr.ai/jobs/5d8cf14008b5/2027-software-engineer-intern?utm_source=github&utm_medium=joblist&utm_campaign=summer-2027-internships&utm_content=apply",
-   "firstSeen": "2026-10-17",
-   "closedAt": "2026-10-18"
-  },
-  "anduril.com::2027 electrical engineer intern": {
-   "id": "2ea0bf7bf5dc",
-   "company": "Anduril Industries",
-   "companyUrl": "https://aplyr.ai/companies/anduril?utm_source=github&utm_medium=joblist&utm_campaign=summer-2027-internships&utm_content=company",
-   "title": "2027 Electrical Engineer Intern",
-   "locations": [
-    "Atlanta, Georgia",
-    "Boston, Massachusetts",
-    "Broomfield, Colorado",
-    "Colorado Springs, Colorado",
-    "Costa Mesa, California",
-    "Fort Collins, Colorado",
-    "Irvine, California",
-    "Reston, Virginia",
-    "Seattle, Washington"
-   ],
-   "section": "data",
-   "posted": "2026-10-15",
-   "added": "2026-06-12T05:01:38.000Z",
-   "pay": "$112k–149k/yr",
-   "url": "https://aplyr.ai/jobs/2ea0bf7bf5dc/2027-electrical-engineer-intern?utm_source=github&utm_medium=joblist&utm_campaign=summer-2027-internships&utm_content=apply",
-   "firstSeen": "2026-10-17",
-   "closedAt": "2026-10-18"
-  },
-  "flyzipline.com::software systems validation intern summer 2027": {
-   "id": "9a39d3c18712",
-   "company": "Zipline",
-   "companyUrl": "https://aplyr.ai/companies/flyzipline?utm_source=github&utm_medium=joblist&utm_campaign=summer-2027-internships&utm_content=company",
-   "title": "Software Systems Validation Intern (Summer 2027)",
-   "locations": [
-    "South San Francisco, California"
-   ],
-   "section": "swe",
-   "posted": "2026-10-15",
-   "added": "2026-09-17T06:01:11.000Z",
-   "pay": "$54/hr",
-   "url": "https://aplyr.ai/jobs/9a39d3c18712/software-systems-validation-intern-summer-2027?utm_source=github&utm_medium=joblist&utm_campaign=summer-2027-internships&utm_content=apply",
-   "firstSeen": "2026-10-17",
-   "closedAt": "2026-10-18"
-  },
-  "flyzipline.com::long range platform hardware engineering intern summer 2027": {
-   "id": "9890f9f625c6",
-   "company": "Zipline",
-   "companyUrl": "https://aplyr.ai/companies/flyzipline?utm_source=github&utm_medium=joblist&utm_campaign=summer-2027-internships&utm_content=company",
-   "title": "Long Range Platform Hardware Engineering Intern (Summer 2027)",
-   "locations": [
-    "South San Francisco, California"
-   ],
-   "section": "hw",
-   "posted": "2026-10-15",
-   "added": "2026-09-17T06:01:11.000Z",
-   "url": "https://aplyr.ai/jobs/9890f9f625c6/long-range-platform-hardware-engineering-intern-summer-2027?utm_source=github&utm_medium=joblist&utm_campaign=summer-2027-internships&utm_content=apply",
-   "firstSeen": "2026-10-17",
-   "closedAt": "2026-10-18"
-  },
-  "flyzipline.com::hardware test intern summer 2027": {
-   "id": "222adc1ade94",
-   "company": "Zipline",
-   "companyUrl": "https://aplyr.ai/companies/flyzipline?utm_source=github&utm_medium=joblist&utm_campaign=summer-2027-internships&utm_content=company",
-   "title": "Hardware Test Intern (Summer 2027)",
-   "locations": [
-    "South San Francisco, California"
-   ],
-   "section": "hw",
-   "posted": "2026-10-15",
-   "added": "2026-09-17T06:01:11.000Z",
-   "url": "https://aplyr.ai/jobs/222adc1ade94/hardware-test-intern-summer-2027?utm_source=github&utm_medium=joblist&utm_campaign=summer-2027-internships&utm_content=apply",
-   "firstSeen": "2026-10-17",
-   "closedAt": "2026-10-18"
-  },
-  "flyzipline.com::electrical engineer intern summer 2027": {
-   "id": "5b9ec5a3a2a4",
-   "company": "Zipline",
-   "companyUrl": "https://aplyr.ai/companies/flyzipline?utm_source=github&utm_medium=joblist&utm_campaign=summer-2027-internships&utm_content=company",
-   "title": "Electrical Engineer Intern (Summer 2027)",
-   "locations": [
-    "South San Francisco, California"
-   ],
-   "section": "hw",
-   "posted": "2026-10-15",
-   "added": "2026-09-17T06:01:11.000Z",
-   "url": "https://aplyr.ai/jobs/5b9ec5a3a2a4/electrical-engineer-intern-summer-2027?utm_source=github&utm_medium=joblist&utm_campaign=summer-2027-internships&utm_content=apply",
-   "firstSeen": "2026-10-17",
-   "closedAt": "2026-10-18"
-  },
-  "flyzipline.com::computational physics intern summer 2027": {
-   "id": "2c1dd878df67",
-   "company": "Zipline",
-   "companyUrl": "https://aplyr.ai/companies/flyzipline?utm_source=github&utm_medium=joblist&utm_campaign=summer-2027-internships&utm_content=company",
-   "title": "Computational Physics Intern (Summer 2027)",
-   "locations": [
-    "South San Francisco, California"
-   ],
-   "section": "swe",
-   "posted": "2026-10-15",
-   "added": "2026-09-17T06:01:11.000Z",
-   "url": "https://aplyr.ai/jobs/2c1dd878df67/computational-physics-intern-summer-2027?utm_source=github&utm_medium=joblist&utm_campaign=summer-2027-internships&utm_content=apply",
-   "firstSeen": "2026-10-17",
-   "closedAt": "2026-10-18"
-  },
-  "clarityinnovations.com::junior software engineer internship": {
-   "id": "dd6f473393fc",
-   "company": "Clarity Innovations",
-   "companyUrl": "https://aplyr.ai/companies/clarityinnovations?utm_source=github&utm_medium=joblist&utm_campaign=summer-2027-internships&utm_content=company",
-   "title": "Junior Software Engineer Internship",
-   "locations": [
-    "Herndon, VA"
-   ],
-   "section": "swe",
-   "posted": "2026-10-15",
-   "added": "2026-09-17T05:31:03.000Z",
-   "pay": "$58k–138k/yr",
-   "url": "https://aplyr.ai/jobs/dd6f473393fc/junior-software-engineer-internship?utm_source=github&utm_medium=joblist&utm_campaign=summer-2027-internships&utm_content=apply",
-   "noSponsorship": true,
-   "firstSeen": "2026-10-17",
-   "closedAt": "2026-10-18"
-  },
-  "drw.com::software developer intern": {
-   "id": "22c188a4078f",
-   "company": "DRW",
-   "companyUrl": "https://aplyr.ai/companies/drw?utm_source=github&utm_medium=joblist&utm_campaign=summer-2027-internships&utm_content=company",
-   "title": "Software Developer Intern",
-   "locations": [
-    "Chicago"
-   ],
-   "section": "swe",
-   "posted": "2026-10-14",
-   "added": "2026-09-17T05:46:19.000Z",
-   "url": "https://aplyr.ai/jobs/22c188a4078f/software-developer-intern?utm_source=github&utm_medium=joblist&utm_campaign=summer-2027-internships&utm_content=apply",
-   "sponsorsH1B": true,
-   "firstSeen": "2026-10-17",
-   "closedAt": "2026-10-18"
-  },
-  "coinbase.com::data science intern": {
-   "id": "d7fd91048f39",
-   "company": "Coinbase",
-   "companyUrl": "https://aplyr.ai/companies/coinbase?utm_source=github&utm_medium=joblist&utm_campaign=summer-2027-internships&utm_content=company",
-   "title": "Data Science Intern",
-   "locations": [
-    "Hybrid - New York, NY"
-   ],
-   "section": "data",
-   "posted": "2026-10-14",
-   "added": "2026-09-17T05:31:03.000Z",
-   "pay": "$50/hr",
-   "url": "https://aplyr.ai/jobs/d7fd91048f39/data-science-intern?utm_source=github&utm_medium=joblist&utm_campaign=summer-2027-internships&utm_content=apply",
-   "sponsorsH1B": true,
-   "firstSeen": "2026-10-17",
-   "closedAt": "2026-10-18"
-  },
-  "coinbase.com::machine learning engineer intern": {
-   "id": "3796b4c09261",
-   "company": "Coinbase",
-   "companyUrl": "https://aplyr.ai/companies/coinbase?utm_source=github&utm_medium=joblist&utm_campaign=summer-2027-internships&utm_content=company",
-   "title": "Machine Learning Engineer Intern",
-   "locations": [
-    "Hybrid - San Francisco, CA"
-   ],
-   "section": "data",
-   "posted": "2026-10-14",
-   "added": "2026-09-17T05:31:03.000Z",
-   "pay": "$60/hr",
-   "url": "https://aplyr.ai/jobs/3796b4c09261/machine-learning-engineer-intern?utm_source=github&utm_medium=joblist&utm_campaign=summer-2027-internships&utm_content=apply",
-   "sponsorsH1B": true,
-   "firstSeen": "2026-10-17",
-   "closedAt": "2026-10-18"
-  },
-  "brph.com::electrical engineer intern": {
-   "id": "6b6497a2dd86",
-   "company": "BRPH (Architecture/Engineering)",
-   "companyUrl": "https://aplyr.ai/companies/brph?utm_source=github&utm_medium=joblist&utm_campaign=summer-2027-internships&utm_content=company",
-   "title": "Electrical Engineer Intern",
-   "locations": [
-    "Phoenix, Arizona"
-   ],
-   "section": "hw",
-   "posted": "2026-10-14",
-   "added": "2026-09-17T05:16:03.000Z",
-   "url": "https://aplyr.ai/jobs/6b6497a2dd86/electrical-engineer-intern?utm_source=github&utm_medium=joblist&utm_campaign=summer-2027-internships&utm_content=apply",
-   "firstSeen": "2026-10-17",
-   "closedAt": "2026-10-18"
-  },
-  "coinbase.com::analytics engineer intern": {
-   "id": "153606c74d46",
-   "company": "Coinbase",
-   "companyUrl": "https://aplyr.ai/companies/coinbase?utm_source=github&utm_medium=joblist&utm_campaign=summer-2027-internships&utm_content=company",
-   "title": "Analytics Engineer Intern",
-   "locations": [
-    "Hybrid - New York, NY"
-   ],
-   "section": "data",
-   "posted": "2026-10-13",
-   "added": "2026-09-17T05:31:03.000Z",
-   "pay": "$50/hr",
-   "url": "https://aplyr.ai/jobs/153606c74d46/analytics-engineer-intern?utm_source=github&utm_medium=joblist&utm_campaign=summer-2027-internships&utm_content=apply",
-   "sponsorsH1B": true,
-   "firstSeen": "2026-10-17",
-   "closedAt": "2026-10-18"
-  },
-  "coinbase.com::data engineer intern": {
-   "id": "a92ab6fac183",
-   "company": "Coinbase",
-   "companyUrl": "https://aplyr.ai/companies/coinbase?utm_source=github&utm_medium=joblist&utm_campaign=summer-2027-internships&utm_content=company",
-   "title": "Data Engineer Intern",
-   "locations": [
-    "Hybrid - San Francisco, CA"
-   ],
-   "section": "data",
-   "posted": "2026-10-13",
-   "added": "2026-09-17T05:31:03.000Z",
-   "pay": "$50/hr",
-   "url": "https://aplyr.ai/jobs/a92ab6fac183/data-engineer-intern?utm_source=github&utm_medium=joblist&utm_campaign=summer-2027-internships&utm_content=apply",
-   "sponsorsH1B": true,
-   "firstSeen": "2026-10-17",
-   "closedAt": "2026-10-18"
-  },
-  "coinbase.com::credit risk intern": {
-   "id": "3fc751b1aafe",
-   "company": "Coinbase",
-   "companyUrl": "https://aplyr.ai/companies/coinbase?utm_source=github&utm_medium=joblist&utm_campaign=summer-2027-internships&utm_content=company",
-   "title": "Credit Risk Intern",
-   "locations": [
-    "Hybrid - New York, NY"
-   ],
-   "section": "swe",
-   "posted": "2026-10-13",
-   "added": "2026-09-17T05:31:03.000Z",
-   "pay": "$40/hr",
-   "url": "https://aplyr.ai/jobs/3fc751b1aafe/credit-risk-intern?utm_source=github&utm_medium=joblist&utm_campaign=summer-2027-internships&utm_content=apply",
-   "sponsorsH1B": true,
-   "firstSeen": "2026-10-17",
-   "closedAt": "2026-10-18"
-  },
-  "coinbase.com::people analytics intern": {
-   "id": "1d9c577c08b8",
-   "company": "Coinbase",
-   "companyUrl": "https://aplyr.ai/companies/coinbase?utm_source=github&utm_medium=joblist&utm_campaign=summer-2027-internships&utm_content=company",
-   "title": "People Analytics Intern",
-   "locations": [
-    "Hybrid - New York, NY"
-   ],
-   "section": "data",
-   "posted": "2026-10-13",
-   "added": "2026-09-17T05:31:03.000Z",
-   "pay": "$40/hr",
-   "url": "https://aplyr.ai/jobs/1d9c577c08b8/people-analytics-intern?utm_source=github&utm_medium=joblist&utm_campaign=summer-2027-internships&utm_content=apply",
-   "sponsorsH1B": true,
-   "firstSeen": "2026-10-17",
-   "closedAt": "2026-10-18"
-  },
-  "coinbase.com::internal audit intern": {
-   "id": "ddc5113fe345",
-   "company": "Coinbase",
-   "companyUrl": "https://aplyr.ai/companies/coinbase?utm_source=github&utm_medium=joblist&utm_campaign=summer-2027-internships&utm_content=company",
-   "title": "Internal Audit Intern",
-   "locations": [
-    "Hybrid - New York, NY"
-   ],
-   "section": "swe",
-   "posted": "2026-10-13",
-   "added": "2026-09-17T05:31:03.000Z",
-   "pay": "$40/hr",
-   "url": "https://aplyr.ai/jobs/ddc5113fe345/internal-audit-intern?utm_source=github&utm_medium=joblist&utm_campaign=summer-2027-internships&utm_content=apply",
-   "sponsorsH1B": true,
-   "firstSeen": "2026-10-17",
-   "closedAt": "2026-10-18"
-  },
-  "astranis.com::cad engineer intern summer 2027": {
-   "id": "02a7d994af8a",
-   "company": "Astranis",
-   "companyUrl": "https://aplyr.ai/companies/astranis?utm_source=github&utm_medium=joblist&utm_campaign=summer-2027-internships&utm_content=company",
-   "title": "CAD Engineer Intern (Summer 2027)",
-   "locations": [
-    "San Francisco"
-   ],
-   "section": "hw",
-   "posted": "2026-10-13",
-   "added": "2026-08-17T15:33:22.000Z",
-   "pay": "$29/hr",
-   "url": "https://aplyr.ai/jobs/02a7d994af8a/cad-engineer-intern-summer-2027?utm_source=github&utm_medium=joblist&utm_campaign=summer-2027-internships&utm_content=apply",
-   "noSponsorship": true,
-   "firstSeen": "2026-10-17",
-   "closedAt": "2026-10-18"
-  },
-  "imc.com::deep learning research intern summer 2027 new york": {
-   "id": "c87666c395f7",
-   "company": "IMC Trading",
-   "companyUrl": "https://aplyr.ai/companies/imc?utm_source=github&utm_medium=joblist&utm_campaign=summer-2027-internships&utm_content=company",
-   "title": "Deep Learning Research Intern - Summer 2027 - New York",
-   "locations": [
-    "New York"
-   ],
-   "section": "data",
-   "posted": "2026-10-13",
-   "added": "2026-09-17T06:16:13.000Z",
-   "url": "https://aplyr.ai/jobs/c87666c395f7/deep-learning-research-intern-summer-2027-new-york?utm_source=github&utm_medium=joblist&utm_campaign=summer-2027-internships&utm_content=apply",
-   "sponsorsH1B": true,
-   "firstSeen": "2026-10-17",
-   "closedAt": "2026-10-18"
-  },
-  "imc.com::software engineer intern summer 2027": {
-   "id": "bd41bf4b69a1",
-   "company": "IMC Trading",
-   "companyUrl": "https://aplyr.ai/companies/imc?utm_source=github&utm_medium=joblist&utm_campaign=summer-2027-internships&utm_content=company",
-   "title": "Software Engineer Intern - Summer 2027",
-   "locations": [
-    "Chicago"
-   ],
-   "section": "swe",
-   "posted": "2026-10-13",
-   "added": "2026-09-17T06:16:13.000Z",
-   "pay": "$250k/yr",
-   "url": "https://aplyr.ai/jobs/bd41bf4b69a1/software-engineer-intern-summer-2027?utm_source=github&utm_medium=joblist&utm_campaign=summer-2027-internships&utm_content=apply",
-   "sponsorsH1B": true,
-   "firstSeen": "2026-10-17",
-   "closedAt": "2026-10-18"
-  },
-  "singlestore.com::software engineer intern engine 2027": {
-   "id": "16f1b3711c67",
-   "company": "SingleStore",
-   "companyUrl": "https://aplyr.ai/companies/singlestore?utm_source=github&utm_medium=joblist&utm_campaign=summer-2027-internships&utm_content=company",
-   "title": "Software Engineer Intern- Engine-2027",
-   "locations": [
-    "United States"
-   ],
-   "remote": true,
-   "section": "swe",
-   "posted": "2026-10-12",
-   "added": "2026-09-17T07:31:04.000Z",
-   "url": "https://aplyr.ai/jobs/16f1b3711c67/software-engineer-intern-engine-2027?utm_source=github&utm_medium=joblist&utm_campaign=summer-2027-internships&utm_content=apply",
-   "sponsorsH1B": true,
-   "firstSeen": "2026-10-17",
-   "closedAt": "2026-10-18"
-  },
-  "samsara.com::software engineering internship san francisco": {
-   "id": "d5bb9b8429b9",
-   "company": "Samsara",
-   "companyUrl": "https://aplyr.ai/companies/samsara?utm_source=github&utm_medium=joblist&utm_campaign=summer-2027-internships&utm_content=company",
-   "title": "Software Engineering Internship - San Francisco",
-   "locations": [
-    "San Francisco - SF9"
-   ],
-   "section": "swe",
-   "posted": "2026-10-12",
-   "added": "2026-09-17T07:15:43.000Z",
-   "url": "https://aplyr.ai/jobs/d5bb9b8429b9/software-engineering-internship-san-francisco?utm_source=github&utm_medium=joblist&utm_campaign=summer-2027-internships&utm_content=apply",
-   "sponsorsH1B": true,
-   "firstSeen": "2026-10-17",
-   "closedAt": "2026-10-18"
-  },
-  "xairatherapeutics.com::ai scientist intern computational protein design": {
-   "id": "392cf5a8227e",
-   "company": "Xaira Therapeutics",
-   "companyUrl": "https://aplyr.ai/companies/xairatherapeutics?utm_source=github&utm_medium=joblist&utm_campaign=summer-2027-internships&utm_content=company",
-   "title": "AI Scientist Intern, Computational Protein Design",
-   "locations": [
-    "Seattle, Washington",
-    "South San Francisco, California"
-   ],
-   "remote": true,
-   "section": "data",
-   "posted": "2026-10-09",
-   "added": "2026-09-17T08:01:29.000Z",
-   "pay": "$10,000–15,000/mo",
-   "url": "https://aplyr.ai/jobs/392cf5a8227e/ai-scientist-intern-computational-protein-design?utm_source=github&utm_medium=joblist&utm_campaign=summer-2027-internships&utm_content=apply",
-   "firstSeen": "2026-10-17",
-   "closedAt": "2026-10-18"
   }
  }
 }
