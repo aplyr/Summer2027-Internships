@@ -2,6 +2,91 @@
  "version": 1,
  "slug": "summer-2027-internships",
  "open": {
+  "andersonsinc.com::sap intern information services summer 2027": {
+   "id": "9d46e31be2d9",
+   "company": "The Andersons",
+   "companyUrl": "https://aplyr.ai/companies/andersonsinc?utm_source=github&utm_medium=joblist&utm_campaign=summer-2027-internships&utm_content=company",
+   "title": "SAP Intern, Information Services (Summer 2027)",
+   "locations": [
+    "Maumee, OH"
+   ],
+   "section": "swe",
+   "posted": "2026-11-04",
+   "added": "2026-11-04T00:20:45.000Z",
+   "url": "https://aplyr.ai/jobs/9d46e31be2d9/sap-intern-information-services-summer-2027?utm_source=github&utm_medium=joblist&utm_campaign=summer-2027-internships&utm_content=apply",
+   "firstSeen": "2026-11-04"
+  },
+  "archgroup.com::internal audit summer intern": {
+   "id": "c350d5d17aaf",
+   "company": "Arch Capital Group",
+   "companyUrl": "https://aplyr.ai/companies/archgroup?utm_source=github&utm_medium=joblist&utm_campaign=summer-2027-internships&utm_content=company",
+   "title": "Internal Audit Summer Intern",
+   "locations": [
+    "Raleigh, NC United States of America"
+   ],
+   "section": "swe",
+   "posted": "2026-11-04",
+   "added": "2026-11-04T00:00:38.000Z",
+   "url": "https://aplyr.ai/jobs/c350d5d17aaf/internal-audit-summer-intern?utm_source=github&utm_medium=joblist&utm_campaign=summer-2027-internships&utm_content=apply",
+   "firstSeen": "2026-11-04"
+  },
+  "archgroup.com::data and analytics intern": {
+   "id": "d1e9fd166fe8",
+   "company": "Arch Capital Group",
+   "companyUrl": "https://aplyr.ai/companies/archgroup?utm_source=github&utm_medium=joblist&utm_campaign=summer-2027-internships&utm_content=company",
+   "title": "Data and Analytics Intern",
+   "locations": [
+    "Farmington, CT United States of America"
+   ],
+   "section": "data",
+   "posted": "2026-11-04",
+   "added": "2026-11-04T00:00:38.000Z",
+   "url": "https://aplyr.ai/jobs/d1e9fd166fe8/data-and-analytics-intern?utm_source=github&utm_medium=joblist&utm_campaign=summer-2027-internships&utm_content=apply",
+   "firstSeen": "2026-11-04"
+  },
+  "archgroup.com::originations portal it intern": {
+   "id": "a343ba07d316",
+   "company": "Arch Capital Group",
+   "companyUrl": "https://aplyr.ai/companies/archgroup?utm_source=github&utm_medium=joblist&utm_campaign=summer-2027-internships&utm_content=company",
+   "title": "Originations Portal IT Intern",
+   "locations": [
+    "Greensboro, NC United States of America"
+   ],
+   "section": "swe",
+   "posted": "2026-11-04",
+   "added": "2026-11-04T00:00:38.000Z",
+   "url": "https://aplyr.ai/jobs/a343ba07d316/originations-portal-it-intern?utm_source=github&utm_medium=joblist&utm_campaign=summer-2027-internships&utm_content=apply",
+   "firstSeen": "2026-11-04"
+  },
+  "copart.com::network engineering intern": {
+   "id": "b8510a085abd",
+   "company": "Copart",
+   "companyUrl": "https://aplyr.ai/companies/copart?utm_source=github&utm_medium=joblist&utm_campaign=summer-2027-internships&utm_content=company",
+   "title": "Network Engineering Intern",
+   "locations": [
+    "US Tech Infra/Ops 729"
+   ],
+   "section": "swe",
+   "posted": "2026-11-03",
+   "added": "2026-11-03T23:10:44.000Z",
+   "url": "https://aplyr.ai/jobs/b8510a085abd/network-engineering-intern?utm_source=github&utm_medium=joblist&utm_campaign=summer-2027-internships&utm_content=apply",
+   "firstSeen": "2026-11-04"
+  },
+  "biogen.com::intern information technology": {
+   "id": "3748c0fbc311",
+   "company": "Biogen",
+   "companyUrl": "https://aplyr.ai/companies/biogen?utm_source=github&utm_medium=joblist&utm_campaign=summer-2027-internships&utm_content=company",
+   "title": "Intern, Information Technology",
+   "locations": [
+    "Cambridge, MA"
+   ],
+   "section": "swe",
+   "posted": "2026-11-03",
+   "added": "2026-11-03T20:10:43.000Z",
+   "url": "https://aplyr.ai/jobs/3748c0fbc311/intern-information-technology?utm_source=github&utm_medium=joblist&utm_campaign=summer-2027-internships&utm_content=apply",
+   "sponsorsH1B": true,
+   "firstSeen": "2026-11-04"
+  },
   "hpe.com::hardware engineering intern": {
    "id": "4e6533db4f36",
    "company": "HPE",
@@ -273,7 +358,7 @@
    "section": "hw",
    "posted": "2026-11-02",
    "added": "2026-11-03T05:03:44.000Z",
-   "pay": "$37–97/hr",
+   "pay": "$37–$97/hr",
    "url": "https://aplyr.ai/jobs/7f7453199e22/summer-2027-intern-embedded-firmware-5810?utm_source=github&utm_medium=joblist&utm_campaign=summer-2027-internships&utm_content=apply",
    "firstSeen": "2026-11-03"
   },
@@ -288,7 +373,7 @@
    "section": "data",
    "posted": "2026-11-02",
    "added": "2026-11-03T07:15:52.000Z",
-   "pay": "$28–68/hr",
+   "pay": "$28–$68/hr",
    "url": "https://aplyr.ai/jobs/3bd75d1f4f93/intern-ai-application-engineer?utm_source=github&utm_medium=joblist&utm_campaign=summer-2027-internships&utm_content=apply",
    "sponsorsH1B": true,
    "firstSeen": "2026-11-03"
@@ -319,7 +404,7 @@
    "section": "data",
    "posted": "2026-11-02",
    "added": "2026-11-03T05:46:39.000Z",
-   "pay": "$39–45/hr",
+   "pay": "$39–$45/hr",
    "url": "https://aplyr.ai/jobs/0b27ea30f903/summer-2027-production-business-intelligence-intern?utm_source=github&utm_medium=joblist&utm_campaign=summer-2027-internships&utm_content=apply",
    "firstSeen": "2026-11-03"
   },
@@ -371,7 +456,7 @@
    "section": "data",
    "posted": "2026-11-02",
    "added": "2026-11-03T06:00:31.000Z",
-   "pay": "$7,000–9,000/mo",
+   "pay": "$7,000–$9,000/mo",
    "url": "https://aplyr.ai/jobs/4ad1081e1e0a/flagship-pioneering-ml-internship?utm_source=github&utm_medium=joblist&utm_campaign=summer-2027-internships&utm_content=apply",
    "firstSeen": "2026-11-03"
   },
@@ -604,7 +689,7 @@
    "section": "data",
    "posted": "2026-11-02",
    "added": "2026-11-03T07:45:46.000Z",
-   "pay": "$18–26/hr",
+   "pay": "$18–$26/hr",
    "url": "https://aplyr.ai/jobs/2d1e1fb8b32f/workplace-ai-intern?utm_source=github&utm_medium=joblist&utm_campaign=summer-2027-internships&utm_content=apply",
    "sponsorsH1B": true,
    "firstSeen": "2026-11-03"
@@ -1043,7 +1128,7 @@
    "section": "swe",
    "posted": "2026-10-31",
    "added": "2026-10-31T00:40:35.000Z",
-   "pay": "$22–28/hr",
+   "pay": "$22–$28/hr",
    "url": "https://aplyr.ai/jobs/55fb20ecd0c0/information-technology-unified-communications-intern-the-toro-company?utm_source=github&utm_medium=joblist&utm_campaign=summer-2027-internships&utm_content=apply",
    "noSponsorship": true,
    "firstSeen": "2026-10-31"
@@ -1059,7 +1144,7 @@
    "section": "data",
    "posted": "2026-10-31",
    "added": "2026-10-31T08:46:45.000Z",
-   "pay": "$20–25/hr",
+   "pay": "$20–$25/hr",
    "url": "https://aplyr.ai/jobs/10f5138b0266/data-engineer-intern?utm_source=github&utm_medium=joblist&utm_campaign=summer-2027-internships&utm_content=apply",
    "firstSeen": "2026-10-31"
   },
@@ -1088,7 +1173,7 @@
    "section": "data",
    "posted": "2026-10-30",
    "added": "2026-10-31T05:46:45.000Z",
-   "pay": "$39–45/hr",
+   "pay": "$39–$45/hr",
    "url": "https://aplyr.ai/jobs/da1fd52248ba/summer-2027-business-intelligence-intern?utm_source=github&utm_medium=joblist&utm_campaign=summer-2027-internships&utm_content=apply",
    "noSponsorship": true,
    "firstSeen": "2026-10-31"
@@ -1230,7 +1315,7 @@
    "section": "data",
    "posted": "2026-10-30",
    "added": "2026-10-31T05:18:29.000Z",
-   "pay": "$45–65/hr",
+   "pay": "$45–$65/hr",
    "url": "https://aplyr.ai/jobs/85bd9bbf7995/accelerated-science-intern-representation-learning-for-molecules-and-materials?utm_source=github&utm_medium=joblist&utm_campaign=summer-2027-internships&utm_content=apply",
    "firstSeen": "2026-10-31"
   },
@@ -1245,7 +1330,7 @@
    "section": "hw",
    "posted": "2026-10-30",
    "added": "2026-10-31T07:16:17.000Z",
-   "pay": "$28–68/hr",
+   "pay": "$28–$68/hr",
    "url": "https://aplyr.ai/jobs/957c874de502/intern-sram-design-engineer?utm_source=github&utm_medium=joblist&utm_campaign=summer-2027-internships&utm_content=apply",
    "sponsorsH1B": true,
    "firstSeen": "2026-10-31"
@@ -1261,7 +1346,7 @@
    "section": "data",
    "posted": "2026-10-30",
    "added": "2026-10-31T05:18:29.000Z",
-   "pay": "$40–58/hr",
+   "pay": "$40–$58/hr",
    "url": "https://aplyr.ai/jobs/94dcf1cc7e2e/machine-learningagentic-ai-intern?utm_source=github&utm_medium=joblist&utm_campaign=summer-2027-internships&utm_content=apply",
    "firstSeen": "2026-10-31"
   },
@@ -1306,7 +1391,7 @@
    "section": "swe",
    "posted": "2026-10-30",
    "added": "2026-10-31T11:34:21.000Z",
-   "pay": "$22.66–31.67/hr",
+   "pay": "$22.66–$31.67/hr",
    "url": "https://aplyr.ai/jobs/e1e960f813d3/suasdrone-software-engineer-intern?utm_source=github&utm_medium=joblist&utm_campaign=summer-2027-internships&utm_content=apply",
    "sponsorsH1B": true,
    "firstSeen": "2026-10-31"
@@ -1337,7 +1422,7 @@
    "section": "swe",
    "posted": "2026-10-30",
    "added": "2026-10-31T12:32:36.000Z",
-   "pay": "$35–41/hr",
+   "pay": "$35–$41/hr",
    "url": "https://aplyr.ai/jobs/7c85d8740b5d/software-engineering-intern?utm_source=github&utm_medium=joblist&utm_campaign=summer-2027-internships&utm_content=apply",
    "sponsorsH1B": true,
    "firstSeen": "2026-10-31"
@@ -1368,7 +1453,7 @@
    "section": "data",
    "posted": "2026-10-30",
    "added": "2026-10-31T12:31:17.000Z",
-   "pay": "$21.5–48/hr",
+   "pay": "$21.50–$48/hr",
    "url": "https://aplyr.ai/jobs/80de1c2f20d8/2027-intern-product-support-data-scientist?utm_source=github&utm_medium=joblist&utm_campaign=summer-2027-internships&utm_content=apply",
    "sponsorsH1B": true,
    "firstSeen": "2026-10-31"
@@ -1385,7 +1470,7 @@
    "section": "data",
    "posted": "2026-10-30",
    "added": "2026-10-31T00:11:25.000Z",
-   "pay": "$30.5–36.5/hr",
+   "pay": "$30.50–$36.50/hr",
    "url": "https://aplyr.ai/jobs/3c284b1c8260/internship-ai-agentic-machine-learning-development?utm_source=github&utm_medium=joblist&utm_campaign=summer-2027-internships&utm_content=apply",
    "sponsorsH1B": true,
    "firstSeen": "2026-10-31"
@@ -1417,7 +1502,7 @@
    "section": "data",
    "posted": "2026-10-30",
    "added": "2026-10-30T05:47:50.000Z",
-   "pay": "$24–25/hr",
+   "pay": "$24–$25/hr",
    "url": "https://aplyr.ai/jobs/8355b729bf39/legal-operations-financial-data-ai-analytics-intern?utm_source=github&utm_medium=joblist&utm_campaign=summer-2027-internships&utm_content=apply",
    "noSponsorship": true,
    "firstSeen": "2026-10-30"
@@ -1448,7 +1533,7 @@
    "section": "data",
    "posted": "2026-10-30",
    "added": "2026-10-30T08:01:08.000Z",
-   "pay": "$70–85/hr",
+   "pay": "$70–$85/hr",
    "url": "https://aplyr.ai/jobs/5a6b0b956d20/2027-summer-intern-msphd-weather-perception?utm_source=github&utm_medium=joblist&utm_campaign=summer-2027-internships&utm_content=apply",
    "sponsorsH1B": true,
    "firstSeen": "2026-10-30"
@@ -1479,7 +1564,7 @@
    "section": "swe",
    "posted": "2026-10-29",
    "added": "2026-10-30T05:49:17.000Z",
-   "pay": "$24–27/hr",
+   "pay": "$24–$27/hr",
    "url": "https://aplyr.ai/jobs/f3dbdbcff753/it-systems-engineering-intern-19-hours-per-week?utm_source=github&utm_medium=joblist&utm_campaign=summer-2027-internships&utm_content=apply",
    "noSponsorship": true,
    "firstSeen": "2026-10-30"
@@ -1509,7 +1594,7 @@
    "section": "swe",
    "posted": "2026-10-29",
    "added": "2026-10-30T07:15:26.000Z",
-   "pay": "$28–68/hr",
+   "pay": "$28–$68/hr",
    "url": "https://aplyr.ai/jobs/c0e191a03d86/intern-systems-software-engineering?utm_source=github&utm_medium=joblist&utm_campaign=summer-2027-internships&utm_content=apply",
    "sponsorsH1B": true,
    "firstSeen": "2026-10-30"
@@ -1525,7 +1610,7 @@
    "section": "data",
    "posted": "2026-10-29",
    "added": "2026-10-30T05:18:16.000Z",
-   "pay": "$45–65/hr",
+   "pay": "$45–$65/hr",
    "url": "https://aplyr.ai/jobs/e2ef4f50de9b/human-interactive-driving-research-intern-world-models?utm_source=github&utm_medium=joblist&utm_campaign=summer-2027-internships&utm_content=apply",
    "firstSeen": "2026-10-30"
   },
@@ -1540,7 +1625,7 @@
    "section": "data",
    "posted": "2026-10-29",
    "added": "2026-10-30T05:18:16.000Z",
-   "pay": "$18–20/hr",
+   "pay": "$18–$20/hr",
    "url": "https://aplyr.ai/jobs/d902903d034d/human-interactive-driving-research-intern-perception-for-driving-at-the-limits?utm_source=github&utm_medium=joblist&utm_campaign=summer-2027-internships&utm_content=apply",
    "firstSeen": "2026-10-30"
   },
@@ -1555,7 +1640,7 @@
    "section": "data",
    "posted": "2026-10-29",
    "added": "2026-10-29T18:50:25.000Z",
-   "pay": "$49–58/hr",
+   "pay": "$49–$58/hr",
    "url": "https://aplyr.ai/jobs/2f165b8b0b34/image-processing-intern?utm_source=github&utm_medium=joblist&utm_campaign=summer-2027-internships&utm_content=apply",
    "sponsorsH1B": true,
    "firstSeen": "2026-10-30"
@@ -1617,7 +1702,7 @@
    "section": "data",
    "posted": "2026-10-29",
    "added": "2026-10-30T05:18:16.000Z",
-   "pay": "$45–65/hr",
+   "pay": "$45–$65/hr",
    "url": "https://aplyr.ai/jobs/7bad86fdfc47/human-interactive-driving-research-intern-learning-based-control-for-safe-autono?utm_source=github&utm_medium=joblist&utm_campaign=summer-2027-internships&utm_content=apply",
    "firstSeen": "2026-10-30"
   },
@@ -1632,7 +1717,7 @@
    "section": "data",
    "posted": "2026-10-29",
    "added": "2026-10-30T17:32:55.000Z",
-   "pay": "$44k–185k/yr",
+   "pay": "$44k–$185k/yr",
    "url": "https://aplyr.ai/jobs/ad8d579313a9/sustainability-analyst-i-intern-united-states-gscgsm-etr?utm_source=github&utm_medium=joblist&utm_campaign=summer-2027-internships&utm_content=apply",
    "sponsorsH1B": true,
    "firstSeen": "2026-10-31"
@@ -1663,7 +1748,7 @@
    "section": "hw",
    "posted": "2026-10-29",
    "added": "2026-10-30T10:31:54.000Z",
-   "pay": "$23–30/hr",
+   "pay": "$23–$30/hr",
    "url": "https://aplyr.ai/jobs/a65722450a26/electrical-engineering-intern?utm_source=github&utm_medium=joblist&utm_campaign=summer-2027-internships&utm_content=apply",
    "noSponsorship": true,
    "firstSeen": "2026-10-30"
@@ -1695,7 +1780,7 @@
    "section": "swe",
    "posted": "2026-10-29",
    "added": "2026-10-30T07:45:45.000Z",
-   "pay": "$25–40/hr",
+   "pay": "$25–$40/hr",
    "url": "https://aplyr.ai/jobs/603d47ba512b/systems-software-engineering-intern?utm_source=github&utm_medium=joblist&utm_campaign=summer-2027-internships&utm_content=apply",
    "noSponsorship": true,
    "firstSeen": "2026-10-30"
@@ -1711,7 +1796,7 @@
    "section": "swe",
    "posted": "2026-10-29",
    "added": "2026-10-29T19:01:29.000Z",
-   "pay": "$23–35.5/hr",
+   "pay": "$23–$35.50/hr",
    "url": "https://aplyr.ai/jobs/73d0ac0f7df9/2027-software-test-engineering-intern-roy-ut?utm_source=github&utm_medium=joblist&utm_campaign=summer-2027-internships&utm_content=apply",
    "sponsorsH1B": true,
    "firstSeen": "2026-10-30"
@@ -1741,7 +1826,7 @@
    "section": "pm",
    "posted": "2026-10-29",
    "added": "2026-10-29T06:15:38.000Z",
-   "pay": "$27–50/hr",
+   "pay": "$27–$50/hr",
    "url": "https://aplyr.ai/jobs/b674a73690a2/summer-2027-associate-technical-product-manager-internship?utm_source=github&utm_medium=joblist&utm_campaign=summer-2027-internships&utm_content=apply",
    "sponsorsH1B": true,
    "firstSeen": "2026-10-29"
@@ -1757,7 +1842,7 @@
    "section": "swe",
    "posted": "2026-10-29",
    "added": "2026-10-29T06:01:01.000Z",
-   "pay": "$40–50/hr",
+   "pay": "$40–$50/hr",
    "url": "https://aplyr.ai/jobs/52ee3940a577/software-systems-intern-hp-iq?utm_source=github&utm_medium=joblist&utm_campaign=summer-2027-internships&utm_content=apply",
    "sponsorsH1B": true,
    "firstSeen": "2026-10-29"
@@ -1773,7 +1858,7 @@
    "section": "swe",
    "posted": "2026-10-29",
    "added": "2026-10-29T06:01:01.000Z",
-   "pay": "$40–50/hr",
+   "pay": "$40–$50/hr",
    "url": "https://aplyr.ai/jobs/c70a7cbf7281/software-quality-assurance-intern?utm_source=github&utm_medium=joblist&utm_campaign=summer-2027-internships&utm_content=apply",
    "sponsorsH1B": true,
    "firstSeen": "2026-10-29"
@@ -1789,7 +1874,7 @@
    "section": "swe",
    "posted": "2026-10-29",
    "added": "2026-10-29T06:01:01.000Z",
-   "pay": "$40–50/hr",
+   "pay": "$40–$50/hr",
    "url": "https://aplyr.ai/jobs/235ae0f40dfe/software-engineering-intern-hp-iq?utm_source=github&utm_medium=joblist&utm_campaign=summer-2027-internships&utm_content=apply",
    "sponsorsH1B": true,
    "firstSeen": "2026-10-29"
@@ -1805,7 +1890,7 @@
    "section": "swe",
    "posted": "2026-10-29",
    "added": "2026-10-29T06:01:01.000Z",
-   "pay": "$40–50/hr",
+   "pay": "$40–$50/hr",
    "url": "https://aplyr.ai/jobs/4ec4b5de9d91/software-product-security-intern-hp-iq?utm_source=github&utm_medium=joblist&utm_campaign=summer-2027-internships&utm_content=apply",
    "sponsorsH1B": true,
    "firstSeen": "2026-10-29"
@@ -1821,7 +1906,7 @@
    "section": "swe",
    "posted": "2026-10-29",
    "added": "2026-10-29T06:01:01.000Z",
-   "pay": "$40–50/hr",
+   "pay": "$40–$50/hr",
    "url": "https://aplyr.ai/jobs/3e5f40999011/software-engineering-intern-connectivity-hp-iq?utm_source=github&utm_medium=joblist&utm_campaign=summer-2027-internships&utm_content=apply",
    "sponsorsH1B": true,
    "firstSeen": "2026-10-29"
@@ -1853,7 +1938,7 @@
    "section": "pm",
    "posted": "2026-10-29",
    "added": "2026-10-29T00:00:59.000Z",
-   "pay": "$26–28/hr",
+   "pay": "$26–$28/hr",
    "url": "https://aplyr.ai/jobs/2a37bb9ca010/digital-product-management-uiux-intern?utm_source=github&utm_medium=joblist&utm_campaign=summer-2027-internships&utm_content=apply",
    "firstSeen": "2026-10-29"
   },
@@ -1868,7 +1953,7 @@
    "section": "pm",
    "posted": "2026-10-29",
    "added": "2026-10-30T13:31:20.000Z",
-   "pay": "$20–24/hr",
+   "pay": "$20–$24/hr",
    "url": "https://aplyr.ai/jobs/4dbe3b53d72e/commercial-banking-intern-digital-product?utm_source=github&utm_medium=joblist&utm_campaign=summer-2027-internships&utm_content=apply",
    "firstSeen": "2026-10-30"
   },
@@ -1883,7 +1968,7 @@
    "section": "data",
    "posted": "2026-10-29",
    "added": "2026-10-30T09:00:28.000Z",
-   "pay": "$9,600–11,800/mo",
+   "pay": "$9,600–$11,800/mo",
    "url": "https://aplyr.ai/jobs/909b9d7a3bb9/2027-summer-intern-aiml-engineer-autonomous-vehicles?utm_source=github&utm_medium=joblist&utm_campaign=summer-2027-internships&utm_content=apply",
    "sponsorsH1B": true,
    "firstSeen": "2026-10-30"
@@ -1899,7 +1984,7 @@
    "section": "pm",
    "posted": "2026-10-29",
    "added": "2026-10-30T06:16:24.000Z",
-   "pay": "$27–50/hr",
+   "pay": "$27–$50/hr",
    "url": "https://aplyr.ai/jobs/87bd27591586/summer-2027-assoc-product-manager-internship?utm_source=github&utm_medium=joblist&utm_campaign=summer-2027-internships&utm_content=apply",
    "noSponsorship": true,
    "firstSeen": "2026-10-30"
@@ -1915,7 +2000,7 @@
    "section": "data",
    "posted": "2026-10-29",
    "added": "2026-10-30T06:16:24.000Z",
-   "pay": "$27–50/hr",
+   "pay": "$27–$50/hr",
    "url": "https://aplyr.ai/jobs/99794629bc9e/summer-2027-assoc-ai-engineer-internship?utm_source=github&utm_medium=joblist&utm_campaign=summer-2027-internships&utm_content=apply",
    "sponsorsH1B": true,
    "firstSeen": "2026-10-30"
@@ -1931,7 +2016,7 @@
    "section": "swe",
    "posted": "2026-10-29",
    "added": "2026-10-30T05:17:27.000Z",
-   "pay": "$20–71/hr",
+   "pay": "$20–$71/hr",
    "url": "https://aplyr.ai/jobs/090b2d1dd4e0/compiler-software-engineering-intern-summer-2027?utm_source=github&utm_medium=joblist&utm_campaign=summer-2027-internships&utm_content=apply",
    "sponsorsH1B": true,
    "firstSeen": "2026-10-30"
@@ -1947,7 +2032,7 @@
    "section": "hw",
    "posted": "2026-10-29",
    "added": "2026-10-30T05:17:27.000Z",
-   "pay": "$20–71/hr",
+   "pay": "$20–$71/hr",
    "url": "https://aplyr.ai/jobs/596950f259b7/vlsi-cad-timing-intern-applied-ai-summer-2027?utm_source=github&utm_medium=joblist&utm_campaign=summer-2027-internships&utm_content=apply",
    "sponsorsH1B": true,
    "firstSeen": "2026-10-30"
@@ -1964,7 +2049,7 @@
    "section": "swe",
    "posted": "2026-10-29",
    "added": "2026-10-30T00:11:07.000Z",
-   "pay": "$26.5–32.5/hr",
+   "pay": "$26.50–$32.50/hr",
    "url": "https://aplyr.ai/jobs/2415d02dd395/internship-software-engineer?utm_source=github&utm_medium=joblist&utm_campaign=summer-2027-internships&utm_content=apply",
    "sponsorsH1B": true,
    "firstSeen": "2026-10-29"
@@ -1980,7 +2065,7 @@
    "section": "data",
    "posted": "2026-10-29",
    "added": "2026-10-30T00:00:39.000Z",
-   "pay": "$26–28/hr",
+   "pay": "$26–$28/hr",
    "url": "https://aplyr.ai/jobs/59a8f1331033/data-analytics-intern?utm_source=github&utm_medium=joblist&utm_campaign=summer-2027-internships&utm_content=apply",
    "firstSeen": "2026-10-30"
   },
@@ -2010,7 +2095,7 @@
    "section": "hw",
    "posted": "2026-10-29",
    "added": "2026-10-29T23:20:44.000Z",
-   "pay": "$24.25–33/hr",
+   "pay": "$24.25–$33/hr",
    "url": "https://aplyr.ai/jobs/243391ef3704/electrical-engineering-intern?utm_source=github&utm_medium=joblist&utm_campaign=summer-2027-internships&utm_content=apply",
    "sponsorsH1B": true,
    "firstSeen": "2026-11-01"
@@ -2084,7 +2169,7 @@
    "section": "hw",
    "posted": "2026-10-29",
    "added": "2026-10-29T20:00:59.000Z",
-   "pay": "$35–41/hr",
+   "pay": "$35–$41/hr",
    "url": "https://aplyr.ai/jobs/6d455e7c2ddf/asic-verification-engineering-intern?utm_source=github&utm_medium=joblist&utm_campaign=summer-2027-internships&utm_content=apply",
    "sponsorsH1B": true,
    "firstSeen": "2026-10-17"
@@ -2101,7 +2186,7 @@
    "section": "swe",
    "posted": "2026-10-29",
    "added": "2026-10-29T19:01:29.000Z",
-   "pay": "$42k–88k/yr",
+   "pay": "$42k–$88k/yr",
    "url": "https://aplyr.ai/jobs/1dd5f05339ec/software-engineering-intern-summer-2027?utm_source=github&utm_medium=joblist&utm_campaign=summer-2027-internships&utm_content=apply",
    "noSponsorship": true,
    "firstSeen": "2026-10-18"
@@ -2203,7 +2288,7 @@
    "section": "data",
    "posted": "2026-10-28",
    "added": "2026-10-28T22:51:19.000Z",
-   "pay": "$38k–57k/yr",
+   "pay": "$37,752–$56,650/yr",
    "url": "https://aplyr.ai/jobs/75355a0fd680/data-analytics-intern?utm_source=github&utm_medium=joblist&utm_campaign=summer-2027-internships&utm_content=apply",
    "firstSeen": "2026-10-29"
   },
@@ -2266,7 +2351,7 @@
    "section": "swe",
    "posted": "2026-10-28",
    "added": "2026-10-29T05:03:14.000Z",
-   "pay": "$37–97/hr",
+   "pay": "$37–$97/hr",
    "url": "https://aplyr.ai/jobs/6fcfae9e9592/summer-2027-product-support-engineering-intern-6470-6442?utm_source=github&utm_medium=joblist&utm_campaign=summer-2027-internships&utm_content=apply",
    "firstSeen": "2026-10-31"
   },
@@ -2328,7 +2413,7 @@
    "section": "data",
    "posted": "2026-10-28",
    "added": "2026-10-29T07:15:35.000Z",
-   "pay": "$100k–110k/yr",
+   "pay": "$100k–$110k/yr",
    "url": "https://aplyr.ai/jobs/92b544f97398/2027-enterprise-ai-intern?utm_source=github&utm_medium=joblist&utm_campaign=summer-2027-internships&utm_content=apply",
    "sponsorsH1B": true,
    "firstSeen": "2026-10-29"
@@ -2405,7 +2490,7 @@
    "section": "data",
    "posted": "2026-10-28",
    "added": "2026-10-28T22:40:50.000Z",
-   "pay": "$20–27/hr",
+   "pay": "$20–$27/hr",
    "url": "https://aplyr.ai/jobs/6cad44ecac06/business-analyst-intern?utm_source=github&utm_medium=joblist&utm_campaign=summer-2027-internships&utm_content=apply",
    "firstSeen": "2026-10-29"
   },
@@ -2420,7 +2505,7 @@
    "section": "hw",
    "posted": "2026-10-28",
    "added": "2026-10-29T13:31:09.000Z",
-   "pay": "$25–30/hr",
+   "pay": "$25–$30/hr",
    "url": "https://aplyr.ai/jobs/05a09d7e3743/2027-radio-frequency-rf-spectrum-engineering-undergrad-intern?utm_source=github&utm_medium=joblist&utm_campaign=summer-2027-internships&utm_content=apply",
    "firstSeen": "2026-11-01"
   },
@@ -2510,7 +2595,7 @@
    "section": "hw",
    "posted": "2026-10-28",
    "added": "2026-10-28T19:01:05.000Z",
-   "pay": "$42k–88k/yr",
+   "pay": "$42k–$88k/yr",
    "url": "https://aplyr.ai/jobs/6c3c29a89681/hardware-electrical-engineering-intern-summer-2027?utm_source=github&utm_medium=joblist&utm_campaign=summer-2027-internships&utm_content=apply",
    "noSponsorship": true,
    "firstSeen": "2026-10-29"
@@ -2572,7 +2657,7 @@
    "section": "data",
    "posted": "2026-10-28",
    "added": "2026-10-28T07:15:35.000Z",
-   "pay": "$28–68/hr",
+   "pay": "$28–$68/hr",
    "url": "https://aplyr.ai/jobs/2067b42f273d/intern-thermal-modeling-simulation-engineer-ai-memory-hbm?utm_source=github&utm_medium=joblist&utm_campaign=summer-2027-internships&utm_content=apply",
    "sponsorsH1B": true,
    "firstSeen": "2026-10-28"
@@ -2588,7 +2673,7 @@
    "section": "hw",
    "posted": "2026-10-28",
    "added": "2026-10-28T07:15:35.000Z",
-   "pay": "$28–68/hr",
+   "pay": "$28–$68/hr",
    "url": "https://aplyr.ai/jobs/cb878b86e70b/intern-rtl-power-macromodeling-engineer?utm_source=github&utm_medium=joblist&utm_campaign=summer-2027-internships&utm_content=apply",
    "sponsorsH1B": true,
    "firstSeen": "2026-10-28"
@@ -2604,7 +2689,7 @@
    "section": "swe",
    "posted": "2026-10-28",
    "added": "2026-10-28T07:15:35.000Z",
-   "pay": "$28–68/hr",
+   "pay": "$28–$68/hr",
    "url": "https://aplyr.ai/jobs/210dd83d164b/intern-power-thermal-simulation-software-engineer?utm_source=github&utm_medium=joblist&utm_campaign=summer-2027-internships&utm_content=apply",
    "sponsorsH1B": true,
    "firstSeen": "2026-10-28"
@@ -2883,7 +2968,7 @@
    "section": "swe",
    "posted": "2026-10-27",
    "added": "2026-10-28T07:45:19.000Z",
-   "pay": "$18–25/hr",
+   "pay": "$18–$25/hr",
    "url": "https://aplyr.ai/jobs/56e85f05a76d/solutions-architect-intern?utm_source=github&utm_medium=joblist&utm_campaign=summer-2027-internships&utm_content=apply",
    "sponsorsH1B": true,
    "firstSeen": "2026-10-28"
@@ -2990,7 +3075,7 @@
    "section": "data",
    "posted": "2026-10-27",
    "added": "2026-10-28T08:01:28.000Z",
-   "pay": "$25.5–38/hr",
+   "pay": "$25.50–$38/hr",
    "url": "https://aplyr.ai/jobs/6644ece4931f/2027-aerospace-engineering-internship-linthicum-md?utm_source=github&utm_medium=joblist&utm_campaign=summer-2027-internships&utm_content=apply",
    "noSponsorship": true,
    "firstSeen": "2026-10-28"
@@ -3006,7 +3091,7 @@
    "section": "hw",
    "posted": "2026-10-27",
    "added": "2026-10-28T08:01:28.000Z",
-   "pay": "$37k–82k/yr",
+   "pay": "$37k–$82k/yr",
    "url": "https://aplyr.ai/jobs/66436fa7c86c/antenna-and-microwave-intern-summer-2027?utm_source=github&utm_medium=joblist&utm_campaign=summer-2027-internships&utm_content=apply",
    "noSponsorship": true,
    "firstSeen": "2026-10-23"
@@ -3174,7 +3259,7 @@
    "section": "hw",
    "posted": "2026-10-27",
    "added": "2026-10-27T06:15:27.000Z",
-   "pay": "$40–50/hr",
+   "pay": "$40–$50/hr",
    "url": "https://aplyr.ai/jobs/4bd99de5e140/electrical-engineering-intern-hardware-summer-2027?utm_source=github&utm_medium=joblist&utm_campaign=summer-2027-internships&utm_content=apply",
    "sponsorsH1B": true,
    "firstSeen": "2026-10-27"
@@ -3219,7 +3304,7 @@
    "section": "data",
    "posted": "2026-10-26",
    "added": "2026-10-27T05:17:21.000Z",
-   "pay": "$45–65/hr",
+   "pay": "$45–$65/hr",
    "url": "https://aplyr.ai/jobs/a76f404d0f1c/robotics-intern-trustworthy-learning-under-uncertainty?utm_source=github&utm_medium=joblist&utm_campaign=summer-2027-internships&utm_content=apply",
    "firstSeen": "2026-10-27"
   },
@@ -3234,7 +3319,7 @@
    "section": "data",
    "posted": "2026-10-26",
    "added": "2026-10-27T05:17:21.000Z",
-   "pay": "$45–65/hr",
+   "pay": "$45–$65/hr",
    "url": "https://aplyr.ai/jobs/8393d2ba483c/robotics-intern-world-foundation-models?utm_source=github&utm_medium=joblist&utm_campaign=summer-2027-internships&utm_content=apply",
    "firstSeen": "2026-10-27"
   },
@@ -3294,7 +3379,7 @@
    "section": "data",
    "posted": "2026-10-26",
    "added": "2026-10-27T05:17:21.000Z",
-   "pay": "$45–65/hr",
+   "pay": "$45–$65/hr",
    "url": "https://aplyr.ai/jobs/62a8aae5b2c3/robotics-intern-post-training-and-continual-learning?utm_source=github&utm_medium=joblist&utm_campaign=summer-2027-internships&utm_content=apply",
    "firstSeen": "2026-10-27"
   },
@@ -3309,7 +3394,7 @@
    "section": "swe",
    "posted": "2026-10-26",
    "added": "2026-10-29T10:48:56.000Z",
-   "pay": "$20–25/hr",
+   "pay": "$20–$25/hr",
    "url": "https://aplyr.ai/jobs/e9754f4d5a82/intern-quality-engineering?utm_source=github&utm_medium=joblist&utm_campaign=summer-2027-internships&utm_content=apply",
    "noSponsorship": true,
    "firstSeen": "2026-11-02"
@@ -3325,7 +3410,7 @@
    "section": "swe",
    "posted": "2026-10-26",
    "added": "2026-10-27T05:48:45.000Z",
-   "pay": "$21–37.8/hr",
+   "pay": "$21–$37.80/hr",
    "url": "https://aplyr.ai/jobs/651c3ef812d2/2027-business-technology-solutions-intern-cybersecurity-undergraduate?utm_source=github&utm_medium=joblist&utm_campaign=summer-2027-internships&utm_content=apply",
    "sponsorsH1B": true,
    "firstSeen": "2026-10-18"
@@ -3341,7 +3426,7 @@
    "section": "hw",
    "posted": "2026-10-26",
    "added": "2026-10-26T18:11:40.000Z",
-   "pay": "$37–73/hr",
+   "pay": "$37–$73/hr",
    "url": "https://aplyr.ai/jobs/cec501f6a629/signal-and-power-integrity-intern-ms-summer-2027?utm_source=github&utm_medium=joblist&utm_campaign=summer-2027-internships&utm_content=apply",
    "sponsorsH1B": true,
    "firstSeen": "2026-10-26"
@@ -3357,7 +3442,7 @@
    "section": "data",
    "posted": "2026-10-26",
    "added": "2026-10-26T17:40:50.000Z",
-   "pay": "$25–40/hr",
+   "pay": "$25–$40/hr",
    "url": "https://aplyr.ai/jobs/c1e515331355/ai-and-automation-it-intern?utm_source=github&utm_medium=joblist&utm_campaign=summer-2027-internships&utm_content=apply",
    "sponsorsH1B": true,
    "firstSeen": "2026-10-26"
@@ -3373,7 +3458,7 @@
    "section": "swe",
    "posted": "2026-10-26",
    "added": "2026-10-26T17:40:50.000Z",
-   "pay": "$32–36/hr",
+   "pay": "$32–$36/hr",
    "url": "https://aplyr.ai/jobs/73b5abf878bb/onshape-software-engineer-intern-summer-2027?utm_source=github&utm_medium=joblist&utm_campaign=summer-2027-internships&utm_content=apply",
    "noSponsorship": true,
    "firstSeen": "2026-10-28"
@@ -3389,7 +3474,7 @@
    "section": "swe",
    "posted": "2026-10-26",
    "added": "2026-10-26T17:33:11.000Z",
-   "pay": "$24.23–36.35/hr",
+   "pay": "$24.23–$36.35/hr",
    "url": "https://aplyr.ai/jobs/436ed85c74c9/cybersecurity-intern-summer-2027?utm_source=github&utm_medium=joblist&utm_campaign=summer-2027-internships&utm_content=apply",
    "noSponsorship": true,
    "firstSeen": "2026-10-26"
@@ -3405,7 +3490,7 @@
    "section": "swe",
    "posted": "2026-10-26",
    "added": "2026-10-26T17:33:11.000Z",
-   "pay": "$24.23–36.35/hr",
+   "pay": "$24.23–$36.35/hr",
    "url": "https://aplyr.ai/jobs/e7146b0e10d4/software-engineering-intern-summer-2027-atlanta-ga?utm_source=github&utm_medium=joblist&utm_campaign=summer-2027-internships&utm_content=apply",
    "noSponsorship": true,
    "firstSeen": "2026-10-26"
@@ -3421,7 +3506,7 @@
    "section": "swe",
    "posted": "2026-10-26",
    "added": "2026-10-27T11:33:48.000Z",
-   "pay": "$20.14–28.15/hr",
+   "pay": "$20.14–$28.15/hr",
    "url": "https://aplyr.ai/jobs/703e072d180a/test-intern?utm_source=github&utm_medium=joblist&utm_campaign=summer-2027-internships&utm_content=apply",
    "sponsorsH1B": true,
    "firstSeen": "2026-10-27"
@@ -3437,7 +3522,7 @@
    "section": "swe",
    "posted": "2026-10-26",
    "added": "2026-10-27T11:33:48.000Z",
-   "pay": "$20.14–28.15/hr",
+   "pay": "$20.14–$28.15/hr",
    "url": "https://aplyr.ai/jobs/6d459660ee02/systems-engineeringit-intern?utm_source=github&utm_medium=joblist&utm_campaign=summer-2027-internships&utm_content=apply",
    "sponsorsH1B": true,
    "firstSeen": "2026-10-27"
@@ -3468,7 +3553,7 @@
    "section": "swe",
    "posted": "2026-10-26",
    "added": "2026-10-27T11:33:48.000Z",
-   "pay": "$20.14–28.15/hr",
+   "pay": "$20.14–$28.15/hr",
    "url": "https://aplyr.ai/jobs/8d553e386089/quality-engineer-intern-college-student-technical?utm_source=github&utm_medium=joblist&utm_campaign=summer-2027-internships&utm_content=apply",
    "sponsorsH1B": true,
    "firstSeen": "2026-10-27"
@@ -3484,7 +3569,7 @@
    "section": "data",
    "posted": "2026-10-26",
    "added": "2026-10-27T09:45:50.000Z",
-   "pay": "$47–70/hr",
+   "pay": "$47–$70/hr",
    "url": "https://aplyr.ai/jobs/48b40b3d950a/autonomy-engineer-intern-reinforcement-learning-2027-hq?utm_source=github&utm_medium=joblist&utm_campaign=summer-2027-internships&utm_content=apply",
    "firstSeen": "2026-10-27"
   },
@@ -3544,7 +3629,7 @@
    "section": "pm",
    "posted": "2026-10-26",
    "added": "2026-10-26T20:30:34.000Z",
-   "pay": "$18.2–19.5/hr",
+   "pay": "$18.20–$19.50/hr",
    "url": "https://aplyr.ai/jobs/a7063549049d/residential-energy-product-strategy-intern-mn?utm_source=github&utm_medium=joblist&utm_campaign=summer-2027-internships&utm_content=apply",
    "sponsorsH1B": true,
    "firstSeen": "2026-10-27"
@@ -3560,7 +3645,7 @@
    "section": "swe",
    "posted": "2026-10-26",
    "added": "2026-10-26T19:30:58.000Z",
-   "pay": "$53k–108k/yr",
+   "pay": "$52.9k–$108k/yr",
    "url": "https://aplyr.ai/jobs/191148bea975/university-2027-summer-games-cyber-security-intern-lexington-ma?utm_source=github&utm_medium=joblist&utm_campaign=summer-2027-internships&utm_content=apply",
    "sponsorsH1B": true,
    "firstSeen": "2026-10-27"
@@ -3849,7 +3934,7 @@
    "section": "data",
    "posted": "2026-10-25",
    "added": "2026-10-26T09:30:23.000Z",
-   "pay": "$35–41/hr",
+   "pay": "$35–$41/hr",
    "url": "https://aplyr.ai/jobs/0e7d9cd7f4fb/aiml-developer-intern?utm_source=github&utm_medium=joblist&utm_campaign=summer-2027-internships&utm_content=apply",
    "sponsorsH1B": true,
    "firstSeen": "2026-10-26"
@@ -3895,7 +3980,7 @@
    "section": "swe",
    "posted": "2026-10-23",
    "added": "2026-10-23T23:30:48.000Z",
-   "pay": "$22–42/hr",
+   "pay": "$22–$42/hr",
    "url": "https://aplyr.ai/jobs/4b5276f5801c/operational-resilience-technical-content-intern?utm_source=github&utm_medium=joblist&utm_campaign=summer-2027-internships&utm_content=apply",
    "noSponsorship": true,
    "firstSeen": "2026-10-24"
@@ -3911,7 +3996,7 @@
    "section": "pm",
    "posted": "2026-10-23",
    "added": "2026-10-24T06:15:12.000Z",
-   "pay": "$17–25/hr",
+   "pay": "$17–$25/hr",
    "url": "https://aplyr.ai/jobs/88220101a4f4/product-enablement-intern?utm_source=github&utm_medium=joblist&utm_campaign=summer-2027-internships&utm_content=apply",
    "noSponsorship": true,
    "firstSeen": "2026-10-24"
@@ -3927,7 +4012,7 @@
    "section": "data",
    "posted": "2026-10-23",
    "added": "2026-10-24T05:16:48.000Z",
-   "pay": "$44.88–69/hr",
+   "pay": "$44.88–$69/hr",
    "url": "https://aplyr.ai/jobs/471ce1d3b1a2/engineer-i-vla-model-development-intern?utm_source=github&utm_medium=joblist&utm_campaign=summer-2027-internships&utm_content=apply",
    "firstSeen": "2026-10-24"
   },
@@ -3942,7 +4027,7 @@
    "section": "swe",
    "posted": "2026-10-23",
    "added": "2026-10-24T08:00:28.000Z",
-   "pay": "$70–85/hr",
+   "pay": "$70–$85/hr",
    "url": "https://aplyr.ai/jobs/71656bb564b5/2027-summer-intern-msphd-software-engineer-ml-frameworks-and-efficiency?utm_source=github&utm_medium=joblist&utm_campaign=summer-2027-internships&utm_content=apply",
    "sponsorsH1B": true,
    "firstSeen": "2026-10-24"
@@ -3958,7 +4043,7 @@
    "section": "swe",
    "posted": "2026-10-23",
    "added": "2026-10-23T18:50:30.000Z",
-   "pay": "$37–58/hr",
+   "pay": "$37–$58/hr",
    "url": "https://aplyr.ai/jobs/07305f4f2850/software-engineering-intern-aiml-for-diagnostics-calibration?utm_source=github&utm_medium=joblist&utm_campaign=summer-2027-internships&utm_content=apply",
    "sponsorsH1B": true,
    "firstSeen": "2026-10-24"
@@ -4004,7 +4089,7 @@
    "section": "data",
    "posted": "2026-10-23",
    "added": "2026-10-24T05:51:02.000Z",
-   "pay": "$53–70/hr",
+   "pay": "$53–$70/hr",
    "url": "https://aplyr.ai/jobs/b21934d53777/agentic-ai-rd-intern?utm_source=github&utm_medium=joblist&utm_campaign=summer-2027-internships&utm_content=apply",
    "sponsorsH1B": true,
    "firstSeen": "2026-10-24"
@@ -4020,7 +4105,7 @@
    "section": "swe",
    "posted": "2026-10-23",
    "added": "2026-10-23T22:40:34.000Z",
-   "pay": "$25–30/hr",
+   "pay": "$25–$30/hr",
    "url": "https://aplyr.ai/jobs/586443a2b342/2027-defensive-cyber-operations-undergrad-intern?utm_source=github&utm_medium=joblist&utm_campaign=summer-2027-internships&utm_content=apply",
    "firstSeen": "2026-10-24"
   },
@@ -4049,7 +4134,7 @@
    "section": "swe",
    "posted": "2026-10-23",
    "added": "2026-10-23T20:40:36.000Z",
-   "pay": "$20–40/hr",
+   "pay": "$20–$40/hr",
    "url": "https://aplyr.ai/jobs/983852dd1ce1/new-product-development-test-engineer-intern-summer-2027?utm_source=github&utm_medium=joblist&utm_campaign=summer-2027-internships&utm_content=apply",
    "sponsorsH1B": true,
    "firstSeen": "2026-10-24"
@@ -4093,7 +4178,7 @@
    "section": "data",
    "posted": "2026-10-23",
    "added": "2026-10-23T18:50:30.000Z",
-   "pay": "$64k–126k/yr",
+   "pay": "$63.5k–$125.6k/yr",
    "url": "https://aplyr.ai/jobs/2023b875c01a/converse-ai-enablement-graduate-internship?utm_source=github&utm_medium=joblist&utm_campaign=summer-2027-internships&utm_content=apply",
    "sponsorsH1B": true,
    "firstSeen": "2026-10-24"
@@ -4154,7 +4239,7 @@
    "section": "swe",
    "posted": "2026-10-23",
    "added": "2026-10-23T05:02:49.000Z",
-   "pay": "$51.6/hr",
+   "pay": "$51.60/hr",
    "url": "https://aplyr.ai/jobs/1bfdd03dbca2/innovation-technology-internship-software-engineering-data-intelligence-summer-2?utm_source=github&utm_medium=joblist&utm_campaign=summer-2027-internships&utm_content=apply",
    "noSponsorship": true,
    "firstSeen": "2026-10-23"
@@ -4170,7 +4255,7 @@
    "section": "data",
    "posted": "2026-10-23",
    "added": "2026-10-23T05:02:49.000Z",
-   "pay": "$51.6/hr",
+   "pay": "$51.60/hr",
    "url": "https://aplyr.ai/jobs/3365af9e17c3/innovation-technology-internship-data-science-summer-2027-graduate?utm_source=github&utm_medium=joblist&utm_campaign=summer-2027-internships&utm_content=apply",
    "sponsorsH1B": true,
    "firstSeen": "2026-10-23"
@@ -4273,7 +4358,7 @@
    "section": "swe",
    "posted": "2026-10-22",
    "added": "2026-10-22T23:01:21.000Z",
-   "pay": "$18–37/hr",
+   "pay": "$18–$37/hr",
    "url": "https://aplyr.ai/jobs/c0b57f4e2b62/quality-intern?utm_source=github&utm_medium=joblist&utm_campaign=summer-2027-internships&utm_content=apply",
    "sponsorsH1B": true,
    "firstSeen": "2026-10-23"
@@ -4289,7 +4374,7 @@
    "section": "swe",
    "posted": "2026-10-22",
    "added": "2026-10-22T23:01:21.000Z",
-   "pay": "$18–37/hr",
+   "pay": "$18–$37/hr",
    "url": "https://aplyr.ai/jobs/d1659293ee88/digital-technology-intern?utm_source=github&utm_medium=joblist&utm_campaign=summer-2027-internships&utm_content=apply",
    "sponsorsH1B": true,
    "firstSeen": "2026-10-23"
@@ -4321,7 +4406,7 @@
    "section": "swe",
    "posted": "2026-10-22",
    "added": "2026-10-25T05:15:46.000Z",
-   "pay": "$10,000/mo",
+   "pay": "$10k/mo",
    "url": "https://aplyr.ai/jobs/49fe3371bbf9/forward-deployed-software-engineer-internship-warp-speed?utm_source=github&utm_medium=joblist&utm_campaign=summer-2027-internships&utm_content=apply",
    "sponsorsH1B": true,
    "firstSeen": "2026-10-25"
@@ -4385,7 +4470,7 @@
    "section": "swe",
    "posted": "2026-10-22",
    "added": "2026-10-23T09:46:15.000Z",
-   "pay": "$47–70/hr",
+   "pay": "$47–$70/hr",
    "url": "https://aplyr.ai/jobs/dc6dd5f4bc89/frontend-software-engineer-intern-summer-2027?utm_source=github&utm_medium=joblist&utm_campaign=summer-2027-internships&utm_content=apply",
    "firstSeen": "2026-10-23"
   },
@@ -4445,7 +4530,7 @@
    "section": "hw",
    "posted": "2026-10-22",
    "added": "2026-10-22T20:00:59.000Z",
-   "pay": "$40–46/hr",
+   "pay": "$40–$46/hr",
    "url": "https://aplyr.ai/jobs/4bd9253a2a7d/asic-engineering-intern?utm_source=github&utm_medium=joblist&utm_campaign=summer-2027-internships&utm_content=apply",
    "sponsorsH1B": true,
    "firstSeen": "2026-10-17"
@@ -4506,7 +4591,7 @@
    "section": "hw",
    "posted": "2026-10-22",
    "added": "2026-10-22T19:01:16.000Z",
-   "pay": "$37k–82k/yr",
+   "pay": "$37k–$82k/yr",
    "url": "https://aplyr.ai/jobs/d620b47dbfe3/analog-and-power-design-electrical-engineering-intern-summer-2027?utm_source=github&utm_medium=joblist&utm_campaign=summer-2027-internships&utm_content=apply",
    "noSponsorship": true,
    "firstSeen": "2026-10-23"
@@ -4522,7 +4607,7 @@
    "section": "data",
    "posted": "2026-10-22",
    "added": "2026-10-23T07:45:57.000Z",
-   "pay": "$15.87–44.23/hr",
+   "pay": "$15.87–$44.23/hr",
    "url": "https://aplyr.ai/jobs/6136c70a93f9/intern-data-engineering?utm_source=github&utm_medium=joblist&utm_campaign=summer-2027-internships&utm_content=apply",
    "sponsorsH1B": true,
    "firstSeen": "2026-10-29"
@@ -4553,7 +4638,7 @@
    "section": "data",
    "posted": "2026-10-22",
    "added": "2026-10-23T00:20:38.000Z",
-   "pay": "$20–34/hr",
+   "pay": "$20–$34/hr",
    "url": "https://aplyr.ai/jobs/67bcca164f94/sales-excellence-data-analytics-intern-summer-2027?utm_source=github&utm_medium=joblist&utm_campaign=summer-2027-internships&utm_content=apply",
    "sponsorsH1B": true,
    "firstSeen": "2026-10-23"
@@ -4748,7 +4833,7 @@
    "section": "swe",
    "posted": "2026-10-21",
    "added": "2026-10-22T10:01:16.000Z",
-   "pay": "$75k–110k/yr",
+   "pay": "$75k–$110k/yr",
    "url": "https://aplyr.ai/jobs/5ea42ecc26f0/full-stack-developer-intern?utm_source=github&utm_medium=joblist&utm_campaign=summer-2027-internships&utm_content=apply",
    "noSponsorship": true,
    "firstSeen": "2026-10-22"
@@ -4764,7 +4849,7 @@
    "section": "data",
    "posted": "2026-10-21",
    "added": "2026-10-22T07:45:25.000Z",
-   "pay": "$18–27/hr",
+   "pay": "$18–$27/hr",
    "url": "https://aplyr.ai/jobs/902fa99736dc/data-analytics-intern?utm_source=github&utm_medium=joblist&utm_campaign=summer-2027-internships&utm_content=apply",
    "sponsorsH1B": true,
    "firstSeen": "2026-10-22"
@@ -4780,7 +4865,7 @@
    "section": "swe",
    "posted": "2026-10-21",
    "added": "2026-10-22T10:01:16.000Z",
-   "pay": "$5,500–8,500/mo",
+   "pay": "$5,500–$8,500/mo",
    "url": "https://aplyr.ai/jobs/35c24e1da2e1/camera-software-intern?utm_source=github&utm_medium=joblist&utm_campaign=summer-2027-internships&utm_content=apply",
    "firstSeen": "2026-10-22"
   },
@@ -4986,21 +5071,6 @@
    "sponsorsH1B": true,
    "firstSeen": "2026-10-22"
   },
-  "moog.com::intern quality engineering": {
-   "id": "586c6d1d9f52",
-   "company": "Moog",
-   "companyUrl": "https://aplyr.ai/companies/moog?utm_source=github&utm_medium=joblist&utm_campaign=summer-2027-internships&utm_content=company",
-   "title": "Intern, Quality Engineering",
-   "locations": [
-    "Torrance, CA"
-   ],
-   "section": "swe",
-   "posted": "2026-10-21",
-   "added": "2026-10-21T20:20:42.000Z",
-   "url": "https://aplyr.ai/jobs/586c6d1d9f52/intern-quality-engineering?utm_source=github&utm_medium=joblist&utm_campaign=summer-2027-internships&utm_content=apply",
-   "sponsorsH1B": true,
-   "firstSeen": "2026-10-22"
-  },
   "global.abb::power bi intern summer 2027": {
    "id": "a225594c644a",
    "company": "ABB",
@@ -5190,7 +5260,7 @@
    "section": "hw",
    "posted": "2026-10-20",
    "added": "2026-10-23T09:46:15.000Z",
-   "pay": "$47–58/hr",
+   "pay": "$47–$58/hr",
    "url": "https://aplyr.ai/jobs/f965efbc4ad7/hardware-test-and-reliability-intern-summer-2027?utm_source=github&utm_medium=joblist&utm_campaign=summer-2027-internships&utm_content=apply",
    "firstSeen": "2026-10-23"
   },
@@ -5220,7 +5290,7 @@
    "section": "hw",
    "posted": "2026-10-20",
    "added": "2026-10-21T09:45:49.000Z",
-   "pay": "$47–70/hr",
+   "pay": "$47–$70/hr",
    "url": "https://aplyr.ai/jobs/33e79303521e/wireless-hardware-engineer-intern-summer-2027?utm_source=github&utm_medium=joblist&utm_campaign=summer-2027-internships&utm_content=apply",
    "firstSeen": "2026-10-21"
   },
@@ -5236,7 +5306,7 @@
    "section": "hw",
    "posted": "2026-10-20",
    "added": "2026-10-21T08:46:28.000Z",
-   "pay": "$21–24/hr",
+   "pay": "$21–$24/hr",
    "url": "https://aplyr.ai/jobs/fe03b6b098ae/2027-summer-internship-electrical-engineering-bangorportland-me?utm_source=github&utm_medium=joblist&utm_campaign=summer-2027-internships&utm_content=apply",
    "noSponsorship": true,
    "firstSeen": "2026-10-21"
@@ -5268,7 +5338,7 @@
    "section": "swe",
    "posted": "2026-10-20",
    "added": "2026-10-21T09:45:49.000Z",
-   "pay": "$47–58/hr",
+   "pay": "$47–$58/hr",
    "url": "https://aplyr.ai/jobs/6e6ead74815f/mobile-software-engineer-intern-summer-2027?utm_source=github&utm_medium=joblist&utm_campaign=summer-2027-internships&utm_content=apply",
    "firstSeen": "2026-10-21"
   },
@@ -5284,7 +5354,7 @@
    "section": "pm",
    "posted": "2026-10-20",
    "added": "2026-10-21T05:46:38.000Z",
-   "pay": "$35–40/hr",
+   "pay": "$35–$40/hr",
    "url": "https://aplyr.ai/jobs/2077ebf0449a/ai-consulting-associate-program-ai-cap-product-manager-intern-summer-2027?utm_source=github&utm_medium=joblist&utm_campaign=summer-2027-internships&utm_content=apply",
    "noSponsorship": true,
    "firstSeen": "2026-11-03"
@@ -5301,7 +5371,7 @@
    "section": "swe",
    "posted": "2026-10-20",
    "added": "2026-10-21T05:46:38.000Z",
-   "pay": "$35–40/hr",
+   "pay": "$35–$40/hr",
    "url": "https://aplyr.ai/jobs/b1035a70501e/ai-consulting-associate-program-ai-cap-engineering-intern-summer-2027?utm_source=github&utm_medium=joblist&utm_campaign=summer-2027-internships&utm_content=apply",
    "noSponsorship": true,
    "firstSeen": "2026-10-21"
@@ -5482,7 +5552,7 @@
    "section": "data",
    "posted": "2026-10-20",
    "added": "2026-10-20T06:46:19.000Z",
-   "pay": "$44k–88k/yr",
+   "pay": "$43.5k–$87.5k/yr",
    "url": "https://aplyr.ai/jobs/97cd25785a76/data-analytics-intern-summer?utm_source=github&utm_medium=joblist&utm_campaign=summer-2027-internships&utm_content=apply",
    "sponsorsH1B": true,
    "firstSeen": "2026-10-20"
@@ -5498,7 +5568,7 @@
    "section": "swe",
    "posted": "2026-10-20",
    "added": "2026-10-20T06:46:19.000Z",
-   "pay": "$44k–88k/yr",
+   "pay": "$43.5k–$87.5k/yr",
    "url": "https://aplyr.ai/jobs/f67c7360a382/test-engineering-intern-summer?utm_source=github&utm_medium=joblist&utm_campaign=summer-2027-internships&utm_content=apply",
    "sponsorsH1B": true,
    "firstSeen": "2026-10-20"
@@ -5515,7 +5585,7 @@
    "section": "hw",
    "posted": "2026-10-20",
    "added": "2026-10-20T11:34:33.000Z",
-   "pay": "$22.66–31.67/hr",
+   "pay": "$22.66–$31.67/hr",
    "url": "https://aplyr.ai/jobs/b684a102a1d8/radio-frequency-rf-engineering-intern?utm_source=github&utm_medium=joblist&utm_campaign=summer-2027-internships&utm_content=apply",
    "sponsorsH1B": true,
    "firstSeen": "2026-10-20"
@@ -5531,7 +5601,7 @@
    "section": "data",
    "posted": "2026-10-20",
    "added": "2026-10-20T07:45:39.000Z",
-   "pay": "$82k/yr",
+   "pay": "$82,415/yr",
    "url": "https://aplyr.ai/jobs/6b1eb728a21c/fellow-election-analytics?utm_source=github&utm_medium=joblist&utm_campaign=summer-2027-internships&utm_content=apply",
    "noSponsorship": true,
    "firstSeen": "2026-10-20"
@@ -5547,7 +5617,7 @@
    "section": "data",
    "posted": "2026-10-20",
    "added": "2026-10-20T07:45:39.000Z",
-   "pay": "$82k/yr",
+   "pay": "$82,415/yr",
    "url": "https://aplyr.ai/jobs/d99fe6c1e4a5/fellow-ai-initiatives?utm_source=github&utm_medium=joblist&utm_campaign=summer-2027-internships&utm_content=apply",
    "noSponsorship": true,
    "firstSeen": "2026-10-20"
@@ -5578,7 +5648,7 @@
    "section": "swe",
    "posted": "2026-10-19",
    "added": "2026-10-22T05:18:06.000Z",
-   "pay": "$10,500/mo",
+   "pay": "$10.5k/mo",
    "url": "https://aplyr.ai/jobs/a3e01a92c4ff/software-engineer-internship-query-engines?utm_source=github&utm_medium=joblist&utm_campaign=summer-2027-internships&utm_content=apply",
    "sponsorsH1B": true,
    "firstSeen": "2026-10-22"
@@ -5595,7 +5665,7 @@
    "section": "swe",
    "posted": "2026-10-19",
    "added": "2026-10-20T06:15:33.000Z",
-   "pay": "$41.5–50/hr",
+   "pay": "$41.50–$50/hr",
    "url": "https://aplyr.ai/jobs/5c73a008b409/gameplay-programming-intern-undergraduate?utm_source=github&utm_medium=joblist&utm_campaign=summer-2027-internships&utm_content=apply",
    "sponsorsH1B": true,
    "firstSeen": "2026-10-20"
@@ -5611,7 +5681,7 @@
    "section": "swe",
    "posted": "2026-10-19",
    "added": "2026-10-20T10:00:44.000Z",
-   "pay": "$27–31/hr",
+   "pay": "$27–$31/hr",
    "url": "https://aplyr.ai/jobs/ad93220f985c/it-support-specialist-intern?utm_source=github&utm_medium=joblist&utm_campaign=summer-2027-internships&utm_content=apply",
    "firstSeen": "2026-10-20"
   },
@@ -5859,7 +5929,7 @@
    "section": "data",
    "posted": "2026-10-19",
    "added": "2026-10-20T07:45:39.000Z",
-   "pay": "$94k–140k/yr",
+   "pay": "$94,320–$140,000/yr",
    "url": "https://aplyr.ai/jobs/a591e6d0e7f9/research-internship-ai-for-science?utm_source=github&utm_medium=joblist&utm_campaign=summer-2027-internships&utm_content=apply",
    "sponsorsH1B": true,
    "firstSeen": "2026-10-20"
@@ -5891,7 +5961,7 @@
    "section": "data",
    "posted": "2026-10-19",
    "added": "2026-10-20T07:15:46.000Z",
-   "pay": "$120k–150k/yr",
+   "pay": "$120k–$150k/yr",
    "url": "https://aplyr.ai/jobs/6a2542560e20/machine-learning-research-intern-summer-2027?utm_source=github&utm_medium=joblist&utm_campaign=summer-2027-internships&utm_content=apply",
    "sponsorsH1B": true,
    "firstSeen": "2026-10-20"
@@ -5907,7 +5977,7 @@
    "section": "hw",
    "posted": "2026-10-19",
    "added": "2026-10-20T11:34:33.000Z",
-   "pay": "$25.18–35.19/hr",
+   "pay": "$25.18–$35.19/hr",
    "url": "https://aplyr.ai/jobs/28f8c25bc371/electronics-engineer-intern?utm_source=github&utm_medium=joblist&utm_campaign=summer-2027-internships&utm_content=apply",
    "noSponsorship": true,
    "firstSeen": "2026-10-20"
@@ -5966,7 +6036,7 @@
    "section": "hw",
    "posted": "2026-10-19",
    "added": "2026-10-20T05:32:29.000Z",
-   "pay": "$40–50/hr",
+   "pay": "$40–$50/hr",
    "url": "https://aplyr.ai/jobs/da2276ebaf7b/hardware-engineering-intern?utm_source=github&utm_medium=joblist&utm_campaign=summer-2027-internships&utm_content=apply",
    "firstSeen": "2026-10-20"
   },
@@ -5996,7 +6066,7 @@
    "section": "data",
    "posted": "2026-10-19",
    "added": "2026-10-19T22:40:36.000Z",
-   "pay": "$19.84–26/hr",
+   "pay": "$19.84–$26/hr",
    "url": "https://aplyr.ai/jobs/73d4f5fea2fc/caa-icon-data-analytics-intern-summer-2027-denver-co?utm_source=github&utm_medium=joblist&utm_campaign=summer-2027-internships&utm_content=apply",
    "firstSeen": "2026-10-20"
   },
@@ -6087,7 +6157,7 @@
    "section": "hw",
    "posted": "2026-10-19",
    "added": "2026-10-20T09:30:30.000Z",
-   "pay": "$35–41/hr",
+   "pay": "$35–$41/hr",
    "url": "https://aplyr.ai/jobs/8d4a87c4e151/asic-intern?utm_source=github&utm_medium=joblist&utm_campaign=summer-2027-internships&utm_content=apply",
    "sponsorsH1B": true,
    "firstSeen": "2026-10-17"
@@ -6103,7 +6173,7 @@
    "section": "hw",
    "posted": "2026-10-19",
    "added": "2026-10-20T09:30:30.000Z",
-   "pay": "$35–41/hr",
+   "pay": "$35–$41/hr",
    "url": "https://aplyr.ai/jobs/6597c6bee024/hardware-engineering-design-intern?utm_source=github&utm_medium=joblist&utm_campaign=summer-2027-internships&utm_content=apply",
    "sponsorsH1B": true,
    "firstSeen": "2026-10-20"
@@ -6134,7 +6204,7 @@
    "section": "swe",
    "posted": "2026-10-19",
    "added": "2026-10-20T00:40:53.000Z",
-   "pay": "$20–24/hr",
+   "pay": "$20–$24/hr",
    "url": "https://aplyr.ai/jobs/a0eabcf81ad1/cloud-software-development-intern-the-toro-company?utm_source=github&utm_medium=joblist&utm_campaign=summer-2027-internships&utm_content=apply",
    "noSponsorship": true,
    "firstSeen": "2026-10-20"
@@ -6165,7 +6235,7 @@
    "section": "swe",
    "posted": "2026-10-19",
    "added": "2026-10-19T22:51:04.000Z",
-   "pay": "$38k–78k/yr",
+   "pay": "$37,855–$77,869/yr",
    "url": "https://aplyr.ai/jobs/6452b7493d30/2027-summer-intern-business-systems-applications-associate-reston-va?utm_source=github&utm_medium=joblist&utm_campaign=summer-2027-internships&utm_content=apply",
    "sponsorsH1B": true,
    "firstSeen": "2026-10-20"
@@ -6196,7 +6266,7 @@
    "section": "hw",
    "posted": "2026-10-19",
    "added": "2026-10-19T20:20:50.000Z",
-   "pay": "$25–31/hr",
+   "pay": "$25–$31/hr",
    "url": "https://aplyr.ai/jobs/80cb476b3b16/intern-electrical-engineering?utm_source=github&utm_medium=joblist&utm_campaign=summer-2027-internships&utm_content=apply",
    "sponsorsH1B": true,
    "firstSeen": "2026-10-17"
@@ -6212,7 +6282,7 @@
    "section": "hw",
    "posted": "2026-10-19",
    "added": "2026-10-19T17:43:06.000Z",
-   "pay": "$33–37/hr",
+   "pay": "$33–$37/hr",
    "url": "https://aplyr.ai/jobs/f2dada9aa8e2/audio-and-dsp-development-engineering-intern?utm_source=github&utm_medium=joblist&utm_campaign=summer-2027-internships&utm_content=apply",
    "noSponsorship": true,
    "firstSeen": "2026-10-19"
@@ -6228,7 +6298,7 @@
    "section": "data",
    "posted": "2026-10-19",
    "added": "2026-10-19T17:42:14.000Z",
-   "pay": "$38–51/hr",
+   "pay": "$38–$51/hr",
    "url": "https://aplyr.ai/jobs/c7f9b2e77916/2027-intern-ai-architecture?utm_source=github&utm_medium=joblist&utm_campaign=summer-2027-internships&utm_content=apply",
    "sponsorsH1B": true,
    "firstSeen": "2026-10-19"
@@ -6244,7 +6314,7 @@
    "section": "pm",
    "posted": "2026-10-19",
    "added": "2026-10-19T17:38:32.000Z",
-   "pay": "$38–94/hr",
+   "pay": "$38–$94/hr",
    "url": "https://aplyr.ai/jobs/65b5494341a1/product-manager-mba-intern-enterprise-ai-summer-2027?utm_source=github&utm_medium=joblist&utm_campaign=summer-2027-internships&utm_content=apply",
    "sponsorsH1B": true,
    "firstSeen": "2026-10-19"
@@ -6275,7 +6345,7 @@
    "section": "swe",
    "posted": "2026-10-17",
    "added": "2026-10-17T05:10:00.000Z",
-   "pay": "$27–32/hr",
+   "pay": "$27–$32/hr",
    "url": "https://aplyr.ai/jobs/63f3a16d6b69/2027-summer-intern-cloud-engineer-awsazure-reston-va?utm_source=github&utm_medium=joblist&utm_campaign=summer-2027-internships&utm_content=apply",
    "sponsorsH1B": true,
    "firstSeen": "2026-10-17"
@@ -6291,7 +6361,7 @@
    "section": "data",
    "posted": "2026-10-16",
    "added": "2026-10-17T09:04:24.000Z",
-   "pay": "$58–70/hr",
+   "pay": "$58–$70/hr",
    "url": "https://aplyr.ai/jobs/0987fbe881db/research-intern-frontier-speculative-decoding-summer-2027?utm_source=github&utm_medium=joblist&utm_campaign=summer-2027-internships&utm_content=apply",
    "firstSeen": "2026-10-17"
   },
@@ -6321,7 +6391,7 @@
    "section": "data",
    "posted": "2026-10-16",
    "added": "2026-10-17T09:06:36.000Z",
-   "pay": "$20–25/hr",
+   "pay": "$20–$25/hr",
    "url": "https://aplyr.ai/jobs/455b3128dfda/data-analytics-engineering-intern-summer-2027?utm_source=github&utm_medium=joblist&utm_campaign=summer-2027-internships&utm_content=apply",
    "noSponsorship": true,
    "firstSeen": "2026-10-17"
@@ -6337,7 +6407,7 @@
    "section": "data",
    "posted": "2026-10-16",
    "added": "2026-10-17T06:04:37.000Z",
-   "pay": "$44k–88k/yr",
+   "pay": "$43.9k–$87.9k/yr",
    "url": "https://aplyr.ai/jobs/91ac3a5e786d/aerospace-engineer-intern-summer-2027?utm_source=github&utm_medium=joblist&utm_campaign=summer-2027-internships&utm_content=apply",
    "sponsorsH1B": true,
    "firstSeen": "2026-10-17"
@@ -6413,7 +6483,7 @@
    "section": "swe",
    "posted": "2026-10-16",
    "added": "2026-10-18T00:22:00.000Z",
-   "pay": "$20–34/hr",
+   "pay": "$20–$34/hr",
    "url": "https://aplyr.ai/jobs/6730deebe12e/supplier-quality-engineer-intern?utm_source=github&utm_medium=joblist&utm_campaign=summer-2027-internships&utm_content=apply",
    "noSponsorship": true,
    "firstSeen": "2026-10-18"
@@ -6445,7 +6515,7 @@
    "section": "swe",
    "posted": "2026-10-16",
    "added": "2026-10-17T22:44:43.000Z",
-   "pay": "$33–36/hr",
+   "pay": "$33–$36/hr",
    "url": "https://aplyr.ai/jobs/e36f983520a2/2027-managed-it-consulting-intern?utm_source=github&utm_medium=joblist&utm_campaign=summer-2027-internships&utm_content=apply",
    "noSponsorship": true,
    "firstSeen": "2026-10-18"
@@ -6476,7 +6546,7 @@
    "section": "hw",
    "posted": "2026-10-16",
    "added": "2026-10-17T22:29:18.000Z",
-   "pay": "$20–40/hr",
+   "pay": "$20–$40/hr",
    "url": "https://aplyr.ai/jobs/f874d8dc64ef/gf-labs-research-am-fae-support-intern-summer-2027?utm_source=github&utm_medium=joblist&utm_campaign=summer-2027-internships&utm_content=apply",
    "sponsorsH1B": true,
    "firstSeen": "2026-10-18"
@@ -6492,7 +6562,7 @@
    "section": "hw",
    "posted": "2026-10-16",
    "added": "2026-10-17T22:29:18.000Z",
-   "pay": "$20–40/hr",
+   "pay": "$20–$40/hr",
    "url": "https://aplyr.ai/jobs/54e55e6a3561/foundation-ip-design-verification-intern-summer-2027?utm_source=github&utm_medium=joblist&utm_campaign=summer-2027-internships&utm_content=apply",
    "sponsorsH1B": true,
    "firstSeen": "2026-10-18"
@@ -6508,7 +6578,7 @@
    "section": "data",
    "posted": "2026-10-16",
    "added": "2026-10-17T22:18:07.000Z",
-   "pay": "$25–40/hr",
+   "pay": "$25–$40/hr",
    "url": "https://aplyr.ai/jobs/1766d5907c6c/customer-experience-data-intern?utm_source=github&utm_medium=joblist&utm_campaign=summer-2027-internships&utm_content=apply",
    "sponsorsH1B": true,
    "firstSeen": "2026-10-18"
@@ -6526,7 +6596,7 @@
    "section": "data",
    "posted": "2026-10-16",
    "added": "2026-10-17T22:16:45.000Z",
-   "pay": "$44k–185k/yr",
+   "pay": "$44k–$185k/yr",
    "url": "https://aplyr.ai/jobs/b3f2c909587d/software-engineer-data-ai-phd-intern-united-states?utm_source=github&utm_medium=joblist&utm_campaign=summer-2027-internships&utm_content=apply",
    "sponsorsH1B": true,
    "firstSeen": "2026-10-18"
@@ -6558,7 +6628,7 @@
    "section": "data",
    "posted": "2026-10-15",
    "added": "2026-10-17T06:23:00.000Z",
-   "pay": "$63–65/hr",
+   "pay": "$63–$65/hr",
    "url": "https://aplyr.ai/jobs/db6edbe2ecfd/data-scientist-intern-phd?utm_source=github&utm_medium=joblist&utm_campaign=summer-2027-internships&utm_content=apply",
    "sponsorsH1B": true,
    "firstSeen": "2026-10-17"
@@ -6575,7 +6645,7 @@
    "section": "data",
    "posted": "2026-10-15",
    "added": "2026-10-17T06:23:00.000Z",
-   "pay": "$54–56/hr",
+   "pay": "$54–$56/hr",
    "url": "https://aplyr.ai/jobs/e8bf8b793649/data-scientist-intern?utm_source=github&utm_medium=joblist&utm_campaign=summer-2027-internships&utm_content=apply",
    "sponsorsH1B": true,
    "firstSeen": "2026-10-17"
@@ -6591,7 +6661,7 @@
    "section": "pm",
    "posted": "2026-10-15",
    "added": "2026-10-17T06:23:00.000Z",
-   "pay": "$63–65/hr",
+   "pay": "$63–$65/hr",
    "url": "https://aplyr.ai/jobs/2f49dc0f2033/product-manager-mba-intern?utm_source=github&utm_medium=joblist&utm_campaign=summer-2027-internships&utm_content=apply",
    "sponsorsH1B": true,
    "firstSeen": "2026-10-17"
@@ -6622,7 +6692,7 @@
    "section": "swe",
    "posted": "2026-10-15",
    "added": "2026-10-17T07:35:16.000Z",
-   "pay": "$40–50/hr",
+   "pay": "$40–$50/hr",
    "url": "https://aplyr.ai/jobs/695a040c68e9/ground-software-engineering-intern-summer-2027?utm_source=github&utm_medium=joblist&utm_campaign=summer-2027-internships&utm_content=apply",
    "noSponsorship": true,
    "firstSeen": "2026-10-17"
@@ -6638,7 +6708,7 @@
    "section": "data",
    "posted": "2026-10-15",
    "added": "2026-10-17T09:06:36.000Z",
-   "pay": "$70–85/hr",
+   "pay": "$70–$85/hr",
    "url": "https://aplyr.ai/jobs/ff07f6c96c3b/2027-summer-intern-msphd-semantics?utm_source=github&utm_medium=joblist&utm_campaign=summer-2027-internships&utm_content=apply",
    "sponsorsH1B": true,
    "firstSeen": "2026-10-17"
@@ -6685,7 +6755,7 @@
    "section": "data",
    "posted": "2026-10-15",
    "added": "2026-10-16T06:31:35.000Z",
-   "pay": "$17.05–20/hr",
+   "pay": "$17.05–$20/hr",
    "url": "https://aplyr.ai/jobs/bb5011998dab/venue-analytics-intern?utm_source=github&utm_medium=joblist&utm_campaign=summer-2027-internships&utm_content=apply",
    "noSponsorship": true,
    "firstSeen": "2026-10-17"
@@ -6701,7 +6771,7 @@
    "section": "pm",
    "posted": "2026-10-15",
    "added": "2026-10-16T05:53:06.000Z",
-   "pay": "$38–94/hr",
+   "pay": "$38–$94/hr",
    "url": "https://aplyr.ai/jobs/ee02324e1b9e/product-management-mba-intern-laptop-summer-2027?utm_source=github&utm_medium=joblist&utm_campaign=summer-2027-internships&utm_content=apply",
    "sponsorsH1B": true,
    "firstSeen": "2026-10-17"
@@ -6732,7 +6802,7 @@
    "section": "swe",
    "posted": "2026-10-15",
    "added": "2026-10-15T05:10:34.000Z",
-   "pay": "$38k–64k/yr",
+   "pay": "$37,855–$64,354/yr",
    "url": "https://aplyr.ai/jobs/5a57bcc69087/2027-summer-intern-software-engineer-reston-va?utm_source=github&utm_medium=joblist&utm_campaign=summer-2027-internships&utm_content=apply",
    "sponsorsH1B": true,
    "firstSeen": "2026-10-17"
@@ -6841,7 +6911,7 @@
    "section": "data",
    "posted": "2026-10-15",
    "added": "2026-10-17T22:28:13.000Z",
-   "pay": "$35–41/hr",
+   "pay": "$35–$41/hr",
    "url": "https://aplyr.ai/jobs/1604ede994ca/ai-hpc-performance-engineering-intern?utm_source=github&utm_medium=joblist&utm_campaign=summer-2027-internships&utm_content=apply",
    "sponsorsH1B": true,
    "firstSeen": "2026-10-17"
@@ -6872,7 +6942,7 @@
    "section": "data",
    "posted": "2026-10-15",
    "added": "2026-10-17T22:27:12.000Z",
-   "pay": "$11,800/mo",
+   "pay": "$11.8k/mo",
    "url": "https://aplyr.ai/jobs/ed2567af6945/2027-summer-intern-ai-research-embodied-ai-masters?utm_source=github&utm_medium=joblist&utm_campaign=summer-2027-internships&utm_content=apply",
    "sponsorsH1B": true,
    "firstSeen": "2026-10-17"
@@ -6888,7 +6958,7 @@
    "section": "data",
    "posted": "2026-10-15",
    "added": "2026-10-17T22:27:12.000Z",
-   "pay": "$11,800/mo",
+   "pay": "$11.8k/mo",
    "url": "https://aplyr.ai/jobs/85988811fc49/2027-summer-intern-seam-embodied-ai-masters?utm_source=github&utm_medium=joblist&utm_campaign=summer-2027-internships&utm_content=apply",
    "sponsorsH1B": true,
    "firstSeen": "2026-10-17"
@@ -6904,7 +6974,7 @@
    "section": "data",
    "posted": "2026-10-15",
    "added": "2026-10-17T22:27:12.000Z",
-   "pay": "$10,100/mo",
+   "pay": "$10.1k/mo",
    "url": "https://aplyr.ai/jobs/571ddfc29c98/2027-summer-intern-aiml-engineer-mapping-masters?utm_source=github&utm_medium=joblist&utm_campaign=summer-2027-internships&utm_content=apply",
    "sponsorsH1B": true,
    "firstSeen": "2026-10-17"
@@ -6920,7 +6990,7 @@
    "section": "data",
    "posted": "2026-10-15",
    "added": "2026-10-17T22:27:12.000Z",
-   "pay": "$11,800/mo",
+   "pay": "$11.8k/mo",
    "url": "https://aplyr.ai/jobs/711fd3c585ca/2027-summer-intern-data-scaling-embodied-ai-masters?utm_source=github&utm_medium=joblist&utm_campaign=summer-2027-internships&utm_content=apply",
    "sponsorsH1B": true,
    "firstSeen": "2026-10-17"
@@ -6936,7 +7006,7 @@
    "section": "data",
    "posted": "2026-10-15",
    "added": "2026-10-17T22:27:12.000Z",
-   "pay": "$11,800/mo",
+   "pay": "$11.8k/mo",
    "url": "https://aplyr.ai/jobs/da9165c4e710/2027-summer-intern-onboard-autonomy-embodied-ai-masters?utm_source=github&utm_medium=joblist&utm_campaign=summer-2027-internships&utm_content=apply",
    "sponsorsH1B": true,
    "firstSeen": "2026-10-17"
@@ -6952,7 +7022,7 @@
    "section": "hw",
    "posted": "2026-10-15",
    "added": "2026-10-17T22:25:12.000Z",
-   "pay": "$37k–82k/yr",
+   "pay": "$37k–$82k/yr",
    "url": "https://aplyr.ai/jobs/23999abe230f/summer-2027-rf-systems-engineer-intern-onsite?utm_source=github&utm_medium=joblist&utm_campaign=summer-2027-internships&utm_content=apply",
    "noSponsorship": true,
    "firstSeen": "2026-10-22"
@@ -6968,7 +7038,7 @@
    "section": "swe",
    "posted": "2026-10-15",
    "added": "2026-10-17T22:25:12.000Z",
-   "pay": "$37k–82k/yr",
+   "pay": "$37k–$82k/yr",
    "url": "https://aplyr.ai/jobs/76aaa9bb5944/system-administrator-intern-summer-2027?utm_source=github&utm_medium=joblist&utm_campaign=summer-2027-internships&utm_content=apply",
    "noSponsorship": true,
    "firstSeen": "2026-10-17"
@@ -6990,7 +7060,7 @@
    "section": "pm",
    "posted": "2026-10-15",
    "added": "2026-10-17T06:04:37.000Z",
-   "pay": "$37k–97k/yr",
+   "pay": "$37,440–$96,800/yr",
    "url": "https://aplyr.ai/jobs/04ec53a50161/summer-2027-mba-internship-enterprise-growth?utm_source=github&utm_medium=joblist&utm_campaign=summer-2027-internships&utm_content=apply",
    "sponsorsH1B": true,
    "firstSeen": "2026-10-23"
@@ -7006,7 +7076,7 @@
    "section": "data",
    "posted": "2026-10-15",
    "added": "2026-10-17T06:04:37.000Z",
-   "pay": "$26–28/hr",
+   "pay": "$26–$28/hr",
    "url": "https://aplyr.ai/jobs/bdc8df331989/healthcare-analytics-summer-intern-morris-plains-nj-start-date-may-24-2027?utm_source=github&utm_medium=joblist&utm_campaign=summer-2027-internships&utm_content=apply",
    "sponsorsH1B": true,
    "firstSeen": "2026-10-17"
@@ -7037,7 +7107,7 @@
    "section": "data",
    "posted": "2026-10-14",
    "added": "2026-10-17T07:35:16.000Z",
-   "pay": "$19–28/hr",
+   "pay": "$19–$28/hr",
    "url": "https://aplyr.ai/jobs/2f1d64de5a65/data-science-intern-summer-2027?utm_source=github&utm_medium=joblist&utm_campaign=summer-2027-internships&utm_content=apply",
    "noSponsorship": true,
    "firstSeen": "2026-10-17"
@@ -7070,7 +7140,7 @@
    "section": "hw",
    "posted": "2026-10-14",
    "added": "2026-10-16T06:01:24.000Z",
-   "pay": "$1,575–1,950/wk",
+   "pay": "$1,575–$1,950/wk",
    "url": "https://aplyr.ai/jobs/05803025379a/hardware-systems-integration-intern-summer-2027?utm_source=github&utm_medium=joblist&utm_campaign=summer-2027-internships&utm_content=apply",
    "sponsorsH1B": true,
    "firstSeen": "2026-10-17"
@@ -7102,7 +7172,7 @@
    "section": "data",
    "posted": "2026-10-14",
    "added": "2026-10-17T08:14:00.000Z",
-   "pay": "$130k–175k/yr",
+   "pay": "$130k–$175k/yr",
    "url": "https://aplyr.ai/jobs/5ffad97eb768/2027-summer-internship-msphd-data-scientist-proprietary-research?utm_source=github&utm_medium=joblist&utm_campaign=summer-2027-internships&utm_content=apply",
    "sponsorsH1B": true,
    "firstSeen": "2026-10-17"
@@ -7118,7 +7188,7 @@
    "section": "swe",
    "posted": "2026-10-14",
    "added": "2026-10-15T13:40:17.000Z",
-   "pay": "$28.6–53.12/hr",
+   "pay": "$28.60–$53.12/hr",
    "url": "https://aplyr.ai/jobs/ea9d2463a38e/cst-application-engineer-intern-systems-atx?utm_source=github&utm_medium=joblist&utm_campaign=summer-2027-internships&utm_content=apply",
    "sponsorsH1B": true,
    "firstSeen": "2026-10-23"
@@ -7213,6 +7283,21 @@
    "url": "https://aplyr.ai/jobs/4e26947e9c68/computer-vision-applied-ai-intern-summer-2027?utm_source=github&utm_medium=joblist&utm_campaign=summer-2027-internships&utm_content=apply",
    "firstSeen": "2026-10-25"
   },
+  "advocatehealth.com::enterprise internship information technology": {
+   "id": "ce59c41a923e",
+   "company": "Advocate Aurora Health",
+   "companyUrl": "https://aplyr.ai/companies/advocatehealth?utm_source=github&utm_medium=joblist&utm_campaign=summer-2027-internships&utm_content=company",
+   "title": "Enterprise Internship, Information Technology",
+   "locations": [
+    "Atrium Health Navicent The Medical Center - 777 Hemlock St, Macon, GA"
+   ],
+   "section": "swe",
+   "posted": "2026-10-14",
+   "added": "2026-10-18T12:15:56.000Z",
+   "pay": "$21/hr",
+   "url": "https://aplyr.ai/jobs/ce59c41a923e/enterprise-internship-information-technology?utm_source=github&utm_medium=joblist&utm_campaign=summer-2027-internships&utm_content=apply",
+   "firstSeen": "2026-10-18"
+  },
   "cboe.com::data pipeline engineer intern": {
    "id": "25ca974fab08",
    "company": "Cboe",
@@ -7224,7 +7309,7 @@
    "section": "data",
    "posted": "2026-10-14",
    "added": "2026-10-17T23:31:39.000Z",
-   "pay": "$22–42/hr",
+   "pay": "$22–$42/hr",
    "url": "https://aplyr.ai/jobs/25ca974fab08/data-pipeline-engineer-intern?utm_source=github&utm_medium=joblist&utm_campaign=summer-2027-internships&utm_content=apply",
    "noSponsorship": true,
    "firstSeen": "2026-10-25"
@@ -7259,7 +7344,7 @@
    "section": "data",
    "posted": "2026-10-14",
    "added": "2026-10-17T22:29:18.000Z",
-   "pay": "$20–40/hr",
+   "pay": "$20–$40/hr",
    "url": "https://aplyr.ai/jobs/9eb7ca153b55/human-resources-intern-hr-analytics-summer-2027?utm_source=github&utm_medium=joblist&utm_campaign=summer-2027-internships&utm_content=apply",
    "sponsorsH1B": true,
    "firstSeen": "2026-10-17"
@@ -7275,7 +7360,7 @@
    "section": "data",
    "posted": "2026-10-14",
    "added": "2026-10-17T22:27:12.000Z",
-   "pay": "$9,600–11,800/mo",
+   "pay": "$9,600–$11,800/mo",
    "url": "https://aplyr.ai/jobs/0cd59459b52d/2027-intern-aiml-engineer-autonomous-vehicle-ml-infrastructure?utm_source=github&utm_medium=joblist&utm_campaign=summer-2027-internships&utm_content=apply",
    "sponsorsH1B": true,
    "firstSeen": "2026-10-17"
@@ -7291,7 +7376,7 @@
    "section": "data",
    "posted": "2026-10-14",
    "added": "2026-10-17T22:27:12.000Z",
-   "pay": "$9,600–11,800/mo",
+   "pay": "$9,600–$11,800/mo",
    "url": "https://aplyr.ai/jobs/bacbd8c32b95/2027-intern-aiml-engineer-capacity-performance-engineering-autonomous-vehicles?utm_source=github&utm_medium=joblist&utm_campaign=summer-2027-internships&utm_content=apply",
    "sponsorsH1B": true,
    "firstSeen": "2026-10-17"
@@ -7307,7 +7392,7 @@
    "section": "pm",
    "posted": "2026-10-14",
    "added": "2026-10-17T22:27:12.000Z",
-   "pay": "$9,400–11,100/mo",
+   "pay": "$9,400–$11,100/mo",
    "url": "https://aplyr.ai/jobs/9dc4975014c0/2027-intern-product-management-vehicle-autonomy-ms-or-mba?utm_source=github&utm_medium=joblist&utm_campaign=summer-2027-internships&utm_content=apply",
    "sponsorsH1B": true,
    "firstSeen": "2026-10-17"
@@ -7339,7 +7424,7 @@
    "section": "swe",
    "posted": "2026-10-14",
    "added": "2026-10-16T05:53:06.000Z",
-   "pay": "$38–94/hr",
+   "pay": "$38–$94/hr",
    "url": "https://aplyr.ai/jobs/d3dfa9e18e7b/phd-research-intern-security-and-privacy-2027?utm_source=github&utm_medium=joblist&utm_campaign=summer-2027-internships&utm_content=apply",
    "sponsorsH1B": true,
    "firstSeen": "2026-10-18"
@@ -7370,7 +7455,7 @@
    "section": "hw",
    "posted": "2026-10-13",
    "added": "2026-10-14T04:37:57.000Z",
-   "pay": "$42–50/hr",
+   "pay": "$42–$50/hr",
    "url": "https://aplyr.ai/jobs/4b501054a0b0/2027-firmware-engineer-intern?utm_source=github&utm_medium=joblist&utm_campaign=summer-2027-internships&utm_content=apply",
    "noSponsorship": true,
    "firstSeen": "2026-10-17"
@@ -7386,7 +7471,7 @@
    "section": "swe",
    "posted": "2026-10-13",
    "added": "2026-10-17T09:27:58.000Z",
-   "pay": "$128k–135k/yr",
+   "pay": "$128k–$135k/yr",
    "url": "https://aplyr.ai/jobs/bdae150d1138/software-engineering-intern-summer-2027?utm_source=github&utm_medium=joblist&utm_campaign=summer-2027-internships&utm_content=apply",
    "firstSeen": "2026-10-17"
   },
@@ -7401,7 +7486,7 @@
    "section": "swe",
    "posted": "2026-10-13",
    "added": "2026-10-17T09:27:58.000Z",
-   "pay": "$128k–135k/yr",
+   "pay": "$128k–$135k/yr",
    "url": "https://aplyr.ai/jobs/e049f029ebb1/route-planning-software-engineering-intern-summer-2027?utm_source=github&utm_medium=joblist&utm_campaign=summer-2027-internships&utm_content=apply",
    "firstSeen": "2026-10-17"
   },
@@ -7416,7 +7501,7 @@
    "section": "swe",
    "posted": "2026-10-13",
    "added": "2026-10-17T09:27:58.000Z",
-   "pay": "$112k–117k/yr",
+   "pay": "$112k–$117k/yr",
    "url": "https://aplyr.ai/jobs/43695759e623/manufacturing-software-test-intern-summer-2027?utm_source=github&utm_medium=joblist&utm_campaign=summer-2027-internships&utm_content=apply",
    "firstSeen": "2026-10-17"
   },
@@ -7431,7 +7516,7 @@
    "section": "data",
    "posted": "2026-10-13",
    "added": "2026-10-17T09:27:58.000Z",
-   "pay": "$128k–135k/yr",
+   "pay": "$128k–$135k/yr",
    "url": "https://aplyr.ai/jobs/9a8b2ec8a29c/machine-learning-engineering-intern-summer-2027?utm_source=github&utm_medium=joblist&utm_campaign=summer-2027-internships&utm_content=apply",
    "firstSeen": "2026-10-17"
   },
@@ -7446,7 +7531,7 @@
    "section": "hw",
    "posted": "2026-10-13",
    "added": "2026-10-17T09:27:58.000Z",
-   "pay": "$120k–126k/yr",
+   "pay": "$120k–$126k/yr",
    "url": "https://aplyr.ai/jobs/cc80b4231c7b/hardware-reliability-intern-summer-2027?utm_source=github&utm_medium=joblist&utm_campaign=summer-2027-internships&utm_content=apply",
    "firstSeen": "2026-10-17"
   },
@@ -7461,7 +7546,7 @@
    "section": "hw",
    "posted": "2026-10-13",
    "added": "2026-10-17T09:27:58.000Z",
-   "pay": "$120k–126k/yr",
+   "pay": "$120k–$126k/yr",
    "url": "https://aplyr.ai/jobs/273ef0836575/hardware-reliability-intern-mechatronics-summer-2027?utm_source=github&utm_medium=joblist&utm_campaign=summer-2027-internships&utm_content=apply",
    "firstSeen": "2026-10-17"
   },
@@ -7476,7 +7561,7 @@
    "section": "swe",
    "posted": "2026-10-13",
    "added": "2026-10-17T09:27:58.000Z",
-   "pay": "$128k–135k/yr",
+   "pay": "$128k–$135k/yr",
    "url": "https://aplyr.ai/jobs/cde8530b4145/execution-topology-software-engineering-intern-summer-2027?utm_source=github&utm_medium=joblist&utm_campaign=summer-2027-internships&utm_content=apply",
    "firstSeen": "2026-10-17"
   },
@@ -7491,7 +7576,7 @@
    "section": "swe",
    "posted": "2026-10-13",
    "added": "2026-10-17T09:27:58.000Z",
-   "pay": "$128k–135k/yr",
+   "pay": "$128k–$135k/yr",
    "url": "https://aplyr.ai/jobs/30e8a94f994e/data-infra-software-engineering-intern-summer-2027?utm_source=github&utm_medium=joblist&utm_campaign=summer-2027-internships&utm_content=apply",
    "firstSeen": "2026-10-17"
   },
@@ -7506,7 +7591,7 @@
    "section": "data",
    "posted": "2026-10-13",
    "added": "2026-10-17T09:06:36.000Z",
-   "pay": "$70–85/hr",
+   "pay": "$70–$85/hr",
    "url": "https://aplyr.ai/jobs/6cd630c5db25/2027-summer-intern-msphd-machine-learning-planningprediction?utm_source=github&utm_medium=joblist&utm_campaign=summer-2027-internships&utm_content=apply",
    "sponsorsH1B": true,
    "firstSeen": "2026-10-17"
@@ -7538,7 +7623,7 @@
    "section": "hw",
    "posted": "2026-10-13",
    "added": "2026-10-14T08:45:30.000Z",
-   "pay": "$40–50/hr",
+   "pay": "$40–$50/hr",
    "url": "https://aplyr.ai/jobs/b6a9673e9b5a/spacecraft-test-engineering-intern-summer-2027?utm_source=github&utm_medium=joblist&utm_campaign=summer-2027-internships&utm_content=apply",
    "firstSeen": "2026-10-17"
   },
@@ -7553,7 +7638,7 @@
    "section": "swe",
    "posted": "2026-10-13",
    "added": "2026-10-15T09:46:02.000Z",
-   "pay": "$47–58/hr",
+   "pay": "$47–$58/hr",
    "url": "https://aplyr.ai/jobs/2492a2dd8bb2/software-engineer-intern-summer-2027?utm_source=github&utm_medium=joblist&utm_campaign=summer-2027-internships&utm_content=apply",
    "firstSeen": "2026-10-17"
   },
@@ -7598,7 +7683,7 @@
    "section": "data",
    "posted": "2026-10-13",
    "added": "2026-10-14T07:52:09.000Z",
-   "pay": "$20–24/hr",
+   "pay": "$20–$24/hr",
    "url": "https://aplyr.ai/jobs/0d034e61d74a/ibp-isc-data-management-intern-the-toro-company?utm_source=github&utm_medium=joblist&utm_campaign=summer-2027-internships&utm_content=apply",
    "noSponsorship": true,
    "firstSeen": "2026-10-18"
@@ -7629,7 +7714,7 @@
    "section": "swe",
    "posted": "2026-10-13",
    "added": "2026-10-13T06:01:33.000Z",
-   "pay": "$25–40/hr",
+   "pay": "$25–$40/hr",
    "url": "https://aplyr.ai/jobs/eb2a63f0f22d/it-customer-experience-technologies-intern?utm_source=github&utm_medium=joblist&utm_campaign=summer-2027-internships&utm_content=apply",
    "sponsorsH1B": true,
    "firstSeen": "2026-10-17"
@@ -7660,7 +7745,7 @@
    "section": "swe",
    "posted": "2026-10-13",
    "added": "2026-10-13T06:01:34.000Z",
-   "pay": "$22–42/hr",
+   "pay": "$22–$42/hr",
    "url": "https://aplyr.ai/jobs/2bd4d55c8227/software-engineer-intern-c?utm_source=github&utm_medium=joblist&utm_campaign=summer-2027-internships&utm_content=apply",
    "sponsorsH1B": true,
    "firstSeen": "2026-10-18"
@@ -7676,7 +7761,7 @@
    "section": "data",
    "posted": "2026-10-13",
    "added": "2026-10-13T05:15:28.000Z",
-   "pay": "$38–94/hr",
+   "pay": "$38–$94/hr",
    "url": "https://aplyr.ai/jobs/281d19ca2a66/differentiable-simulation-research-intern-summer-2027?utm_source=github&utm_medium=joblist&utm_campaign=summer-2027-internships&utm_content=apply",
    "sponsorsH1B": true,
    "firstSeen": "2026-10-25"
@@ -7692,7 +7777,7 @@
    "section": "data",
    "posted": "2026-10-13",
    "added": "2026-10-13T05:15:28.000Z",
-   "pay": "$38–94/hr",
+   "pay": "$38–$94/hr",
    "url": "https://aplyr.ai/jobs/506acff005dd/phd-research-intern-autonomous-systems-and-physical-ai-research-2027?utm_source=github&utm_medium=joblist&utm_campaign=summer-2027-internships&utm_content=apply",
    "sponsorsH1B": true,
    "firstSeen": "2026-10-17"
@@ -7708,7 +7793,7 @@
    "section": "data",
    "posted": "2026-10-13",
    "added": "2026-10-10T05:15:29.000Z",
-   "pay": "$20–71/hr",
+   "pay": "$20–$71/hr",
    "url": "https://aplyr.ai/jobs/2e35d779d1cf/research-intern-world-models-and-synthetic-data-for-autonomous-driving-summer-20?utm_source=github&utm_medium=joblist&utm_campaign=summer-2027-internships&utm_content=apply",
    "sponsorsH1B": true,
    "firstSeen": "2026-10-25"
@@ -7724,7 +7809,7 @@
    "section": "data",
    "posted": "2026-10-13",
    "added": "2026-10-09T05:15:28.000Z",
-   "pay": "$38–94/hr",
+   "pay": "$38–$94/hr",
    "url": "https://aplyr.ai/jobs/ca9c5440168b/research-intern-spatial-intelligence-summer-2027?utm_source=github&utm_medium=joblist&utm_campaign=summer-2027-internships&utm_content=apply",
    "sponsorsH1B": true,
    "firstSeen": "2026-10-25"
@@ -7740,7 +7825,7 @@
    "section": "data",
    "posted": "2026-10-13",
    "added": "2026-10-08T05:15:30.000Z",
-   "pay": "$38–94/hr",
+   "pay": "$38–$94/hr",
    "url": "https://aplyr.ai/jobs/2ad277c00b22/phd-research-intern-ai-aided-engineering-2027?utm_source=github&utm_medium=joblist&utm_campaign=summer-2027-internships&utm_content=apply",
    "sponsorsH1B": true,
    "firstSeen": "2026-10-17"
@@ -7756,7 +7841,7 @@
    "section": "hw",
    "posted": "2026-10-13",
    "added": "2026-10-07T05:15:39.000Z",
-   "pay": "$186k–312k/yr",
+   "pay": "$186k–$312k/yr",
    "url": "https://aplyr.ai/jobs/78b7e53ca3d9/pcie-design-verification-intern-summer-2027?utm_source=github&utm_medium=joblist&utm_campaign=summer-2027-internships&utm_content=apply",
    "sponsorsH1B": true,
    "firstSeen": "2026-10-25"
@@ -7772,7 +7857,7 @@
    "section": "swe",
    "posted": "2026-10-13",
    "added": "2026-10-01T05:15:41.000Z",
-   "pay": "$38–94/hr",
+   "pay": "$38–$94/hr",
    "url": "https://aplyr.ai/jobs/8e9e579676b8/phd-research-intern-programming-systems-2027?utm_source=github&utm_medium=joblist&utm_campaign=summer-2027-internships&utm_content=apply",
    "sponsorsH1B": true,
    "firstSeen": "2026-10-25"
@@ -7788,7 +7873,7 @@
    "section": "hw",
    "posted": "2026-10-13",
    "added": "2026-09-30T05:15:24.000Z",
-   "pay": "$38–94/hr",
+   "pay": "$38–$94/hr",
    "url": "https://aplyr.ai/jobs/40b266f43998/phd-research-intern-ai-accelerator-design-and-vlsi-2027?utm_source=github&utm_medium=joblist&utm_campaign=summer-2027-internships&utm_content=apply",
    "sponsorsH1B": true,
    "firstSeen": "2026-10-17"
@@ -7804,7 +7889,7 @@
    "section": "quant",
    "posted": "2026-10-13",
    "added": "2026-09-24T05:15:28.000Z",
-   "pay": "$38–94/hr",
+   "pay": "$38–$94/hr",
    "url": "https://aplyr.ai/jobs/65ebbbb0002a/phd-research-intern-quantum-simulation-and-ai-2027?utm_source=github&utm_medium=joblist&utm_campaign=summer-2027-internships&utm_content=apply",
    "sponsorsH1B": true,
    "firstSeen": "2026-10-17"
@@ -7820,7 +7905,7 @@
    "section": "hw",
    "posted": "2026-10-13",
    "added": "2026-09-24T05:15:28.000Z",
-   "pay": "$38–94/hr",
+   "pay": "$38–$94/hr",
    "url": "https://aplyr.ai/jobs/7c0f120b0463/phd-research-intern-electronic-design-automation-2027?utm_source=github&utm_medium=joblist&utm_campaign=summer-2027-internships&utm_content=apply",
    "sponsorsH1B": true,
    "firstSeen": "2026-10-25"
@@ -7836,7 +7921,7 @@
    "section": "data",
    "posted": "2026-10-13",
    "added": "2026-09-24T05:15:28.000Z",
-   "pay": "$38–94/hr",
+   "pay": "$38–$94/hr",
    "url": "https://aplyr.ai/jobs/cf3b02e9372a/phd-research-intern-physical-ai-foundation-models-2027?utm_source=github&utm_medium=joblist&utm_campaign=summer-2027-internships&utm_content=apply",
    "sponsorsH1B": true,
    "firstSeen": "2026-10-17"
@@ -7852,7 +7937,7 @@
    "section": "swe",
    "posted": "2026-10-13",
    "added": "2026-09-22T05:15:45.000Z",
-   "pay": "$38–94/hr",
+   "pay": "$38–$94/hr",
    "url": "https://aplyr.ai/jobs/f97e438265f2/phd-research-intern-networking-2027?utm_source=github&utm_medium=joblist&utm_campaign=summer-2027-internships&utm_content=apply",
    "sponsorsH1B": true,
    "firstSeen": "2026-10-17"
@@ -7868,7 +7953,7 @@
    "section": "data",
    "posted": "2026-10-13",
    "added": "2026-09-22T05:15:45.000Z",
-   "pay": "$38–94/hr",
+   "pay": "$38–$94/hr",
    "url": "https://aplyr.ai/jobs/60a479ef34c9/phd-research-intern-learning-embodied-skills-from-human-data-2027?utm_source=github&utm_medium=joblist&utm_campaign=summer-2027-internships&utm_content=apply",
    "sponsorsH1B": true,
    "firstSeen": "2026-10-25"
@@ -7884,7 +7969,7 @@
    "section": "hw",
    "posted": "2026-10-13",
    "added": "2026-09-18T05:15:24.000Z",
-   "pay": "$111k–222k/yr",
+   "pay": "$111,240–$222,480/yr",
    "url": "https://aplyr.ai/jobs/fd43569b6a3d/phd-research-intern-hardware-and-systems-architecture-2027?utm_source=github&utm_medium=joblist&utm_campaign=summer-2027-internships&utm_content=apply",
    "sponsorsH1B": true,
    "firstSeen": "2026-10-17"
@@ -7900,7 +7985,7 @@
    "section": "data",
    "posted": "2026-10-13",
    "added": "2026-09-17T05:15:34.000Z",
-   "pay": "$181k–250k/yr",
+   "pay": "$181.4k–$249.5k/yr",
    "url": "https://aplyr.ai/jobs/fc1a1d045f99/phd-research-intern-fundamental-generative-ai-2027?utm_source=github&utm_medium=joblist&utm_campaign=summer-2027-internships&utm_content=apply",
    "sponsorsH1B": true,
    "firstSeen": "2026-10-17"
@@ -7931,7 +8016,7 @@
    "section": "hw",
    "posted": "2026-10-13",
    "added": "2026-10-17T22:44:43.000Z",
-   "pay": "$26–30/hr",
+   "pay": "$26–$30/hr",
    "url": "https://aplyr.ai/jobs/b58283cb615e/2027-photonics-device-characterization-undergraduate-intern?utm_source=github&utm_medium=joblist&utm_campaign=summer-2027-internships&utm_content=apply",
    "firstSeen": "2026-10-25"
   },
@@ -8061,7 +8146,7 @@
    "section": "hw",
    "posted": "2026-10-13",
    "added": "2026-10-17T22:28:13.000Z",
-   "pay": "$40–46/hr",
+   "pay": "$40–$46/hr",
    "url": "https://aplyr.ai/jobs/d10f59676ffa/vlsi-design-verification-masters-level-intern?utm_source=github&utm_medium=joblist&utm_campaign=summer-2027-internships&utm_content=apply",
    "sponsorsH1B": true,
    "firstSeen": "2026-10-25"
@@ -8078,7 +8163,7 @@
    "section": "hw",
    "posted": "2026-10-13",
    "added": "2026-10-17T22:28:13.000Z",
-   "pay": "$35–41/hr",
+   "pay": "$35–$41/hr",
    "url": "https://aplyr.ai/jobs/bacc0e99f8a7/hpc-ai-networking-intern-network-transport?utm_source=github&utm_medium=joblist&utm_campaign=summer-2027-internships&utm_content=apply",
    "sponsorsH1B": true,
    "firstSeen": "2026-10-18"
@@ -8110,7 +8195,7 @@
    "section": "hw",
    "posted": "2026-10-13",
    "added": "2026-10-17T22:21:43.000Z",
-   "pay": "$26–52/hr",
+   "pay": "$26–$52/hr",
    "url": "https://aplyr.ai/jobs/9f50c8f51865/firmware-engineer-intern-bs-summer-2027?utm_source=github&utm_medium=joblist&utm_campaign=summer-2027-internships&utm_content=apply",
    "sponsorsH1B": true,
    "firstSeen": "2026-10-18"
@@ -8126,7 +8211,7 @@
    "section": "hw",
    "posted": "2026-10-13",
    "added": "2026-10-17T22:18:07.000Z",
-   "pay": "$121k/yr",
+   "pay": "$120,898–$120,902/yr",
    "url": "https://aplyr.ai/jobs/d94ee721be83/module-development-engineer-phd-intern-new-2027?utm_source=github&utm_medium=joblist&utm_campaign=summer-2027-internships&utm_content=apply",
    "sponsorsH1B": true,
    "firstSeen": "2026-10-25"
@@ -8142,7 +8227,7 @@
    "section": "pm",
    "posted": "2026-10-13",
    "added": "2026-10-14T06:25:55.000Z",
-   "pay": "$25–40/hr",
+   "pay": "$25–$40/hr",
    "url": "https://aplyr.ai/jobs/26f6de4ba173/ai-product-management-intern?utm_source=github&utm_medium=joblist&utm_campaign=summer-2027-internships&utm_content=apply",
    "sponsorsH1B": true,
    "firstSeen": "2026-10-17"
@@ -8159,7 +8244,7 @@
    "section": "swe",
    "posted": "2026-10-13",
    "added": "2026-10-14T05:56:24.000Z",
-   "pay": "$24.25–33/hr",
+   "pay": "$24.25–$33/hr",
    "url": "https://aplyr.ai/jobs/9fe78418af3f/software-engineer-intern?utm_source=github&utm_medium=joblist&utm_campaign=summer-2027-internships&utm_content=apply",
    "sponsorsH1B": true,
    "firstSeen": "2026-10-18"
@@ -8175,7 +8260,7 @@
    "section": "pm",
    "posted": "2026-10-13",
    "added": "2026-10-14T05:16:34.000Z",
-   "pay": "$38–94/hr",
+   "pay": "$38–$94/hr",
    "url": "https://aplyr.ai/jobs/451c979a1fc5/product-management-mba-intern-data-center-gpu-summer-2027?utm_source=github&utm_medium=joblist&utm_campaign=summer-2027-internships&utm_content=apply",
    "sponsorsH1B": true,
    "firstSeen": "2026-10-17"
@@ -8191,7 +8276,7 @@
    "section": "data",
    "posted": "2026-10-12",
    "added": "2026-10-13T05:30:36.000Z",
-   "pay": "$11,000/mo",
+   "pay": "$11k/mo",
    "url": "https://aplyr.ai/jobs/72f26aed72fa/ai-engineer-intern?utm_source=github&utm_medium=joblist&utm_campaign=summer-2027-internships&utm_content=apply",
    "firstSeen": "2026-10-17"
   },
@@ -8222,7 +8307,7 @@
    "section": "data",
    "posted": "2026-10-12",
    "added": "2026-10-13T08:01:06.000Z",
-   "pay": "$70–85/hr",
+   "pay": "$70–$85/hr",
    "url": "https://aplyr.ai/jobs/ea98e55ff3eb/2027-summer-intern-msphd-perception-model-lifecycle?utm_source=github&utm_medium=joblist&utm_campaign=summer-2027-internships&utm_content=apply",
    "sponsorsH1B": true,
    "firstSeen": "2026-10-17"
@@ -8253,7 +8338,7 @@
    "section": "swe",
    "posted": "2026-10-12",
    "added": "2026-10-13T05:46:25.000Z",
-   "pay": "$18–24/hr",
+   "pay": "$18–$24/hr",
    "url": "https://aplyr.ai/jobs/ada83313e3be/erpit-intern-summer-2027?utm_source=github&utm_medium=joblist&utm_campaign=summer-2027-internships&utm_content=apply",
    "noSponsorship": true,
    "firstSeen": "2026-10-18"
@@ -8269,7 +8354,7 @@
    "section": "pm",
    "posted": "2026-10-12",
    "added": "2026-10-14T04:45:42.000Z",
-   "pay": "$10,000/mo",
+   "pay": "$10k/mo",
    "url": "https://aplyr.ai/jobs/fa986075d61f/product-management-intern?utm_source=github&utm_medium=joblist&utm_campaign=summer-2027-internships&utm_content=apply",
    "sponsorsH1B": true,
    "firstSeen": "2026-10-18"
@@ -8299,7 +8384,7 @@
    "section": "swe",
    "posted": "2026-10-12",
    "added": "2026-10-13T06:15:55.000Z",
-   "pay": "$44–46/hr",
+   "pay": "$44–$46/hr",
    "url": "https://aplyr.ai/jobs/c5e39a524da7/2027-summer-it-software-internships?utm_source=github&utm_medium=joblist&utm_campaign=summer-2027-internships&utm_content=apply",
    "noSponsorship": true,
    "firstSeen": "2026-10-26"
@@ -8432,7 +8517,7 @@
    "section": "swe",
    "posted": "2026-10-12",
    "added": "2026-10-17T22:28:13.000Z",
-   "pay": "$35–41/hr",
+   "pay": "$35–$41/hr",
    "url": "https://aplyr.ai/jobs/d561a618a4e3/hpcai-system-admin-hwsw-service-engineer-intern?utm_source=github&utm_medium=joblist&utm_campaign=summer-2027-internships&utm_content=apply",
    "sponsorsH1B": true,
    "firstSeen": "2026-10-17"
@@ -8449,7 +8534,7 @@
    "section": "hw",
    "posted": "2026-10-12",
    "added": "2026-10-17T22:28:13.000Z",
-   "pay": "$35–41/hr",
+   "pay": "$35–$41/hr",
    "url": "https://aplyr.ai/jobs/6acaae59e512/vlsi-logic-design-intern?utm_source=github&utm_medium=joblist&utm_campaign=summer-2027-internships&utm_content=apply",
    "sponsorsH1B": true,
    "firstSeen": "2026-10-26"
@@ -8465,7 +8550,7 @@
    "section": "hw",
    "posted": "2026-10-12",
    "added": "2026-10-17T22:28:13.000Z",
-   "pay": "$35–41/hr",
+   "pay": "$35–$41/hr",
    "url": "https://aplyr.ai/jobs/6b856b422d2d/vlsi-design-verification-intern?utm_source=github&utm_medium=joblist&utm_campaign=summer-2027-internships&utm_content=apply",
    "sponsorsH1B": true,
    "firstSeen": "2026-10-26"
@@ -8481,7 +8566,7 @@
    "section": "hw",
    "posted": "2026-10-12",
    "added": "2026-10-17T22:28:13.000Z",
-   "pay": "$40–46/hr",
+   "pay": "$40–$46/hr",
    "url": "https://aplyr.ai/jobs/bcc2328f66a6/firmware-engineering-intern?utm_source=github&utm_medium=joblist&utm_campaign=summer-2027-internships&utm_content=apply",
    "sponsorsH1B": true,
    "firstSeen": "2026-10-17"
@@ -8497,7 +8582,7 @@
    "section": "data",
    "posted": "2026-10-12",
    "added": "2026-10-17T22:27:12.000Z",
-   "pay": "$10,300–13,600/mo",
+   "pay": "$10.3k–$13.6k/mo",
    "url": "https://aplyr.ai/jobs/5948d85ffe3d/2027-summer-intern-research-and-development-aimachine-learning?utm_source=github&utm_medium=joblist&utm_campaign=summer-2027-internships&utm_content=apply",
    "sponsorsH1B": true,
    "firstSeen": "2026-10-17"
@@ -8528,7 +8613,7 @@
    "section": "swe",
    "posted": "2026-10-12",
    "added": "2026-10-17T22:24:25.000Z",
-   "pay": "$49–58/hr",
+   "pay": "$49–$58/hr",
    "url": "https://aplyr.ai/jobs/aa520e8bd7dd/algorithm-engineering-intern-gpucuda?utm_source=github&utm_medium=joblist&utm_campaign=summer-2027-internships&utm_content=apply",
    "sponsorsH1B": true,
    "firstSeen": "2026-10-17"
@@ -8544,7 +8629,7 @@
    "section": "data",
    "posted": "2026-10-12",
    "added": "2026-10-17T22:24:25.000Z",
-   "pay": "$24–32/hr",
+   "pay": "$24–$32/hr",
    "url": "https://aplyr.ai/jobs/c0804652be28/aiml-software-engineer-intern?utm_source=github&utm_medium=joblist&utm_campaign=summer-2027-internships&utm_content=apply",
    "sponsorsH1B": true,
    "firstSeen": "2026-10-17"
@@ -8606,7 +8691,7 @@
    "section": "hw",
    "posted": "2026-10-11",
    "added": "2026-10-12T06:15:37.000Z",
-   "pay": "$25–35/hr",
+   "pay": "$25–$35/hr",
    "url": "https://aplyr.ai/jobs/d1677ab81577/intern-battery-test?utm_source=github&utm_medium=joblist&utm_campaign=summer-2027-internships&utm_content=apply",
    "firstSeen": "2026-10-26"
   },
@@ -8621,7 +8706,7 @@
    "section": "data",
    "posted": "2026-10-11",
    "added": "2026-10-10T05:46:46.000Z",
-   "pay": "$17–25/hr",
+   "pay": "$17–$25/hr",
    "url": "https://aplyr.ai/jobs/521007b85dfc/data-analyst-internship-2028-graduates?utm_source=github&utm_medium=joblist&utm_campaign=summer-2027-internships&utm_content=apply",
    "sponsorsH1B": true,
    "firstSeen": "2026-10-17"
@@ -8637,7 +8722,7 @@
    "section": "swe",
    "posted": "2026-10-10",
    "added": "2026-10-11T06:02:00.000Z",
-   "pay": "$17–28.65/hr",
+   "pay": "$17–$28.65/hr",
    "url": "https://aplyr.ai/jobs/09b4c770b208/systems-test-automation-engineering-intern?utm_source=github&utm_medium=joblist&utm_campaign=summer-2027-internships&utm_content=apply",
    "noSponsorship": true,
    "firstSeen": "2026-10-26"
@@ -8653,7 +8738,7 @@
    "section": "swe",
    "posted": "2026-10-10",
    "added": "2026-10-03T05:46:53.000Z",
-   "pay": "$46k–92k/yr",
+   "pay": "$45.9k–$91.9k/yr",
    "url": "https://aplyr.ai/jobs/c540f7f9822c/cyber-security-intern-summer-2027?utm_source=github&utm_medium=joblist&utm_campaign=summer-2027-internships&utm_content=apply",
    "sponsorsH1B": true,
    "firstSeen": "2026-10-17"
@@ -8792,7 +8877,7 @@
    "section": "swe",
    "posted": "2026-10-09",
    "added": "2026-10-10T06:15:31.000Z",
-   "pay": "$25–35/hr",
+   "pay": "$25–$35/hr",
    "url": "https://aplyr.ai/jobs/ab3ab07f0e3f/intern-test-engineering?utm_source=github&utm_medium=joblist&utm_campaign=summer-2027-internships&utm_content=apply",
    "firstSeen": "2026-10-17"
   },
@@ -8807,7 +8892,7 @@
    "section": "swe",
    "posted": "2026-10-09",
    "added": "2026-10-10T04:45:39.000Z",
-   "pay": "$10,000/mo",
+   "pay": "$10k/mo",
    "url": "https://aplyr.ai/jobs/c5eeee39da9e/software-engineer-intern?utm_source=github&utm_medium=joblist&utm_campaign=summer-2027-internships&utm_content=apply",
    "sponsorsH1B": true,
    "firstSeen": "2026-10-18"
@@ -8823,7 +8908,7 @@
    "section": "swe",
    "posted": "2026-10-09",
    "added": "2026-10-10T04:45:39.000Z",
-   "pay": "$10,000/mo",
+   "pay": "$10k/mo",
    "url": "https://aplyr.ai/jobs/349987393834/enterprise-technology-engineer-intern?utm_source=github&utm_medium=joblist&utm_campaign=summer-2027-internships&utm_content=apply",
    "sponsorsH1B": true,
    "firstSeen": "2026-10-26"
@@ -8839,7 +8924,7 @@
    "section": "data",
    "posted": "2026-10-09",
    "added": "2026-10-10T05:45:51.000Z",
-   "pay": "$42–69/hr",
+   "pay": "$42–$69/hr",
    "url": "https://aplyr.ai/jobs/eac5e23897c6/artificial-intelligence-machine-learning-foundation-models-intern?utm_source=github&utm_medium=joblist&utm_campaign=summer-2027-internships&utm_content=apply",
    "sponsorsH1B": true,
    "firstSeen": "2026-10-17"
@@ -8889,7 +8974,7 @@
    "section": "swe",
    "posted": "2026-10-09",
    "added": "2026-10-10T04:45:39.000Z",
-   "pay": "$10,000/mo",
+   "pay": "$10k/mo",
    "url": "https://aplyr.ai/jobs/62564b9ef69e/infrastructure-engineer-intern?utm_source=github&utm_medium=joblist&utm_campaign=summer-2027-internships&utm_content=apply",
    "sponsorsH1B": true,
    "firstSeen": "2026-10-18"
@@ -8905,7 +8990,7 @@
    "section": "data",
    "posted": "2026-10-09",
    "added": "2026-10-11T09:00:41.000Z",
-   "pay": "$11,800–14,600/mo",
+   "pay": "$11.8k–$14.6k/mo",
    "url": "https://aplyr.ai/jobs/6ed3901eee81/2027-summer-intern-data-scaling-embodied-ai?utm_source=github&utm_medium=joblist&utm_campaign=summer-2027-internships&utm_content=apply",
    "sponsorsH1B": true,
    "firstSeen": "2026-10-17"
@@ -8921,7 +9006,7 @@
    "section": "data",
    "posted": "2026-10-09",
    "added": "2026-10-11T09:00:41.000Z",
-   "pay": "$11,800–14,600/mo",
+   "pay": "$11.8k–$14.6k/mo",
    "url": "https://aplyr.ai/jobs/8513c7478beb/2027-summer-intern-onboard-autonomy-embodied-ai-phd?utm_source=github&utm_medium=joblist&utm_campaign=summer-2027-internships&utm_content=apply",
    "sponsorsH1B": true,
    "firstSeen": "2026-10-24"
@@ -8937,7 +9022,7 @@
    "section": "data",
    "posted": "2026-10-09",
    "added": "2026-10-11T09:00:41.000Z",
-   "pay": "$11,800–14,600/mo",
+   "pay": "$11.8k–$14.6k/mo",
    "url": "https://aplyr.ai/jobs/56948956a1bc/2027-summer-intern-seam-embodied-ai-phd?utm_source=github&utm_medium=joblist&utm_campaign=summer-2027-internships&utm_content=apply",
    "sponsorsH1B": true,
    "firstSeen": "2026-10-20"
@@ -8953,7 +9038,7 @@
    "section": "data",
    "posted": "2026-10-09",
    "added": "2026-10-11T09:00:41.000Z",
-   "pay": "$11,800–14,600/mo",
+   "pay": "$11.8k–$14.6k/mo",
    "url": "https://aplyr.ai/jobs/e59c576eac53/2027-summer-intern-ai-research-embodied-ai-phd?utm_source=github&utm_medium=joblist&utm_campaign=summer-2027-internships&utm_content=apply",
    "sponsorsH1B": true,
    "firstSeen": "2026-10-18"
@@ -8984,7 +9069,7 @@
    "section": "data",
    "posted": "2026-10-09",
    "added": "2026-10-09T06:45:56.000Z",
-   "pay": "$65k–130k/yr",
+   "pay": "$64.5k–$129.5k/yr",
    "url": "https://aplyr.ai/jobs/f15b41c34d68/supervisor-field-engineer-automated-logicwaco-tx?utm_source=github&utm_medium=joblist&utm_campaign=summer-2027-internships&utm_content=apply",
    "sponsorsH1B": true,
    "firstSeen": "2026-10-17"
@@ -9000,7 +9085,7 @@
    "section": "swe",
    "posted": "2026-10-09",
    "added": "2026-08-19T06:30:42.000Z",
-   "pay": "$20–25/hr",
+   "pay": "$20–$25/hr",
    "url": "https://aplyr.ai/jobs/e43706686bfc/debt-asset-management-intern-new-york?utm_source=github&utm_medium=joblist&utm_campaign=summer-2027-internships&utm_content=apply",
    "sponsorsH1B": true,
    "firstSeen": "2026-10-18"
@@ -9016,7 +9101,7 @@
    "section": "swe",
    "posted": "2026-10-09",
    "added": "2026-10-09T06:02:01.000Z",
-   "pay": "$150k/yr",
+   "pay": "$149,598–$149,602/yr",
    "url": "https://aplyr.ai/jobs/ce6413753120/software-research-engineering-phd-intern?utm_source=github&utm_medium=joblist&utm_campaign=summer-2027-internships&utm_content=apply",
    "sponsorsH1B": true,
    "firstSeen": "2026-10-17"
@@ -9047,7 +9132,7 @@
    "section": "swe",
    "posted": "2026-10-09",
    "added": "2026-10-09T05:02:26.000Z",
-   "pay": "$38k–64k/yr",
+   "pay": "$37,855–$64,354/yr",
    "url": "https://aplyr.ai/jobs/55d9ef063b3d/2027-summer-intern-configuration-analyst-reston-va?utm_source=github&utm_medium=joblist&utm_campaign=summer-2027-internships&utm_content=apply",
    "sponsorsH1B": true,
    "firstSeen": "2026-10-27"
@@ -9093,7 +9178,7 @@
    "section": "hw",
    "posted": "2026-10-09",
    "added": "2026-10-17T22:41:46.000Z",
-   "pay": "$31–41/hr",
+   "pay": "$31–$41/hr",
    "url": "https://aplyr.ai/jobs/0a77ab879e87/2027-summer-electrical-engineer-intern-controlspcb-bs-or-ms-gloucester-ma?utm_source=github&utm_medium=joblist&utm_campaign=summer-2027-internships&utm_content=apply",
    "sponsorsH1B": true,
    "firstSeen": "2026-10-17"
@@ -9143,7 +9228,7 @@
    "section": "data",
    "posted": "2026-10-09",
    "added": "2026-10-17T22:18:07.000Z",
-   "pay": "$142k/yr",
+   "pay": "$141,998–$142,002/yr",
    "url": "https://aplyr.ai/jobs/e53c8699a4b1/ai-driven-physical-design-engineering-phd-intern?utm_source=github&utm_medium=joblist&utm_campaign=summer-2027-internships&utm_content=apply",
    "sponsorsH1B": true,
    "firstSeen": "2026-10-18"
@@ -9234,7 +9319,7 @@
    "section": "data",
    "posted": "2026-10-08",
    "added": "2026-10-09T08:01:14.000Z",
-   "pay": "$120k–126k/yr",
+   "pay": "$120k–$126k/yr",
    "url": "https://aplyr.ai/jobs/13c6d2dfc996/data-scientist-intern-summer-2027?utm_source=github&utm_medium=joblist&utm_campaign=summer-2027-internships&utm_content=apply",
    "firstSeen": "2026-10-17"
   },
@@ -9389,7 +9474,7 @@
    "section": "swe",
    "posted": "2026-10-08",
    "added": "2026-10-10T05:46:18.000Z",
-   "pay": "$107k–158k/yr",
+   "pay": "$107.4k–$158k/yr",
    "url": "https://aplyr.ai/jobs/9f61129f7c04/software-engineer-intern-labs-summer-2027?utm_source=github&utm_medium=joblist&utm_campaign=summer-2027-internships&utm_content=apply",
    "noSponsorship": true,
    "firstSeen": "2026-10-17"
@@ -9405,7 +9490,7 @@
    "section": "data",
    "posted": "2026-10-08",
    "added": "2026-10-08T06:00:50.000Z",
-   "pay": "$137k/yr",
+   "pay": "$136,998–$137,002/yr",
    "url": "https://aplyr.ai/jobs/c9dfdb28e039/data-science-and-analytics-phd-intern?utm_source=github&utm_medium=joblist&utm_campaign=summer-2027-internships&utm_content=apply",
    "sponsorsH1B": true,
    "firstSeen": "2026-10-17"
@@ -9427,7 +9512,7 @@
    "section": "data",
    "posted": "2026-10-08",
    "added": "2026-10-03T05:46:53.000Z",
-   "pay": "$25–26/hr",
+   "pay": "$25–$26/hr",
    "url": "https://aplyr.ai/jobs/5e07fcddc6aa/business-insurance-underwriting-professional-development-program-bi-updp-interns?utm_source=github&utm_medium=joblist&utm_campaign=summer-2027-internships&utm_content=apply",
    "sponsorsH1B": true,
    "firstSeen": "2026-10-17"
@@ -9607,7 +9692,7 @@
    "section": "data",
    "posted": "2026-10-07",
    "added": "2026-10-08T08:01:52.000Z",
-   "pay": "$70–85/hr",
+   "pay": "$70–$85/hr",
    "url": "https://aplyr.ai/jobs/31973eea3822/2027-summer-intern-msphd-perception-robotics?utm_source=github&utm_medium=joblist&utm_campaign=summer-2027-internships&utm_content=apply",
    "sponsorsH1B": true,
    "firstSeen": "2026-10-17"
@@ -9638,7 +9723,7 @@
    "section": "swe",
    "posted": "2026-10-07",
    "added": "2026-10-08T10:45:37.000Z",
-   "pay": "$24–29/hr",
+   "pay": "$24–$29/hr",
    "url": "https://aplyr.ai/jobs/5d973d6b20d6/markel-2027-it-internship-program?utm_source=github&utm_medium=joblist&utm_campaign=summer-2027-internships&utm_content=apply",
    "firstSeen": "2026-10-17"
   },
@@ -9667,7 +9752,7 @@
    "section": "data",
    "posted": "2026-10-07",
    "added": "2026-10-07T08:01:00.000Z",
-   "pay": "$70–85/hr",
+   "pay": "$70–$85/hr",
    "url": "https://aplyr.ai/jobs/7f2f69c1abd0/2027-summer-intern-msphd-research-perception-foundation-models?utm_source=github&utm_medium=joblist&utm_campaign=summer-2027-internships&utm_content=apply",
    "sponsorsH1B": true,
    "firstSeen": "2026-10-17"
@@ -9684,7 +9769,7 @@
    "section": "data",
    "posted": "2026-10-07",
    "added": "2026-10-07T07:31:03.000Z",
-   "pay": "$80–90/hr",
+   "pay": "$80–$90/hr",
    "url": "https://aplyr.ai/jobs/9a7da24418c0/aiml-phd-intern-summer-2027?utm_source=github&utm_medium=joblist&utm_campaign=summer-2027-internships&utm_content=apply",
    "sponsorsH1B": true,
    "firstSeen": "2026-10-17"
@@ -9701,21 +9786,6 @@
    "posted": "2026-10-07",
    "added": "2026-10-18T00:31:11.000Z",
    "url": "https://aplyr.ai/jobs/766db03a71c3/it-intern?utm_source=github&utm_medium=joblist&utm_campaign=summer-2027-internships&utm_content=apply",
-   "firstSeen": "2026-10-18"
-  },
-  "global.abb::ai engineering erp intern summer 2027": {
-   "id": "f9070d51320e",
-   "company": "ABB",
-   "companyUrl": "https://aplyr.ai/companies/global?utm_source=github&utm_medium=joblist&utm_campaign=summer-2027-internships&utm_content=company",
-   "title": "AI Engineering, ERP Intern- Summer 2027",
-   "locations": [
-    "USA, NC, Cary"
-   ],
-   "section": "data",
-   "posted": "2026-10-07",
-   "added": "2026-10-18T00:22:00.000Z",
-   "url": "https://aplyr.ai/jobs/f9070d51320e/ai-engineering-erp-intern-summer-2027?utm_source=github&utm_medium=joblist&utm_campaign=summer-2027-internships&utm_content=apply",
-   "sponsorsH1B": true,
    "firstSeen": "2026-10-18"
   },
   "nissan-global.com::digital products ai strategy intern summer 2027 franklin tn": {
@@ -9892,7 +9962,6 @@
    "section": "swe",
    "posted": "2026-10-06",
    "added": "2026-10-07T06:46:14.000Z",
-   "pay": "$160k–190k/yr",
    "url": "https://aplyr.ai/jobs/06dd18c1f59f/network-engineering-intern-summer-2027-hybrid-nyc?utm_source=github&utm_medium=joblist&utm_campaign=summer-2027-internships&utm_content=apply",
    "firstSeen": "2026-10-17"
   },
@@ -9907,7 +9976,7 @@
    "section": "swe",
    "posted": "2026-10-06",
    "added": "2026-10-07T08:01:00.000Z",
-   "pay": "$70–85/hr",
+   "pay": "$70–$85/hr",
    "url": "https://aplyr.ai/jobs/f3f2921bc0ef/2027-summer-intern-ms-phd-software-engineer?utm_source=github&utm_medium=joblist&utm_campaign=summer-2027-internships&utm_content=apply",
    "sponsorsH1B": true,
    "firstSeen": "2026-10-17"
@@ -9923,7 +9992,7 @@
    "section": "swe",
    "posted": "2026-10-06",
    "added": "2026-10-07T06:30:56.000Z",
-   "pay": "$65–68/hr",
+   "pay": "$65–$68/hr",
    "url": "https://aplyr.ai/jobs/924f3502b9a0/phd-machine-learning-software-engineer-intern-summer-2027?utm_source=github&utm_medium=joblist&utm_campaign=summer-2027-internships&utm_content=apply",
    "sponsorsH1B": true,
    "firstSeen": "2026-10-17"
@@ -9983,7 +10052,7 @@
    "section": "data",
    "posted": "2026-10-06",
    "added": "2026-10-06T06:01:44.000Z",
-   "pay": "$133k–134k/yr",
+   "pay": "$133,498–$133,502/yr",
    "url": "https://aplyr.ai/jobs/1fcbac535193/ai-solution-architect-graduate-intern?utm_source=github&utm_medium=joblist&utm_campaign=summer-2027-internships&utm_content=apply",
    "sponsorsH1B": true,
    "firstSeen": "2026-10-17"
@@ -9999,7 +10068,7 @@
    "section": "swe",
    "posted": "2026-10-06",
    "added": "2026-10-06T05:46:34.000Z",
-   "pay": "$39k–76k/yr",
+   "pay": "$39.4k–$75.9k/yr",
    "url": "https://aplyr.ai/jobs/579eafd4d1e0/network-engineer-intern-summer-2027?utm_source=github&utm_medium=joblist&utm_campaign=summer-2027-internships&utm_content=apply",
    "sponsorsH1B": true,
    "firstSeen": "2026-10-17"
@@ -10030,7 +10099,7 @@
    "section": "swe",
    "posted": "2026-10-06",
    "added": "2026-10-06T05:31:15.000Z",
-   "pay": "$186k–219k/yr",
+   "pay": "$186,065–$218,900/yr",
    "url": "https://aplyr.ai/jobs/46cf242f1944/software-engineer-intern-2027?utm_source=github&utm_medium=joblist&utm_campaign=summer-2027-internships&utm_content=apply",
    "noSponsorship": true,
    "firstSeen": "2026-10-18"
@@ -10046,7 +10115,7 @@
    "section": "hw",
    "posted": "2026-10-06",
    "added": "2026-10-06T09:01:37.000Z",
-   "pay": "$28–63/hr",
+   "pay": "$28–$63/hr",
    "url": "https://aplyr.ai/jobs/9d2f351d7dbb/mechanical-engineer-robotics-hardware-intern?utm_source=github&utm_medium=joblist&utm_campaign=summer-2027-internships&utm_content=apply",
    "firstSeen": "2026-10-18"
   },
@@ -10078,21 +10147,6 @@
    "posted": "2026-10-06",
    "added": "2026-10-18T00:22:00.000Z",
    "url": "https://aplyr.ai/jobs/dece72a6c54e/intern-software-engineer-summer-2027?utm_source=github&utm_medium=joblist&utm_campaign=summer-2027-internships&utm_content=apply",
-   "firstSeen": "2026-10-18"
-  },
-  "global.abb::ai engineering business systems intern summer 2027": {
-   "id": "e77befa2de59",
-   "company": "ABB",
-   "companyUrl": "https://aplyr.ai/companies/global?utm_source=github&utm_medium=joblist&utm_campaign=summer-2027-internships&utm_content=company",
-   "title": "AI Engineering, Business Systems Intern- Summer 2027",
-   "locations": [
-    "USA, NC, Cary"
-   ],
-   "section": "data",
-   "posted": "2026-10-06",
-   "added": "2026-10-18T00:22:00.000Z",
-   "url": "https://aplyr.ai/jobs/e77befa2de59/ai-engineering-business-systems-intern-summer-2027?utm_source=github&utm_medium=joblist&utm_campaign=summer-2027-internships&utm_content=apply",
-   "sponsorsH1B": true,
    "firstSeen": "2026-10-18"
   },
   "f5.com::software development engineer intern seattle wa": {
@@ -10140,7 +10194,7 @@
    "section": "swe",
    "posted": "2026-10-05",
    "added": "2026-10-06T05:01:38.000Z",
-   "pay": "$32–40/hr",
+   "pay": "$32–$40/hr",
    "url": "https://aplyr.ai/jobs/fa35ce05363b/2027-quality-test-engineer-intern?utm_source=github&utm_medium=joblist&utm_campaign=summer-2027-internships&utm_content=apply",
    "noSponsorship": true,
    "firstSeen": "2026-10-17"
@@ -10217,7 +10271,7 @@
    "section": "swe",
    "posted": "2026-10-05",
    "added": "2026-10-06T08:01:12.000Z",
-   "pay": "$70–85/hr",
+   "pay": "$70–$85/hr",
    "url": "https://aplyr.ai/jobs/23013d94f30f/2027-summer-intern-msphd-software-engineer-eval-data-infra?utm_source=github&utm_medium=joblist&utm_campaign=summer-2027-internships&utm_content=apply",
    "sponsorsH1B": true,
    "firstSeen": "2026-10-17"
@@ -10233,7 +10287,7 @@
    "section": "data",
    "posted": "2026-10-05",
    "added": "2026-10-06T08:01:12.000Z",
-   "pay": "$70–85/hr",
+   "pay": "$70–$85/hr",
    "url": "https://aplyr.ai/jobs/6b20c2250572/2027-summer-intern-msphd-ml-systems-behavior-discovery?utm_source=github&utm_medium=joblist&utm_campaign=summer-2027-internships&utm_content=apply",
    "sponsorsH1B": true,
    "firstSeen": "2026-10-17"
@@ -10335,7 +10389,7 @@
    "section": "swe",
    "posted": "2026-10-05",
    "added": "2026-10-06T09:00:33.000Z",
-   "pay": "$8,100–8,700/mo",
+   "pay": "$8,100–$8,700/mo",
    "url": "https://aplyr.ai/jobs/7352540aec48/2027-summer-intern-machine-learning-intern-autonomous-vehicles-software-validati?utm_source=github&utm_medium=joblist&utm_campaign=summer-2027-internships&utm_content=apply",
    "sponsorsH1B": true,
    "firstSeen": "2026-10-17"
@@ -10455,7 +10509,7 @@
    "section": "swe",
    "posted": "2026-10-03",
    "added": "2026-10-04T08:00:25.000Z",
-   "pay": "$37k–82k/yr",
+   "pay": "$37k–$82k/yr",
    "url": "https://aplyr.ai/jobs/990a2654351f/avionics-test-engineering-systems-engineer-intern-onsite?utm_source=github&utm_medium=joblist&utm_campaign=summer-2027-internships&utm_content=apply",
    "sponsorsH1B": true,
    "firstSeen": "2026-10-17"
@@ -10471,7 +10525,7 @@
    "section": "quant",
    "posted": "2026-10-03",
    "added": "2026-10-03T06:01:28.000Z",
-   "pay": "$22–42/hr",
+   "pay": "$22–$42/hr",
    "url": "https://aplyr.ai/jobs/64c8478730d2/quant-data-analytics-intern?utm_source=github&utm_medium=joblist&utm_campaign=summer-2027-internships&utm_content=apply",
    "sponsorsH1B": true,
    "firstSeen": "2026-10-18"
@@ -10487,7 +10541,7 @@
    "section": "quant",
    "posted": "2026-10-03",
    "added": "2026-10-03T06:01:28.000Z",
-   "pay": "$108k–146k/yr",
+   "pay": "$107,780–$145,820/yr",
    "url": "https://aplyr.ai/jobs/ecc8fd31a9d3/quantitative-risk-manager?utm_source=github&utm_medium=joblist&utm_campaign=summer-2027-internships&utm_content=apply",
    "sponsorsH1B": true,
    "firstSeen": "2026-10-18"
@@ -10503,7 +10557,7 @@
    "section": "data",
    "posted": "2026-10-03",
    "added": "2026-10-03T06:01:28.000Z",
-   "pay": "$159k–206k/yr",
+   "pay": "$158,950–$205,700/yr",
    "url": "https://aplyr.ai/jobs/ddd772dd2960/technical-business-analyst-intern?utm_source=github&utm_medium=joblist&utm_campaign=summer-2027-internships&utm_content=apply",
    "sponsorsH1B": true,
    "firstSeen": "2026-10-18"
@@ -10696,7 +10750,6 @@
    "section": "swe",
    "posted": "2026-10-02",
    "added": "2026-10-03T05:01:25.000Z",
-   "pay": "$170k–220k/yr",
    "url": "https://aplyr.ai/jobs/6e771c6034b1/software-engineering-intern?utm_source=github&utm_medium=joblist&utm_campaign=summer-2027-internships&utm_content=apply",
    "firstSeen": "2026-10-17"
   },
@@ -10776,7 +10829,7 @@
    "section": "swe",
    "posted": "2026-10-02",
    "added": "2026-10-03T08:01:04.000Z",
-   "pay": "$30–40/hr",
+   "pay": "$30–$40/hr",
    "url": "https://aplyr.ai/jobs/82dfd3299b14/summer-2027-software-engineering-internshipco-op?utm_source=github&utm_medium=joblist&utm_campaign=summer-2027-internships&utm_content=apply",
    "firstSeen": "2026-10-17"
   },
@@ -10791,7 +10844,7 @@
    "section": "data",
    "posted": "2026-10-02",
    "added": "2026-10-03T05:17:30.000Z",
-   "pay": "$8,000–10,000/mo",
+   "pay": "$8,000–$10,000/mo",
    "url": "https://aplyr.ai/jobs/44f8c3b19188/ai-product-manager-mba-intern-summer-2027?utm_source=github&utm_medium=joblist&utm_campaign=summer-2027-internships&utm_content=apply",
    "sponsorsH1B": true,
    "firstSeen": "2026-10-17"
@@ -10807,7 +10860,7 @@
    "section": "swe",
    "posted": "2026-10-02",
    "added": "2026-10-05T08:01:29.000Z",
-   "pay": "$21–25/hr",
+   "pay": "$21–$25/hr",
    "url": "https://aplyr.ai/jobs/5dbfbbe71ea2/intern-it-software-engineer-net-summer-2027?utm_source=github&utm_medium=joblist&utm_campaign=summer-2027-internships&utm_content=apply",
    "firstSeen": "2026-10-18"
   },
@@ -10822,7 +10875,7 @@
    "section": "data",
    "posted": "2026-10-02",
    "added": "2026-10-02T05:46:56.000Z",
-   "pay": "$46k–92k/yr",
+   "pay": "$45.9k–$91.9k/yr",
    "url": "https://aplyr.ai/jobs/c7cd75ac0d8c/ai-prompt-engineer-high-school-intern-summer-2027?utm_source=github&utm_medium=joblist&utm_campaign=summer-2027-internships&utm_content=apply",
    "sponsorsH1B": true,
    "firstSeen": "2026-10-17"
@@ -10867,7 +10920,6 @@
    "section": "hw",
    "posted": "2026-10-02",
    "added": "2026-10-02T06:46:00.000Z",
-   "pay": "$192k–213k/yr",
    "url": "https://aplyr.ai/jobs/de6f6543457a/electrical-engineering-intern-summer-2027?utm_source=github&utm_medium=joblist&utm_campaign=summer-2027-internships&utm_content=apply",
    "firstSeen": "2026-10-17"
   },
@@ -10883,36 +10935,6 @@
    "posted": "2026-10-02",
    "added": "2026-10-17T22:43:58.000Z",
    "url": "https://aplyr.ai/jobs/813572fc8603/intern-ai-business-process-developer-summer-2027?utm_source=github&utm_medium=joblist&utm_campaign=summer-2027-internships&utm_content=apply",
-   "sponsorsH1B": true,
-   "firstSeen": "2026-10-17"
-  },
-  "thehartford.com::tech data program summer 2027 data engineer intern hartford": {
-   "id": "738ff7590687",
-   "company": "The Hartford",
-   "companyUrl": "https://aplyr.ai/companies/thehartford?utm_source=github&utm_medium=joblist&utm_campaign=summer-2027-internships&utm_content=company",
-   "title": "Tech & Data Program Summer 2027 – Data Engineer Intern (Hartford)",
-   "locations": [
-    "Hartford, CT"
-   ],
-   "section": "data",
-   "posted": "2026-10-02",
-   "added": "2026-10-17T22:29:32.000Z",
-   "url": "https://aplyr.ai/jobs/738ff7590687/tech-data-program-summer-2027-data-engineer-intern-hartford?utm_source=github&utm_medium=joblist&utm_campaign=summer-2027-internships&utm_content=apply",
-   "sponsorsH1B": true,
-   "firstSeen": "2026-10-17"
-  },
-  "thehartford.com::tech data program summer 2027 software engineer intern hartford": {
-   "id": "67713c9aba4b",
-   "company": "The Hartford",
-   "companyUrl": "https://aplyr.ai/companies/thehartford?utm_source=github&utm_medium=joblist&utm_campaign=summer-2027-internships&utm_content=company",
-   "title": "Tech & Data Program Summer 2027 - Software Engineer Intern (Hartford)",
-   "locations": [
-    "Hartford, CT"
-   ],
-   "section": "swe",
-   "posted": "2026-10-02",
-   "added": "2026-10-17T22:29:32.000Z",
-   "url": "https://aplyr.ai/jobs/67713c9aba4b/tech-data-program-summer-2027-software-engineer-intern-hartford?utm_source=github&utm_medium=joblist&utm_campaign=summer-2027-internships&utm_content=apply",
    "sponsorsH1B": true,
    "firstSeen": "2026-10-17"
   },
@@ -10971,7 +10993,7 @@
    "section": "data",
    "posted": "2026-10-01",
    "added": "2026-10-02T08:01:39.000Z",
-   "pay": "$60–85/hr",
+   "pay": "$60–$85/hr",
    "url": "https://aplyr.ai/jobs/38630a921c8c/2027-summer-intern-bsmsphd-ai-driven-ml-performance-engineering-intern?utm_source=github&utm_medium=joblist&utm_campaign=summer-2027-internships&utm_content=apply",
    "sponsorsH1B": true,
    "firstSeen": "2026-10-31"
@@ -11033,7 +11055,6 @@
    "section": "data",
    "posted": "2026-10-01",
    "added": "2026-10-02T07:31:05.000Z",
-   "pay": "$46k/yr",
    "url": "https://aplyr.ai/jobs/04769844d8fb/data-analyst-internship?utm_source=github&utm_medium=joblist&utm_campaign=summer-2027-internships&utm_content=apply",
    "sponsorsH1B": true,
    "firstSeen": "2026-10-17"
@@ -11065,7 +11086,7 @@
    "section": "swe",
    "posted": "2026-10-01",
    "added": "2026-10-02T07:00:40.000Z",
-   "pay": "$8,250–11,000/mo",
+   "pay": "$8,250–$11,000/mo",
    "url": "https://aplyr.ai/jobs/f9c6be5a2400/software-engineer-intern-2027-usa?utm_source=github&utm_medium=joblist&utm_campaign=summer-2027-internships&utm_content=apply",
    "noSponsorship": true,
    "firstSeen": "2026-10-17"
@@ -11084,7 +11105,7 @@
    "section": "data",
    "posted": "2026-10-01",
    "added": "2026-10-02T07:00:40.000Z",
-   "pay": "$11,000/mo",
+   "pay": "$11k/mo",
    "url": "https://aplyr.ai/jobs/b9a2b4df5e04/masters-machine-learning-internship-2027-usa?utm_source=github&utm_medium=joblist&utm_campaign=summer-2027-internships&utm_content=apply",
    "sponsorsH1B": true,
    "firstSeen": "2026-10-17"
@@ -11103,7 +11124,7 @@
    "section": "data",
    "posted": "2026-10-01",
    "added": "2026-10-02T07:00:40.000Z",
-   "pay": "$12,100/mo",
+   "pay": "$12.1k/mo",
    "url": "https://aplyr.ai/jobs/2b67a445d2a4/phd-machine-learning-internship-2027-usa?utm_source=github&utm_medium=joblist&utm_campaign=summer-2027-internships&utm_content=apply",
    "sponsorsH1B": true,
    "firstSeen": "2026-10-17"
@@ -11409,7 +11430,7 @@
    "section": "data",
    "posted": "2026-09-30",
    "added": "2026-10-01T06:02:33.000Z",
-   "pay": "$30–40/hr",
+   "pay": "$30–$40/hr",
    "url": "https://aplyr.ai/jobs/9481f5cb0e3e/ai-intern-enterprise-agent-development?utm_source=github&utm_medium=joblist&utm_campaign=summer-2027-internships&utm_content=apply",
    "firstSeen": "2026-10-17"
   },
@@ -11454,7 +11475,7 @@
    "section": "hw",
    "posted": "2026-09-30",
    "added": "2026-10-21T08:46:28.000Z",
-   "pay": "$25–35/hr",
+   "pay": "$25–$35/hr",
    "url": "https://aplyr.ai/jobs/8c132fac87a7/summer-2027-internship-electrical-engineering?utm_source=github&utm_medium=joblist&utm_campaign=summer-2027-internships&utm_content=apply",
    "noSponsorship": true,
    "firstSeen": "2026-10-21"
@@ -11470,7 +11491,7 @@
    "section": "swe",
    "posted": "2026-09-30",
    "added": "2026-10-01T08:02:44.000Z",
-   "pay": "$70–85/hr",
+   "pay": "$70–$85/hr",
    "url": "https://aplyr.ai/jobs/b8dbf988f6ff/2027-summer-intern-msphd-software-engineer-onboard-developer-platform?utm_source=github&utm_medium=joblist&utm_campaign=summer-2027-internships&utm_content=apply",
    "sponsorsH1B": true,
    "firstSeen": "2026-10-17"
@@ -11551,7 +11572,7 @@
    "section": "swe",
    "posted": "2026-09-30",
    "added": "2026-09-30T05:47:06.000Z",
-   "pay": "$39k–76k/yr",
+   "pay": "$39.4k–$75.9k/yr",
    "url": "https://aplyr.ai/jobs/ceed4976762c/software-engineer-intern-summer-2027?utm_source=github&utm_medium=joblist&utm_campaign=summer-2027-internships&utm_content=apply",
    "sponsorsH1B": true,
    "firstSeen": "2026-10-17"
@@ -11582,7 +11603,6 @@
    "section": "hw",
    "posted": "2026-09-30",
    "added": "2026-09-30T06:46:35.000Z",
-   "pay": "$192k–213k/yr",
    "url": "https://aplyr.ai/jobs/a12d04d91a3c/gnc-hardware-engineering-intern-summer-2027?utm_source=github&utm_medium=joblist&utm_campaign=summer-2027-internships&utm_content=apply",
    "firstSeen": "2026-10-17"
   },
@@ -11660,7 +11680,6 @@
    "section": "swe",
    "posted": "2026-09-29",
    "added": "2026-09-30T05:46:24.000Z",
-   "pay": "$80k–120k/yr",
    "url": "https://aplyr.ai/jobs/57cbfaa8cc5a/software-engineer-internship-summer-2027-hybrid?utm_source=github&utm_medium=joblist&utm_campaign=summer-2027-internships&utm_content=apply",
    "noSponsorship": true,
    "firstSeen": "2026-10-17"
@@ -11677,7 +11696,7 @@
    "section": "data",
    "posted": "2026-09-29",
    "added": "2026-09-30T06:46:35.000Z",
-   "pay": "$19–28/hr",
+   "pay": "$19–$28/hr",
    "url": "https://aplyr.ai/jobs/50dfe81df073/digital-ai-experience-intern-summer-2027?utm_source=github&utm_medium=joblist&utm_campaign=summer-2027-internships&utm_content=apply",
    "noSponsorship": true,
    "firstSeen": "2026-10-17"
@@ -11787,7 +11806,7 @@
    "section": "swe",
    "posted": "2026-09-28",
    "added": "2026-09-29T05:15:39.000Z",
-   "pay": "$20–30/hr",
+   "pay": "$20–$30/hr",
    "url": "https://aplyr.ai/jobs/8a4541bb0766/internal-audit-intern-summer-2027?utm_source=github&utm_medium=joblist&utm_campaign=summer-2027-internships&utm_content=apply",
    "firstSeen": "2026-10-17"
   },
@@ -11848,7 +11867,7 @@
    "section": "swe",
    "posted": "2026-09-28",
    "added": "2026-09-11T08:01:08.000Z",
-   "pay": "$19–25/hr",
+   "pay": "$19–$25/hr",
    "url": "https://aplyr.ai/jobs/3dbe358ae7fc/intern-software-engineer-new-ventures-starting-summer-2027?utm_source=github&utm_medium=joblist&utm_campaign=summer-2027-internships&utm_content=apply",
    "firstSeen": "2026-10-18"
   },
@@ -11896,22 +11915,6 @@
    "sponsorsH1B": true,
    "firstSeen": "2026-10-17"
   },
-  "globalfoundries.com::internal audit intern summer 2027": {
-   "id": "4318bb902765",
-   "company": "GlobalFoundries",
-   "companyUrl": "https://aplyr.ai/companies/globalfoundries?utm_source=github&utm_medium=joblist&utm_campaign=summer-2027-internships&utm_content=company",
-   "title": "Internal Audit Intern (Summer 2027)",
-   "locations": [
-    "USA - Texas - Austin",
-    "USA - New York - Malta"
-   ],
-   "section": "swe",
-   "posted": "2026-09-28",
-   "added": "2026-10-17T22:29:18.000Z",
-   "url": "https://aplyr.ai/jobs/4318bb902765/internal-audit-intern-summer-2027?utm_source=github&utm_medium=joblist&utm_campaign=summer-2027-internships&utm_content=apply",
-   "sponsorsH1B": true,
-   "firstSeen": "2026-10-18"
-  },
   "intel.com::software solutions phd intern new 2027": {
    "id": "55469f2ed91a",
    "company": "Intel",
@@ -11923,7 +11926,7 @@
    "section": "swe",
    "posted": "2026-09-26",
    "added": "2026-09-26T06:00:55.000Z",
-   "pay": "$150k/yr",
+   "pay": "$149,598–$149,602/yr",
    "url": "https://aplyr.ai/jobs/55469f2ed91a/software-solutions-phd-intern-new-2027?utm_source=github&utm_medium=joblist&utm_campaign=summer-2027-internships&utm_content=apply",
    "sponsorsH1B": true,
    "firstSeen": "2026-10-17"
@@ -11939,7 +11942,7 @@
    "section": "data",
    "posted": "2026-09-25",
    "added": "2026-09-26T08:01:14.000Z",
-   "pay": "$70–85/hr",
+   "pay": "$70–$85/hr",
    "url": "https://aplyr.ai/jobs/b487303a00b3/2027-summer-intern-msphd-perception-machine-learning?utm_source=github&utm_medium=joblist&utm_campaign=summer-2027-internships&utm_content=apply",
    "sponsorsH1B": true,
    "firstSeen": "2026-10-17"
@@ -11955,7 +11958,7 @@
    "section": "swe",
    "posted": "2026-09-25",
    "added": "2026-09-26T08:01:14.000Z",
-   "pay": "$70–85/hr",
+   "pay": "$70–$85/hr",
    "url": "https://aplyr.ai/jobs/0e8ec6c9efa3/2027-summer-intern-msphd-software-engineering-onboard-software-integrity?utm_source=github&utm_medium=joblist&utm_campaign=summer-2027-internships&utm_content=apply",
    "sponsorsH1B": true,
    "firstSeen": "2026-10-17"
@@ -11971,7 +11974,7 @@
    "section": "swe",
    "posted": "2026-09-25",
    "added": "2026-09-26T08:01:14.000Z",
-   "pay": "$70–85/hr",
+   "pay": "$70–$85/hr",
    "url": "https://aplyr.ai/jobs/50fbe22d058d/2027-summer-intern-msphd-software-engineer-sys-intel-machine-learning?utm_source=github&utm_medium=joblist&utm_campaign=summer-2027-internships&utm_content=apply",
    "sponsorsH1B": true,
    "firstSeen": "2026-10-17"
@@ -11990,7 +11993,7 @@
    "section": "data",
    "posted": "2026-09-25",
    "added": "2026-09-26T05:46:41.000Z",
-   "pay": "$131k–285k/yr",
+   "pay": "$130.6k–$285k/yr",
    "url": "https://aplyr.ai/jobs/c01dc866f18b/machine-learning-intern-phd-summer-2027?utm_source=github&utm_medium=joblist&utm_campaign=summer-2027-internships&utm_content=apply",
    "sponsorsH1B": true,
    "firstSeen": "2026-10-17"
@@ -12021,7 +12024,7 @@
    "section": "swe",
    "posted": "2026-09-25",
    "added": "2026-09-26T05:45:56.000Z",
-   "pay": "$21–37.8/hr",
+   "pay": "$21–$37.80/hr",
    "url": "https://aplyr.ai/jobs/42cfb151696b/2027-business-technology-solutions-intern-data-software-engineering-undergraduat?utm_source=github&utm_medium=joblist&utm_campaign=summer-2027-internships&utm_content=apply",
    "sponsorsH1B": true,
    "firstSeen": "2026-10-17"
@@ -12037,7 +12040,7 @@
    "section": "swe",
    "posted": "2026-09-25",
    "added": "2026-09-26T05:45:56.000Z",
-   "pay": "$21–37.8/hr",
+   "pay": "$21–$37.80/hr",
    "url": "https://aplyr.ai/jobs/1d9e7dcbfe03/2027-business-technology-solutions-intern-cloud-engineering-undergraduate?utm_source=github&utm_medium=joblist&utm_campaign=summer-2027-internships&utm_content=apply",
    "sponsorsH1B": true,
    "firstSeen": "2026-10-17"
@@ -12053,7 +12056,7 @@
    "section": "swe",
    "posted": "2026-09-25",
    "added": "2026-09-27T08:00:50.000Z",
-   "pay": "$37k–82k/yr",
+   "pay": "$37k–$82k/yr",
    "url": "https://aplyr.ai/jobs/aad97aab6ae1/2027-network-engineering-intern?utm_source=github&utm_medium=joblist&utm_campaign=summer-2027-internships&utm_content=apply",
    "sponsorsH1B": true,
    "firstSeen": "2026-10-17"
@@ -12177,7 +12180,7 @@
    "section": "data",
    "posted": "2026-09-24",
    "added": "2026-09-26T05:46:41.000Z",
-   "pay": "$131k–285k/yr",
+   "pay": "$130.6k–$285k/yr",
    "url": "https://aplyr.ai/jobs/23ffdfcec294/machine-learning-intern-masters-summer-2027?utm_source=github&utm_medium=joblist&utm_campaign=summer-2027-internships&utm_content=apply",
    "sponsorsH1B": true,
    "firstSeen": "2026-10-17"
@@ -12304,7 +12307,7 @@
    "section": "data",
    "posted": "2026-09-23",
    "added": "2026-09-23T05:47:20.000Z",
-   "pay": "$20–35/hr",
+   "pay": "$20–$35/hr",
    "url": "https://aplyr.ai/jobs/710e7141fb99/summer-2027-internship-data-engineering-indiana?utm_source=github&utm_medium=joblist&utm_campaign=summer-2027-internships&utm_content=apply",
    "sponsorsH1B": true,
    "firstSeen": "2026-10-17"
@@ -12352,7 +12355,7 @@
    "section": "data",
    "posted": "2026-09-23",
    "added": "2026-09-23T08:01:44.000Z",
-   "pay": "$70–85/hr",
+   "pay": "$70–$85/hr",
    "url": "https://aplyr.ai/jobs/aca431d291dd/2027-summer-intern-msphd-machine-learning-engineer-simulator-realism-evaluation?utm_source=github&utm_medium=joblist&utm_campaign=summer-2027-internships&utm_content=apply",
    "sponsorsH1B": true,
    "firstSeen": "2026-10-17"
@@ -12515,7 +12518,7 @@
    "section": "data",
    "posted": "2026-09-22",
    "added": "2026-09-23T08:01:44.000Z",
-   "pay": "$70–85/hr",
+   "pay": "$70–$85/hr",
    "url": "https://aplyr.ai/jobs/ee15a5244aba/2027-summer-intern-msphd-machine-learning-engineer?utm_source=github&utm_medium=joblist&utm_campaign=summer-2027-internships&utm_content=apply",
    "sponsorsH1B": true,
    "firstSeen": "2026-10-17"
@@ -12562,7 +12565,7 @@
    "section": "swe",
    "posted": "2026-09-21",
    "added": "2026-09-22T08:01:23.000Z",
-   "pay": "$70–85/hr",
+   "pay": "$70–$85/hr",
    "url": "https://aplyr.ai/jobs/c90870c95ce7/2027-summer-intern-msphd-softwareml-engineer-simulation?utm_source=github&utm_medium=joblist&utm_campaign=summer-2027-internships&utm_content=apply",
    "sponsorsH1B": true,
    "firstSeen": "2026-10-17"
@@ -12578,7 +12581,7 @@
    "section": "swe",
    "posted": "2026-09-21",
    "added": "2026-09-22T08:01:23.000Z",
-   "pay": "$70–85/hr",
+   "pay": "$70–$85/hr",
    "url": "https://aplyr.ai/jobs/32149468795a/2027-summer-intern-msphd-software-engineer-simulation-evaluation-ml-model?utm_source=github&utm_medium=joblist&utm_campaign=summer-2027-internships&utm_content=apply",
    "sponsorsH1B": true,
    "firstSeen": "2026-10-17"
@@ -12685,7 +12688,7 @@
    "section": "swe",
    "posted": "2026-09-19",
    "added": "2026-09-20T08:00:36.000Z",
-   "pay": "$37k–82k/yr",
+   "pay": "$37k–$82k/yr",
    "url": "https://aplyr.ai/jobs/0919735051e6/software-project-engineer-intern-summer-2027-onsite?utm_source=github&utm_medium=joblist&utm_campaign=summer-2027-internships&utm_content=apply",
    "sponsorsH1B": true,
    "firstSeen": "2026-10-17"
@@ -12701,7 +12704,7 @@
    "section": "data",
    "posted": "2026-09-19",
    "added": "2026-09-20T05:16:46.000Z",
-   "pay": "$18–37/hr",
+   "pay": "$18–$37/hr",
    "url": "https://aplyr.ai/jobs/e704fa878138/summer-2027-advanced-analytics-intern?utm_source=github&utm_medium=joblist&utm_campaign=summer-2027-internships&utm_content=apply",
    "sponsorsH1B": true,
    "firstSeen": "2026-10-18"
@@ -12732,7 +12735,7 @@
    "section": "swe",
    "posted": "2026-09-18",
    "added": "2026-09-19T08:01:54.000Z",
-   "pay": "$70–85/hr",
+   "pay": "$70–$85/hr",
    "url": "https://aplyr.ai/jobs/0c1787fe6cbd/2027-summer-intern-msphd-software-engineer-multiverse?utm_source=github&utm_medium=joblist&utm_campaign=summer-2027-internships&utm_content=apply",
    "sponsorsH1B": true,
    "firstSeen": "2026-10-17"
@@ -12764,7 +12767,7 @@
    "section": "data",
    "posted": "2026-09-18",
    "added": "2026-09-19T08:01:54.000Z",
-   "pay": "$70–85/hr",
+   "pay": "$70–$85/hr",
    "url": "https://aplyr.ai/jobs/5b2c92dafd2b/2027-summer-intern-msphd-product-data-science?utm_source=github&utm_medium=joblist&utm_campaign=summer-2027-internships&utm_content=apply",
    "sponsorsH1B": true,
    "firstSeen": "2026-10-17"
@@ -12780,7 +12783,6 @@
    "section": "swe",
    "posted": "2026-09-18",
    "added": "2026-09-19T07:45:54.000Z",
-   "pay": "$150k–160k/yr",
    "url": "https://aplyr.ai/jobs/e2c907814a58/systems-research-engineer-intern-gpu-programming-summer-2027?utm_source=github&utm_medium=joblist&utm_campaign=summer-2027-internships&utm_content=apply",
    "firstSeen": "2026-10-17"
   },
@@ -12795,7 +12797,7 @@
    "section": "data",
    "posted": "2026-09-18",
    "added": "2026-09-18T10:45:24.000Z",
-   "pay": "$20–35/hr",
+   "pay": "$20–$35/hr",
    "url": "https://aplyr.ai/jobs/0271481444ce/2027-guardian-summer-intern-corporate-finance-risk-investment-reporting-data-ana?utm_source=github&utm_medium=joblist&utm_campaign=summer-2027-internships&utm_content=apply",
    "sponsorsH1B": true,
    "firstSeen": "2026-10-17"
@@ -13230,7 +13232,7 @@
    "section": "swe",
    "posted": "2026-09-17",
    "added": "2026-10-22T08:01:12.000Z",
-   "pay": "$60–70/hr",
+   "pay": "$60–$70/hr",
    "url": "https://aplyr.ai/jobs/433c680b40f0/2027-summer-intern-bsms-software-engineering-maneuvering-tech?utm_source=github&utm_medium=joblist&utm_campaign=summer-2027-internships&utm_content=apply",
    "sponsorsH1B": true,
    "firstSeen": "2026-10-22"
@@ -13281,7 +13283,7 @@
    "section": "quant",
    "posted": "2026-09-16",
    "added": "2026-09-17T08:01:29.000Z",
-   "pay": "$70–85/hr",
+   "pay": "$70–$85/hr",
    "url": "https://aplyr.ai/jobs/1784dd7f9519/2027-summer-intern-ms-phd-quantitative-software-engineer?utm_source=github&utm_medium=joblist&utm_campaign=summer-2027-internships&utm_content=apply",
    "sponsorsH1B": true,
    "firstSeen": "2026-10-23"
@@ -13343,7 +13345,7 @@
    "section": "swe",
    "posted": "2026-09-15",
    "added": "2026-09-17T05:01:13.000Z",
-   "pay": "$42–60/hr",
+   "pay": "$42–$60/hr",
    "url": "https://aplyr.ai/jobs/0d5183cfae26/2027-flight-software-engineer-intern?utm_source=github&utm_medium=joblist&utm_campaign=summer-2027-internships&utm_content=apply",
    "noSponsorship": true,
    "firstSeen": "2026-10-17"
@@ -13485,7 +13487,7 @@
    "section": "swe",
    "posted": "2026-09-14",
    "added": "2026-09-17T05:46:19.000Z",
-   "pay": "$107k–158k/yr",
+   "pay": "$107.4k–$158k/yr",
    "url": "https://aplyr.ai/jobs/0dc97601a272/software-engineer-intern-summer-2027-us?utm_source=github&utm_medium=joblist&utm_campaign=summer-2027-internships&utm_content=apply",
    "noSponsorship": true,
    "firstSeen": "2026-10-17"
@@ -13502,7 +13504,7 @@
    "section": "swe",
    "posted": "2026-09-14",
    "added": "2026-09-17T08:01:29.000Z",
-   "pay": "$60–70/hr",
+   "pay": "$60–$70/hr",
    "url": "https://aplyr.ai/jobs/ddb4bd2f210c/2027-summer-intern-bsms-software-engineering-commercialization?utm_source=github&utm_medium=joblist&utm_campaign=summer-2027-internships&utm_content=apply",
    "sponsorsH1B": true,
    "firstSeen": "2026-10-17"
@@ -13533,7 +13535,7 @@
    "section": "swe",
    "posted": "2026-09-14",
    "added": "2026-09-17T06:46:01.000Z",
-   "pay": "$19–28/hr",
+   "pay": "$19–$28/hr",
    "url": "https://aplyr.ai/jobs/828430e45b28/it-application-development-intern-inforce-summer-2027?utm_source=github&utm_medium=joblist&utm_campaign=summer-2027-internships&utm_content=apply",
    "noSponsorship": true,
    "firstSeen": "2026-10-17"
@@ -13597,7 +13599,7 @@
    "section": "hw",
    "posted": "2026-09-14",
    "added": "2026-09-17T08:46:09.000Z",
-   "pay": "$20–24/hr",
+   "pay": "$20–$24/hr",
    "url": "https://aplyr.ai/jobs/176fc463c767/2027-summer-intern-electrical-engineering?utm_source=github&utm_medium=joblist&utm_campaign=summer-2027-internships&utm_content=apply",
    "firstSeen": "2026-10-17"
   },
@@ -13838,7 +13840,7 @@
    "section": "data",
    "posted": "2026-09-11",
    "added": "2026-09-17T08:01:29.000Z",
-   "pay": "$20–25/hr",
+   "pay": "$20–$25/hr",
    "url": "https://aplyr.ai/jobs/37aef707109c/customer-care-ai-analyst-intern-summer-2027?utm_source=github&utm_medium=joblist&utm_campaign=summer-2027-internships&utm_content=apply",
    "sponsorsH1B": true,
    "firstSeen": "2026-10-17"
@@ -13855,7 +13857,7 @@
    "section": "data",
    "posted": "2026-09-11",
    "added": "2026-09-17T08:01:29.000Z",
-   "pay": "$20–25/hr",
+   "pay": "$20–$25/hr",
    "url": "https://aplyr.ai/jobs/df66fd1d4608/people-culture-ai-transformation-intern-summer-2027?utm_source=github&utm_medium=joblist&utm_campaign=summer-2027-internships&utm_content=apply",
    "sponsorsH1B": true,
    "firstSeen": "2026-10-17"
@@ -13872,7 +13874,7 @@
    "section": "data",
    "posted": "2026-09-11",
    "added": "2026-09-17T06:30:57.000Z",
-   "pay": "$58–62/hr",
+   "pay": "$58–$62/hr",
    "url": "https://aplyr.ai/jobs/00579ec6c64a/data-science-intern-algorithms-summer-2027-sfnyc?utm_source=github&utm_medium=joblist&utm_campaign=summer-2027-internships&utm_content=apply",
    "sponsorsH1B": true,
    "firstSeen": "2026-10-17"
@@ -13888,7 +13890,7 @@
    "section": "swe",
    "posted": "2026-09-11",
    "added": "2026-09-17T06:30:57.000Z",
-   "pay": "$52–58/hr",
+   "pay": "$52–$58/hr",
    "url": "https://aplyr.ai/jobs/36671a4347fc/software-engineer-intern-backend-summer-2027-sf?utm_source=github&utm_medium=joblist&utm_campaign=summer-2027-internships&utm_content=apply",
    "sponsorsH1B": true,
    "firstSeen": "2026-10-17"
@@ -13904,7 +13906,7 @@
    "section": "data",
    "posted": "2026-09-11",
    "added": "2026-09-17T08:01:29.000Z",
-   "pay": "$20–25/hr",
+   "pay": "$20–$25/hr",
    "url": "https://aplyr.ai/jobs/b1560978245c/aiml-intern-summer-2027?utm_source=github&utm_medium=joblist&utm_campaign=summer-2027-internships&utm_content=apply",
    "sponsorsH1B": true,
    "firstSeen": "2026-10-17"
@@ -13921,7 +13923,7 @@
    "section": "data",
    "posted": "2026-09-11",
    "added": "2026-09-17T08:01:29.000Z",
-   "pay": "$20–25/hr",
+   "pay": "$20–$25/hr",
    "url": "https://aplyr.ai/jobs/5bf866d8bdc8/data-analytics-programs-intern-summer-2027?utm_source=github&utm_medium=joblist&utm_campaign=summer-2027-internships&utm_content=apply",
    "sponsorsH1B": true,
    "firstSeen": "2026-10-17"
@@ -13938,7 +13940,7 @@
    "section": "data",
    "posted": "2026-09-11",
    "added": "2026-09-17T08:01:29.000Z",
-   "pay": "$20–25/hr",
+   "pay": "$20–$25/hr",
    "url": "https://aplyr.ai/jobs/59fa1b3017f6/ai-automation-engineering-intern-summer-2027?utm_source=github&utm_medium=joblist&utm_campaign=summer-2027-internships&utm_content=apply",
    "sponsorsH1B": true,
    "firstSeen": "2026-10-17"
@@ -13954,7 +13956,7 @@
    "section": "swe",
    "posted": "2026-09-11",
    "added": "2026-09-17T08:46:09.000Z",
-   "pay": "$25–35/hr",
+   "pay": "$25–$35/hr",
    "url": "https://aplyr.ai/jobs/e5de003134d7/summer-2027-internship-computational-and-software-engineering?utm_source=github&utm_medium=joblist&utm_campaign=summer-2027-internships&utm_content=apply",
    "noSponsorship": true,
    "firstSeen": "2026-10-17"
@@ -14066,7 +14068,7 @@
    "section": "swe",
    "posted": "2026-09-10",
    "added": "2026-09-17T07:45:53.000Z",
-   "pay": "$55–60/hr",
+   "pay": "$55–$60/hr",
    "url": "https://aplyr.ai/jobs/9a4a84387c3b/software-engineering-intern-summer-2027?utm_source=github&utm_medium=joblist&utm_campaign=summer-2027-internships&utm_content=apply",
    "sponsorsH1B": true,
    "firstSeen": "2026-10-17"
@@ -14102,9 +14104,151 @@
    "url": "https://aplyr.ai/jobs/8bb7fc474466/flight-software-intern-summer-2027?utm_source=github&utm_medium=joblist&utm_campaign=summer-2027-internships&utm_content=apply",
    "noSponsorship": true,
    "firstSeen": "2026-10-19"
+  },
+  "dominodatalab.com::software engineer intern campus recruiting 2027": {
+   "id": "dbd47a3e6028",
+   "company": "Domino Data Lab",
+   "companyUrl": "https://aplyr.ai/companies/dominodatalab?utm_source=github&utm_medium=joblist&utm_campaign=summer-2027-internships&utm_content=company",
+   "title": "Software Engineer, Intern - Campus Recruiting 2027",
+   "locations": [
+    "New York City, New York"
+   ],
+   "section": "swe",
+   "posted": "2026-09-09",
+   "added": "2026-09-17T05:46:19.000Z",
+   "pay": "$50–$55/hr",
+   "url": "https://aplyr.ai/jobs/dbd47a3e6028/software-engineer-intern-campus-recruiting-2027?utm_source=github&utm_medium=joblist&utm_campaign=summer-2027-internships&utm_content=apply",
+   "sponsorsH1B": true,
+   "firstSeen": "2026-11-04"
+  },
+  "k2space.com::simulation software engineering intern summer 2027": {
+   "id": "8aa99e934247",
+   "company": "K2 Space",
+   "companyUrl": "https://aplyr.ai/companies/k2space?utm_source=github&utm_medium=joblist&utm_campaign=summer-2027-internships&utm_content=company",
+   "title": "Simulation Software Engineering Intern - Summer 2027",
+   "locations": [
+    "Los Angeles, CA"
+   ],
+   "section": "swe",
+   "posted": "2026-09-09",
+   "added": "2026-09-18T04:15:29.000Z",
+   "pay": "$30–$40/hr",
+   "url": "https://aplyr.ai/jobs/8aa99e934247/simulation-software-engineering-intern-summer-2027?utm_source=github&utm_medium=joblist&utm_campaign=summer-2027-internships&utm_content=apply",
+   "firstSeen": "2026-11-04"
+  },
+  "auto-owners.com::intelligent automation developer internship summer 2027": {
+   "id": "618f345f6c8c",
+   "company": "Auto-Owners Insurance",
+   "companyUrl": "https://aplyr.ai/companies/auto-owners?utm_source=github&utm_medium=joblist&utm_campaign=summer-2027-internships&utm_content=company",
+   "title": "Intelligent Automation Developer Internship - Summer 2027",
+   "locations": [
+    "Lansing, MI"
+   ],
+   "section": "swe",
+   "posted": "2026-09-09",
+   "added": "2026-10-18T00:11:50.000Z",
+   "url": "https://aplyr.ai/jobs/618f345f6c8c/intelligent-automation-developer-internship-summer-2027?utm_source=github&utm_medium=joblist&utm_campaign=summer-2027-internships&utm_content=apply",
+   "firstSeen": "2026-11-04"
   }
  },
  "closed": {
+  "moog.com::intern quality engineering": {
+   "id": "586c6d1d9f52",
+   "company": "Moog",
+   "companyUrl": "https://aplyr.ai/companies/moog?utm_source=github&utm_medium=joblist&utm_campaign=summer-2027-internships&utm_content=company",
+   "title": "Intern, Quality Engineering",
+   "locations": [
+    "Torrance, CA"
+   ],
+   "section": "swe",
+   "posted": "2026-10-21",
+   "added": "2026-10-21T20:20:42.000Z",
+   "url": "https://aplyr.ai/jobs/586c6d1d9f52/intern-quality-engineering?utm_source=github&utm_medium=joblist&utm_campaign=summer-2027-internships&utm_content=apply",
+   "sponsorsH1B": true,
+   "firstSeen": "2026-10-22",
+   "closedAt": "2026-11-04"
+  },
+  "global.abb::ai engineering erp intern summer 2027": {
+   "id": "f9070d51320e",
+   "company": "ABB",
+   "companyUrl": "https://aplyr.ai/companies/global?utm_source=github&utm_medium=joblist&utm_campaign=summer-2027-internships&utm_content=company",
+   "title": "AI Engineering, ERP Intern- Summer 2027",
+   "locations": [
+    "USA, NC, Cary"
+   ],
+   "section": "data",
+   "posted": "2026-10-07",
+   "added": "2026-10-18T00:22:00.000Z",
+   "url": "https://aplyr.ai/jobs/f9070d51320e/ai-engineering-erp-intern-summer-2027?utm_source=github&utm_medium=joblist&utm_campaign=summer-2027-internships&utm_content=apply",
+   "sponsorsH1B": true,
+   "firstSeen": "2026-10-18",
+   "closedAt": "2026-11-04"
+  },
+  "global.abb::ai engineering business systems intern summer 2027": {
+   "id": "e77befa2de59",
+   "company": "ABB",
+   "companyUrl": "https://aplyr.ai/companies/global?utm_source=github&utm_medium=joblist&utm_campaign=summer-2027-internships&utm_content=company",
+   "title": "AI Engineering, Business Systems Intern- Summer 2027",
+   "locations": [
+    "USA, NC, Cary"
+   ],
+   "section": "data",
+   "posted": "2026-10-06",
+   "added": "2026-10-18T00:22:00.000Z",
+   "url": "https://aplyr.ai/jobs/e77befa2de59/ai-engineering-business-systems-intern-summer-2027?utm_source=github&utm_medium=joblist&utm_campaign=summer-2027-internships&utm_content=apply",
+   "sponsorsH1B": true,
+   "firstSeen": "2026-10-18",
+   "closedAt": "2026-11-04"
+  },
+  "thehartford.com::tech data program summer 2027 data engineer intern hartford": {
+   "id": "738ff7590687",
+   "company": "The Hartford",
+   "companyUrl": "https://aplyr.ai/companies/thehartford?utm_source=github&utm_medium=joblist&utm_campaign=summer-2027-internships&utm_content=company",
+   "title": "Tech & Data Program Summer 2027 – Data Engineer Intern (Hartford)",
+   "locations": [
+    "Hartford, CT"
+   ],
+   "section": "data",
+   "posted": "2026-10-02",
+   "added": "2026-10-17T22:29:32.000Z",
+   "url": "https://aplyr.ai/jobs/738ff7590687/tech-data-program-summer-2027-data-engineer-intern-hartford?utm_source=github&utm_medium=joblist&utm_campaign=summer-2027-internships&utm_content=apply",
+   "sponsorsH1B": true,
+   "firstSeen": "2026-10-17",
+   "closedAt": "2026-11-04"
+  },
+  "thehartford.com::tech data program summer 2027 software engineer intern hartford": {
+   "id": "67713c9aba4b",
+   "company": "The Hartford",
+   "companyUrl": "https://aplyr.ai/companies/thehartford?utm_source=github&utm_medium=joblist&utm_campaign=summer-2027-internships&utm_content=company",
+   "title": "Tech & Data Program Summer 2027 - Software Engineer Intern (Hartford)",
+   "locations": [
+    "Hartford, CT"
+   ],
+   "section": "swe",
+   "posted": "2026-10-02",
+   "added": "2026-10-17T22:29:32.000Z",
+   "url": "https://aplyr.ai/jobs/67713c9aba4b/tech-data-program-summer-2027-software-engineer-intern-hartford?utm_source=github&utm_medium=joblist&utm_campaign=summer-2027-internships&utm_content=apply",
+   "sponsorsH1B": true,
+   "firstSeen": "2026-10-17",
+   "closedAt": "2026-11-04"
+  },
+  "globalfoundries.com::internal audit intern summer 2027": {
+   "id": "4318bb902765",
+   "company": "GlobalFoundries",
+   "companyUrl": "https://aplyr.ai/companies/globalfoundries?utm_source=github&utm_medium=joblist&utm_campaign=summer-2027-internships&utm_content=company",
+   "title": "Internal Audit Intern (Summer 2027)",
+   "locations": [
+    "USA - Texas - Austin",
+    "USA - New York - Malta"
+   ],
+   "section": "swe",
+   "posted": "2026-09-28",
+   "added": "2026-10-17T22:29:18.000Z",
+   "url": "https://aplyr.ai/jobs/4318bb902765/internal-audit-intern-summer-2027?utm_source=github&utm_medium=joblist&utm_campaign=summer-2027-internships&utm_content=apply",
+   "sponsorsH1B": true,
+   "firstSeen": "2026-10-18",
+   "closedAt": "2026-11-04"
+  },
   "nxp.com::hw sw system and application engineer intern summer 2027": {
    "id": "31e142b690b0",
    "company": "NXP Semiconductors",
@@ -16802,22 +16946,6 @@
    "firstSeen": "2026-10-24",
    "closedAt": "2026-10-30"
   },
-  "advocatehealth.com::enterprise internship information technology": {
-   "id": "ce59c41a923e",
-   "company": "Advocate Aurora Health",
-   "companyUrl": "https://aplyr.ai/companies/advocatehealth?utm_source=github&utm_medium=joblist&utm_campaign=summer-2027-internships&utm_content=company",
-   "title": "Enterprise Internship, Information Technology",
-   "locations": [
-    "Atrium Health Navicent The Medical Center - 777 Hemlock St, Macon, GA"
-   ],
-   "section": "swe",
-   "posted": "2026-10-14",
-   "added": "2026-10-18T12:15:56.000Z",
-   "pay": "$21/hr",
-   "url": "https://aplyr.ai/jobs/ce59c41a923e/enterprise-internship-information-technology?utm_source=github&utm_medium=joblist&utm_campaign=summer-2027-internships&utm_content=apply",
-   "firstSeen": "2026-10-18",
-   "closedAt": "2026-10-30"
-  },
   "qtsdatacenters.com::summer 2027 internship information security operations analyst": {
    "id": "49b235aafc85",
    "company": "QTS",
@@ -18899,87 +19027,6 @@
    "url": "https://aplyr.ai/jobs/447522d041e5/energy-product-analytics-intern-co?utm_source=github&utm_medium=joblist&utm_campaign=summer-2027-internships&utm_content=apply",
    "sponsorsH1B": true,
    "firstSeen": "2026-10-21",
-   "closedAt": "2026-10-26"
-  },
-  "northropgrumman.com::2027aeronautical integration and test intern huntsville al": {
-   "id": "cf3d88169482",
-   "company": "Northrop Grumman",
-   "companyUrl": "https://aplyr.ai/companies/northropgrumman?utm_source=github&utm_medium=joblist&utm_campaign=summer-2027-internships&utm_content=company",
-   "title": "2027Aeronautical Integration and Test Intern - Huntsville AL",
-   "locations": [
-    "United States-Alabama-Huntsville"
-   ],
-   "section": "hw",
-   "posted": "2026-10-20",
-   "added": "2026-10-21T08:01:33.000Z",
-   "url": "https://aplyr.ai/jobs/cf3d88169482/2027aeronautical-integration-and-test-intern-huntsville-al?utm_source=github&utm_medium=joblist&utm_campaign=summer-2027-internships&utm_content=apply",
-   "sponsorsH1B": true,
-   "firstSeen": "2026-10-21",
-   "closedAt": "2026-10-26"
-  },
-  "verizon.com::verizon consumer group data science summer 2027 internship": {
-   "id": "9e1a9e83fa3a",
-   "company": "Verizon",
-   "companyUrl": "https://aplyr.ai/companies/verizon?utm_source=github&utm_medium=joblist&utm_campaign=summer-2027-internships&utm_content=company",
-   "title": "Verizon Consumer Group: Data Science Summer 2027 Internship",
-   "locations": [
-    "Basking Ridge, New Jersey"
-   ],
-   "section": "data",
-   "posted": "2026-10-20",
-   "added": "2026-10-20T12:45:22.000Z",
-   "pay": "$27/hr",
-   "url": "https://aplyr.ai/jobs/9e1a9e83fa3a/verizon-consumer-group-data-science-summer-2027-internship?utm_source=github&utm_medium=joblist&utm_campaign=summer-2027-internships&utm_content=apply",
-   "sponsorsH1B": true,
-   "firstSeen": "2026-10-20",
-   "closedAt": "2026-10-26"
-  },
-  "verizon.com::basking ridge nj vteamer for a day verizon consumer group data science summer 2027 internship": {
-   "id": "45cf8b8a2adc",
-   "company": "Verizon",
-   "companyUrl": "https://aplyr.ai/companies/verizon?utm_source=github&utm_medium=joblist&utm_campaign=summer-2027-internships&utm_content=company",
-   "title": "Basking Ridge, NJ: VTeamer for a Day: Verizon Consumer Group: Data Science Summer 2027 Internship",
-   "locations": [
-    "Basking Ridge, New Jersey"
-   ],
-   "section": "data",
-   "posted": "2026-10-20",
-   "added": "2026-10-20T12:45:22.000Z",
-   "pay": "$27/hr",
-   "url": "https://aplyr.ai/jobs/45cf8b8a2adc/basking-ridge-nj-vteamer-for-a-day-verizon-consumer-group-data-science-summer-20?utm_source=github&utm_medium=joblist&utm_campaign=summer-2027-internships&utm_content=apply",
-   "sponsorsH1B": true,
-   "firstSeen": "2026-10-20",
-   "closedAt": "2026-10-26"
-  },
-  "skydio.com::embedded software engineer intern summer 2027": {
-   "id": "acdfc44fbea4",
-   "company": "Skydio",
-   "companyUrl": "https://aplyr.ai/companies/skydio?utm_source=github&utm_medium=joblist&utm_campaign=summer-2027-internships&utm_content=company",
-   "title": "Embedded Software Engineer Intern - Summer 2027",
-   "locations": [
-    "San Mateo, California"
-   ],
-   "section": "swe",
-   "posted": "2026-10-13",
-   "added": "2026-10-15T09:46:02.000Z",
-   "pay": "$47/hr",
-   "url": "https://aplyr.ai/jobs/acdfc44fbea4/embedded-software-engineer-intern-summer-2027?utm_source=github&utm_medium=joblist&utm_campaign=summer-2027-internships&utm_content=apply",
-   "firstSeen": "2026-10-17",
-   "closedAt": "2026-10-26"
-  },
-  "rhombus.com::software engineering intern summer 2027": {
-   "id": "81d2cd4f23c7",
-   "company": "Rhombus",
-   "companyUrl": "https://aplyr.ai/companies/rhombus?utm_source=github&utm_medium=joblist&utm_campaign=summer-2027-internships&utm_content=company",
-   "title": "Software Engineering Intern - Summer 2027",
-   "locations": [
-    "Sacramento, CA"
-   ],
-   "section": "swe",
-   "posted": "2026-10-13",
-   "added": "2026-10-15T08:46:12.000Z",
-   "url": "https://aplyr.ai/jobs/81d2cd4f23c7/software-engineering-intern-summer-2027?utm_source=github&utm_medium=joblist&utm_campaign=summer-2027-internships&utm_content=apply",
-   "firstSeen": "2026-10-17",
    "closedAt": "2026-10-26"
   }
  }
