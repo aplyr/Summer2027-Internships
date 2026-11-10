@@ -4,7 +4,7 @@ Thanks for helping keep this list accurate. A few things to know first.
 
 ## The tables are generated
 
-Everything between the `APLYR:LISTINGS` markers in `README.md` is rebuilt every day by `scripts/generate.mjs` from [Aplyr](https://aplyr.ai)'s job index. Pull requests that edit rows by hand will be overwritten on the next run, so please open an issue instead. Fixes to the index show up here automatically the next day.
+Everything between the `APLYR:LISTINGS` markers in `README.md`, and every page in `listings/` (the full listing of a section once it's too long for the README), is rebuilt every day by `scripts/generate.mjs` from [Aplyr](https://aplyr.ai)'s job index. Pull requests that edit rows by hand will be overwritten on the next run, so please open an issue instead. Fixes to the index show up here automatically the next day.
 
 Text outside the markers (this file, the intro, the how-to) is written by people, and PRs to it are welcome.
 

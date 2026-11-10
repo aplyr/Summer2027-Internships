@@ -3,14 +3,19 @@
  * Aplyr job-list README generator. Zero dependencies (Node >= 18).
  *
  * Runs inside a public job-list repo (daily GitHub Action) and:
- *   1. fetches the list export  GET https://aplyr.ai/api/public/job-lists/<slug>.json
+ *   1. fetches the list export  GET https://aplyr.ai/api/public/job-lists/<slug>.json?v=2
+ *      (every open row; without v=2 the export is capped for older generators)
  *   2. merges it with data/listings.json (open rows, recently closed rows)
  *   3. rewrites README.md between the APLYR:LISTINGS markers
- *      (creates a full README on first run)
+ *      (creates a full README on first run). The README holds every row while
+ *      it fits GitHub's render limit; past that each section shows its newest
+ *      rows and links to its full listing in listings/<section>.md, split into
+ *      numbered pages (listings/<section>-2.md, …) that each fit the limit.
  *
  * Writes nothing when the listings are unchanged, so the workflow only commits
  * real changes. Refuses to write when the export suddenly shrinks (outage
- * guard) unless --force.
+ * guard) unless --force. Removes listing pages it generated that are no
+ * longer needed.
  *
  * Usage (from the repo root):
  *   node scripts/generate.mjs                      # reads ./aplyr-list.json
@@ -24,7 +29,7 @@
  * copy via scaffold.mjs. Edit it there, not in the repos.
  */
 
-import { readFile, writeFile, mkdir } from 'node:fs/promises';
+import { readFile, writeFile, mkdir, readdir, unlink } from 'node:fs/promises';
 import { existsSync } from 'node:fs';
 import path from 'node:path';
 import { pathToFileURL } from 'node:url';
@@ -100,9 +105,12 @@ export function anchor(heading) {
 
 // ─── Validation ───────────────────────────────────────────────────────────
 
+/** Export versions this generator reads: 1 = capped rows (older API), 2 = every open row. */
+export const EXPORT_VERSIONS = new Set([1, 2]);
+
 export function validateExport(exp) {
   if (!exp || typeof exp !== 'object') throw new Error('export: not an object');
-  if (exp.version !== 1) throw new Error(`export: unsupported version ${exp.version}`);
+  if (!EXPORT_VERSIONS.has(exp.version)) throw new Error(`export: unsupported version ${exp.version}`);
   if (!Array.isArray(exp.jobs) || !Array.isArray(exp.sections)) throw new Error('export: missing jobs/sections');
   for (const j of exp.jobs) {
     if (!j || typeof j.key !== 'string' || typeof j.title !== 'string' || typeof j.company !== 'string') {
@@ -192,9 +200,18 @@ export function collapseReason(prev, exp) {
 
 // ─── Rendering ────────────────────────────────────────────────────────────
 
-/** Size budget for the generated block. GitHub stops rendering very large
- *  READMEs, so past this the tables drop the per-company links (≈30% smaller). */
+/** Size budget for the generated README block. GitHub stops rendering very
+ *  large READMEs (~512 KB), so past this the tables first drop the per-company
+ *  links (≈30% smaller), then each section shows only its newest rows and
+ *  links to its full listing pages. */
 export const MAX_BLOCK_BYTES = 450_000;
+/** Size budget for each listings/ page (same GitHub render limit). */
+export const MAX_PAGE_BYTES = 450_000;
+/** Folder for the full per-section listings, relative to the repo root. */
+export const LISTINGS_DIR = 'listings';
+/** First line of every generated listing page; only files carrying it are
+ *  ever rewritten or deleted by the generator. */
+export const PAGE_MARKER = '<!-- APLYR:GENERATED listing page. Rebuilt daily by scripts/generate.mjs; edits are overwritten. -->';
 
 /** "New" = entered Aplyr's index within this window. */
 export const NEW_WINDOW_HOURS = 48;
@@ -277,24 +294,35 @@ function sortRows(rows) {
   );
 }
 
-/** One section's table. Column order + names are ours: Role first, then the
- *  employer, where, pay, when, and the link. The company links to its Aplyr
- *  page on its first row in the section only (keeps the README small). */
-export function renderOpenTable(rows, { showLevel, nowMs, compact = false }) {
-  const head = showLevel
+function tableHead(showLevel) {
+  return showLevel
     ? '| Role | Level | Company | Location | Pay | Posted | |\n| --- | --- | --- | --- | --- | --- | --- |'
     : '| Role | Company | Location | Pay | Posted | |\n| --- | --- | --- | --- | --- | --- |';
-  const lines = [head];
+}
+
+/** One table row, or null when the row has no safe link. `linked` = companies
+ *  already linked in this table (each company links on its first row only). */
+function rowLine(job, { showLevel, nowMs, compact, linked }) {
+  const url = safeUrl(job.url);
+  if (!url) return null;
+  const role = `${isNew(job, nowMs) ? `${BADGES.new} ` : ''}**${cell(job.title)}**${badges(job)}`;
+  const cols = [role];
+  if (showLevel) cols.push(cell(job.level ?? ''));
+  cols.push(companyCell(job, compact || linked.has(job.company)), locationCell(job), cell(job.pay ?? ''), shortDate(job.posted, nowMs), `[Apply](${url})`);
+  linked.add(job.company);
+  return `| ${cols.join(' | ')} |`;
+}
+
+/** One section's table. Column order + names are ours: Role first, then the
+ *  employer, where, pay, when, and the link. The company links to its Aplyr
+ *  page on its first row in the section only (keeps the README small).
+ *  `limit`: newest rows only. */
+export function renderOpenTable(rows, { showLevel, nowMs, compact = false, limit = Infinity }) {
+  const lines = [tableHead(showLevel)];
   const linked = new Set();
-  for (const job of sortRows([...rows])) {
-    const url = safeUrl(job.url);
-    if (!url) continue;
-    const role = `${isNew(job, nowMs) ? `${BADGES.new} ` : ''}**${cell(job.title)}**${badges(job)}`;
-    const cols = [role];
-    if (showLevel) cols.push(cell(job.level ?? ''));
-    cols.push(companyCell(job, compact || linked.has(job.company)), locationCell(job), cell(job.pay ?? ''), shortDate(job.posted, nowMs), `[Apply](${url})`);
-    linked.add(job.company);
-    lines.push(`| ${cols.join(' | ')} |`);
+  for (const job of sortRows([...rows]).slice(0, limit)) {
+    const line = rowLine(job, { showLevel, nowMs, compact, linked });
+    if (line) lines.push(line);
   }
   return lines.join('\n');
 }
@@ -331,13 +359,139 @@ function plural(n, word, many = `${word}s`) {
   return `${n.toLocaleString('en-US')} ${n === 1 ? word : many}`;
 }
 
-/** The generated block, markers included (compact past MAX_BLOCK_BYTES). */
-export function renderBlock(exp, state, nowMs) {
-  const full = renderBlockWith(exp, state, nowMs, false);
-  return Buffer.byteLength(full) > MAX_BLOCK_BYTES ? renderBlockWith(exp, state, nowMs, true) : full;
+const bytes = (s) => Buffer.byteLength(s);
+
+/** Safe file stem for a section key ("swe" → listings/swe.md). */
+export function sectionStem(key) {
+  return String(key).toLowerCase().replace(/[^a-z0-9]+/g, '-').replace(/^-+|-+$/g, '') || 'section';
 }
 
-function renderBlockWith(exp, state, nowMs, compact) {
+/** listings/ file for page `n` (1-based) of a section, relative to the repo root. */
+export function pagePath(key, n) {
+  return `${LISTINGS_DIR}/${sectionStem(key)}${n > 1 ? `-${n}` : ''}.md`;
+}
+
+/**
+ * Split a section's rows (newest first) into listing pages under
+ * MAX_PAGE_BYTES each. Returns arrays of rendered row lines.
+ */
+function splitPages(rows, { showLevel, nowMs }) {
+  // Room for the page's heading, nav, legend and table head.
+  const budget = MAX_PAGE_BYTES - 4_000;
+  const pages = [];
+  let lines = [];
+  let size = 0;
+  let linked = new Set();
+  for (const job of rows) {
+    let line = rowLine(job, { showLevel, nowMs, compact: false, linked });
+    if (!line) continue;
+    if (lines.length && size + bytes(line) + 1 > budget) {
+      pages.push(lines);
+      lines = [];
+      size = 0;
+      linked = new Set();
+      line = rowLine(job, { showLevel, nowMs, compact: false, linked });
+    }
+    lines.push(line);
+    size += bytes(line) + 1;
+  }
+  if (lines.length) pages.push(lines);
+  return pages;
+}
+
+function pageNav(key, n, total) {
+  const parts = [`[← Back to the list](../README.md)`];
+  if (n > 1) parts.push(`[← Page ${n - 1}](${pagePath(key, n - 1).slice(LISTINGS_DIR.length + 1)})`);
+  if (n < total) parts.push(`[Page ${n + 1} →](${pagePath(key, n + 1).slice(LISTINGS_DIR.length + 1)})`);
+  return parts.join(' · ');
+}
+
+/** Full listing pages for one section: Map(relative path → markdown). */
+function renderSectionPages(exp, section, rows, nowMs) {
+  const showLevel = !!exp.showLevel;
+  const pages = splitPages(rows, { showLevel, nowMs });
+  const out = new Map();
+  const companies = new Set(rows.map((j) => j.company)).size;
+  pages.forEach((lines, i) => {
+    const n = i + 1;
+    const nav = pageNav(section.key, n, pages.length);
+    const pageOf = pages.length > 1 ? ` · page ${n} of ${pages.length}` : '';
+    out.set(
+      pagePath(section.key, n),
+      [
+        PAGE_MARKER,
+        `# ${sectionHeading(section)}`,
+        '',
+        `**${plural(rows.length, 'open role')}** at **${plural(companies, 'company', 'companies')}**${pageOf} · ✅ Verified open ${longDate(nowMs)}`,
+        '',
+        `Part of [${cell(exp.title)}](../README.md), newest first. Every role is re-checked against the employer’s careers site daily.`,
+        '',
+        nav,
+        '',
+        `**Legend:** ${LEGEND.map(([b, t]) => `${b} ${t}`).join(' · ')}`,
+        '',
+        tableHead(showLevel),
+        ...lines,
+        '',
+        nav,
+        '',
+      ].join('\n'),
+    );
+  });
+  return out;
+}
+
+/**
+ * Everything the generator writes besides data/listings.json:
+ *   block — the README block, markers included, under MAX_BLOCK_BYTES:
+ *           every row with company links → every row without them → the
+ *           newest N rows per section (largest N that fits) with links to
+ *           the full listings;
+ *   files — Map(relative path → markdown) of listings/ pages for every
+ *           section the README cuts (empty while the README holds every row).
+ */
+export function renderOutputs(exp, state, nowMs) {
+  const open = Object.values(state.open);
+  const bySection = new Map(exp.sections.map((s) => [s.key, sortRows(open.filter((j) => j.section === s.key))]));
+  const fits = (b) => bytes(b) <= MAX_BLOCK_BYTES;
+  const full = renderBlockWith(exp, state, nowMs, { compact: false, bySection });
+  if (fits(full)) return { block: full, files: new Map() };
+  const compact = renderBlockWith(exp, state, nowMs, { compact: true, bySection });
+  if (fits(compact)) return { block: compact, files: new Map() };
+
+  // Every section's full listing pages, so the README's links name the real
+  // page count while N is searched; only cut sections' pages are written.
+  const sectionPages = new Map(exp.sections.map((s) => [s.key, renderSectionPages(exp, s, bySection.get(s.key) ?? [], nowMs)]));
+  const pages = new Map([...sectionPages].map(([k, m]) => [k, m.size]));
+  // Largest per-section row count that fits (block size grows with it).
+  const most = Math.max(0, ...[...bySection.values()].map((r) => r.length));
+  let lo = 0;
+  let hi = most;
+  while (lo < hi) {
+    const mid = Math.ceil((lo + hi) / 2);
+    if (fits(renderBlockWith(exp, state, nowMs, { compact: true, bySection, limit: mid, pages }))) lo = mid;
+    else hi = mid - 1;
+  }
+  const files = new Map();
+  for (const s of exp.sections) {
+    if ((bySection.get(s.key) ?? []).length > lo) for (const [p, md] of sectionPages.get(s.key)) files.set(p, md);
+  }
+  return { block: renderBlockWith(exp, state, nowMs, { compact: true, bySection, limit: lo, pages }), files };
+}
+
+/** The generated README block, markers included. */
+export function renderBlock(exp, state, nowMs) {
+  return renderOutputs(exp, state, nowMs).block;
+}
+
+/** "Showing the newest 300 of 1,234. All 1,234 roles: page 1 · page 2" */
+function moreLine(section, shown, total, pageCount) {
+  const links = Array.from({ length: Math.max(1, pageCount) }, (_, i) => `[${pageCount > 1 ? `page ${i + 1}` : `all ${total.toLocaleString('en-US')} roles`}](${pagePath(section.key, i + 1)})`);
+  const lead = shown ? `Showing the newest ${shown.toLocaleString('en-US')} of ${total.toLocaleString('en-US')}.` : `${plural(total, 'open role')}.`;
+  return `**${lead} Full ${section.label} listing:** ${pageCount > 1 ? `${links.join(' · ')} (newest first)` : links[0]}`;
+}
+
+function renderBlockWith(exp, state, nowMs, { compact, bySection, limit = Infinity, pages = new Map() }) {
   const open = Object.values(state.open);
   const closed = Object.values(state.closed);
   const companies = new Set(open.map((j) => j.company)).size;
@@ -352,7 +506,7 @@ function renderBlockWith(exp, state, nowMs, compact) {
   );
   out.push('');
   out.push(
-    '> Every role here was live on the employer’s careers site within the last 3 days.',
+    '> Every role here is re-checked against the employer’s careers site daily. Closed roles drop off.',
   );
   out.push('');
   if (autopilot) out.push(`**Apply to all of these with Autopilot:** [set it up once on Aplyr](${autopilot}) and it applies for you as new roles open.`, '');
@@ -382,10 +536,15 @@ function renderBlockWith(exp, state, nowMs, compact) {
   out.push('');
 
   for (const s of exp.sections) {
-    const rows = open.filter((j) => j.section === s.key);
+    const rows = bySection.get(s.key) ?? [];
     out.push(`## ${sectionHeading(s)}`, '');
     if (!rows.length) out.push('_Nothing open in this section right now. New postings show up here within a day._');
-    else out.push(renderOpenTable(rows, { showLevel: !!exp.showLevel, nowMs, compact }));
+    else {
+      const shown = Math.min(rows.length, limit);
+      if (shown) out.push(renderOpenTable(rows, { showLevel: !!exp.showLevel, nowMs, compact, limit: shown }));
+      // Cut section → link its full listing pages.
+      if (shown < rows.length) out.push('', moreLine(s, shown, rows.length, pages.get(s.key) ?? 1));
+    }
     out.push('', `<sub>[Back to top](#readme)</sub>`, '');
   }
 
@@ -438,6 +597,7 @@ ${exp.readmeIntro}
 - **Apply** opens the role on Aplyr, with the full description and a link to the employer's application.
 - ${LEGEND.map(([b, t]) => `${b} ${t}`).join('\n- ')}
 - Closed roles move to **${CLOSED_HEADING}** for ${CLOSED_RETENTION_DAYS} days.
+- When a section gets long, the README shows its newest roles and links to the section's full listing.
 
 Found a closed role or a mistake? [Open an issue](CONTRIBUTING.md).
 
@@ -456,7 +616,16 @@ async function readJson(file, fallback) {
   return JSON.parse(await readFile(file, 'utf8'));
 }
 
-export async function fetchExport(url, { attempts = 3, timeoutMs = 30000 } = {}) {
+/** The export URL this generator reads: the configured one with `v=2`
+ *  (every open row). Without it the API serves a capped v1 export, kept for
+ *  repos still on the older generator. */
+export function exportUrlV2(url) {
+  const u = new URL(url);
+  u.searchParams.set('v', '2');
+  return u.toString();
+}
+
+export async function fetchExport(url, { attempts = 3, timeoutMs = 60000 } = {}) {
   let lastErr;
   for (let i = 0; i < attempts; i++) {
     try {
@@ -481,7 +650,7 @@ export async function fetchExport(url, { attempts = 3, timeoutMs = 30000 } = {})
 export async function run({ dir = process.cwd(), fixture, nowMs = Date.now(), force = false, log = console.log } = {}) {
   const config = await readJson(path.join(dir, 'aplyr-list.json'), null);
   if (!config && !fixture) throw new Error('aplyr-list.json not found (or pass --fixture)');
-  const exp = validateExport(fixture ? JSON.parse(await readFile(fixture, 'utf8')) : await fetchExport(config.exportUrl));
+  const exp = validateExport(fixture ? JSON.parse(await readFile(fixture, 'utf8')) : await fetchExport(exportUrlV2(config.exportUrl)));
 
   const stateFile = path.join(dir, 'data', 'listings.json');
   const readmeFile = path.join(dir, 'README.md');
@@ -495,21 +664,48 @@ export async function run({ dir = process.cwd(), fixture, nowMs = Date.now(), fo
   }
 
   const state = mergeState(prev, exp, nowMs);
-  const block = renderBlock(exp, state, nowMs);
+  const { block, files } = renderOutputs(exp, state, nowMs);
   const readme = existsSync(readmeFile) ? await readFile(readmeFile, 'utf8') : null;
   const current = readme ? extractBlock(readme) : null;
 
-  if (current && sameListings(prev, state) && stableBlock(current) === stableBlock(block)) {
+  // Listing pages: write the ones that changed, delete generated ones no
+  // longer needed (only files carrying PAGE_MARKER are ever touched).
+  const existing = await generatedPages(dir);
+  const writes = [];
+  for (const [rel, md] of files) if (existing.get(rel) !== md) writes.push([rel, md]);
+  const stale = [...existing.keys()].filter((rel) => !files.has(rel));
+
+  if (current && sameListings(prev, state) && stableBlock(current) === stableBlock(block) && !writes.length && !stale.length) {
     log('No listing changes.');
     return { changed: false, reason: 'unchanged' };
   }
 
   const next = readme ? replaceBlock(readme, block) : null;
   await mkdir(path.dirname(stateFile), { recursive: true });
+  if (writes.length) await mkdir(path.join(dir, LISTINGS_DIR), { recursive: true });
+  for (const [rel, md] of writes) await writeFile(path.join(dir, rel), md);
+  for (const rel of stale) await unlink(path.join(dir, rel));
   await writeFile(readmeFile, next ?? (readme ? `${readme.trimEnd()}\n\n${block}\n` : initialReadme(exp, block)));
   await writeFile(stateFile, `${JSON.stringify(state, null, 1)}\n`);
-  log(`Updated: ${Object.keys(state.open).length} open, ${Object.keys(state.closed).length} recently closed.`);
+  log(
+    `Updated: ${Object.keys(state.open).length} open, ${Object.keys(state.closed).length} recently closed, ${files.size} listing page(s)` +
+      (stale.length ? `, ${stale.length} removed` : '') +
+      '.',
+  );
   return { changed: true, reason: readme ? 'updated' : 'created' };
+}
+
+/** Generated listing pages on disk: Map(relative path → content). */
+async function generatedPages(dir) {
+  const out = new Map();
+  const folder = path.join(dir, LISTINGS_DIR);
+  if (!existsSync(folder)) return out;
+  for (const name of await readdir(folder)) {
+    if (!/^[a-z0-9-]+\.md$/.test(name)) continue;
+    const text = await readFile(path.join(folder, name), 'utf8');
+    if (text.startsWith(PAGE_MARKER)) out.set(`${LISTINGS_DIR}/${name}`, text);
+  }
+  return out;
 }
 
 function parseArgs(argv) {

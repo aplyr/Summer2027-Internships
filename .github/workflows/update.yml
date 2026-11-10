@@ -34,15 +34,18 @@ jobs:
       - name: Regenerate README
         run: node scripts/generate.mjs ${{ inputs.force && '--force' || '' }}
 
+      # The generator writes README.md, data/ and listings/ (full section
+      # pages, created and removed as sections grow and shrink). git status
+      # sees new and deleted files, which `git diff` does not.
       - name: Commit changes
         run: |
-          if git diff --quiet -- README.md data; then
+          if [ -z "$(git status --porcelain)" ]; then
             echo "Nothing changed."
             exit 0
           fi
           git config user.name "github-actions[bot]"
           git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
-          git add README.md data
+          git add -A
           git commit -m "Update listings $(date -u +%Y-%m-%d)"
           git pull --rebase --autostash
           git push
